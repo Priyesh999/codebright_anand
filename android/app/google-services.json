@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "608300012364",
+    "project_id": "digigyan-f9890",
+    "storage_bucket": "digigyan-f9890.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:608300012364:android:3821edb3798300ae3475e9",
+        "android_client_info": {
+          "package_name": "com.cbtpri.digigyan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "608300012364-0933cj2as0b2q4rbsacaskmm2g6a7ohu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKJNUeMxZmoSQ6w8HWqVjFvWQOHPGA9uc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "608300012364-0933cj2as0b2q4rbsacaskmm2g6a7ohu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

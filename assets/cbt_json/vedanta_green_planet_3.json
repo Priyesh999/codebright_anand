@@ -1,0 +1,3195 @@
+{
+    "STATUS": "SUCCESS",
+    "MESSAGE": "Message has been successfully send!!",
+    "TOTAL_COUNT": 0,
+    "DATA": {
+        "PR_BOOK_ID": 21,
+        "PR_CATEGORY": "Vedanta Books",
+        "PR_CLASS": "3rd",
+        "PR_SUBJECT": "EVS",
+        "PR_NAME": "EVS-3",
+        "PR_CODE": "1506",
+        "PR_ICON": "/media/default-img.png",
+        "PR_DESCRIPTION": "",
+        "PR_CHAPTERS": [
+            {
+                "PR_CHAPTER_ID": 380,
+                "PR_NAME": "Knowing About Human Body",
+                "PR_CODE": "6572",
+                "PR_ICON": "/media/default-img.png",
+                "PR_DESCRIPTION": "",
+                "PR_QUESTION_TYPE": [
+                    {
+                        "PR_QUESTION_TYPE_ID": 1,
+                        "PR_NAME": "FILL IN THE BLANK",
+                        "PR_CODE": "7141",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 2,
+                        "PR_NAME": "CIRCLE THE FOLLOWING",
+                        "PR_CODE": "5055",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 3,
+                        "PR_NAME": "UNDERLINE THE FOLLOWING",
+                        "PR_CODE": "6607",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 4,
+                        "PR_NAME": "TRUE AND FALSE",
+                        "PR_CODE": "1879",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 5,
+                        "PR_NAME": "MATCH THE FOLLOWING",
+                        "PR_CODE": "7968",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 6,
+                        "PR_NAME": "MULTIPLE CHOICE QUESTIONS",
+                        "PR_CODE": "3834",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": [
+                            {
+                                "PR_QUESTION": "Human body is a __________________ machine.",
+                                "PR_DESCRIPTION": "write the correct answer. (MCQs)",
+                                "PR_FIRST_OPTION": "a. new",
+                                "PR_SECOND_OPTION": "b. wonderful",
+                                "PR_THIRD_OPTION": "c. sharp",
+                                "PR_FOURTH_OPTION": "d. bad",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "(b) wonderful"
+                            },
+                            {
+                                "PR_QUESTION": "Trunk and __________________ are external parts of our body.",
+                                "PR_DESCRIPTION": "write the correct answer. (MCQs)",
+                                "PR_FIRST_OPTION": "a. lungs",
+                                "PR_SECOND_OPTION": "b. stomach",
+                                "PR_THIRD_OPTION": "c. heart",
+                                "PR_FOURTH_OPTION": "d. neck",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "(d) neck"
+                            },
+                            {
+                                "PR_QUESTION": "We can click the photos with our __________________ .",
+                                "PR_DESCRIPTION": "write the correct answer. (MCQs)",
+                                "PR_FIRST_OPTION": "a. legs",
+                                "PR_SECOND_OPTION": "b. hands",
+                                "PR_THIRD_OPTION": "c. brain",
+                                "PR_FOURTH_OPTION": "d. nose",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "(b) hands"
+                            },
+                            {
+                                "PR_QUESTION": "We taste different types of avours with our __________________ .",
+                                "PR_DESCRIPTION": "write the correct answer. (MCQs)",
+                                "PR_FIRST_OPTION": "a. eyes",
+                                "PR_SECOND_OPTION": "b. nose",
+                                "PR_THIRD_OPTION": "c. tongue",
+                                "PR_FOURTH_OPTION": "d. ears",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "(b) nose"
+                            },
+                            {
+                                "PR_QUESTION": "Tongue also helps us to __________________ .",
+                                "PR_DESCRIPTION": "write the correct answer. (MCQs)",
+                                "PR_FIRST_OPTION": "a. smell",
+                                "PR_SECOND_OPTION": "b. walk",
+                                "PR_THIRD_OPTION": "c. speak",
+                                "PR_FOURTH_OPTION": "d. write",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "(c) speak"
+                            }
+                        ]
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 7,
+                        "PR_NAME": "SHORT ANSWER TYPE QUESTIONS",
+                        "PR_CODE": "9387",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": [
+                            {
+                                "PR_QUESTION": "What are external and internal parts of our body?",
+                                "PR_DESCRIPTION": "Answer the following questions.",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "Our head, neck, trunk, two arms and two legs are the external parts of our body. Internal parts of human body are those which we cannot see, such as brain, heart, lungs, stomach, etc."
+                            },
+                            {
+                                "PR_QUESTION": "What is the role of eyes in our body?",
+                                "PR_DESCRIPTION": "Answer the following questions.",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "Our eyes are the sense of sight. They enable us to see everything around us. We can read books and watch movies."
+                            },
+                            {
+                                "PR_QUESTION": "Our hands are very important. What do they do?",
+                                "PR_DESCRIPTION": "Answer the following questions.",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "• We can write with our hands. • We can throw the ball with our hands • We can eat food with our hands. • We can click the photos with our hands."
+                            },
+                            {
+                                "PR_QUESTION": "How is our nose useful to us?",
+                                "PR_DESCRIPTION": "Answer the following questions.",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "Our nose is the sense of smell_x0002_we smell various fragrances with it. It helps us to breathe. It sends messages to our brain that tell us whether a smell is pleasant or unpleasant."
+                            },
+                            {
+                                "PR_QUESTION": "What are two most important things we do with our tongue?",
+                                "PR_DESCRIPTION": "Answer the following questions.",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "Two most important things we do with our tongue are : 1 Knowing About Human Body EVS-3 (i) We taste various flavours like banana, milk, burger, chocolates, etc. (ii) Our tongue also helps us to speak."
+                            }
+                        ]
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 8,
+                        "PR_NAME": "LONG ANSWER TYPE QUESTIONS",
+                        "PR_CODE": "3169",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 9,
+                        "PR_NAME": "MISCELLANEOUS",
+                        "PR_CODE": "9371",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 10,
+                        "PR_NAME": "WRITE TRUE OR FALSE",
+                        "PR_CODE": "8978",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": null,
+                        "PR_QUESTIONS": []
+                    }
+                ]
+            },
+            {
+                "PR_CHAPTER_ID": 381,
+                "PR_NAME": "A Family",
+                "PR_CODE": "5305",
+                "PR_ICON": "/media/default-img.png",
+                "PR_DESCRIPTION": "",
+                "PR_QUESTION_TYPE": [
+                    {
+                        "PR_QUESTION_TYPE_ID": 1,
+                        "PR_NAME": "FILL IN THE BLANK",
+                        "PR_CODE": "7141",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 2,
+                        "PR_NAME": "CIRCLE THE FOLLOWING",
+                        "PR_CODE": "5055",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 3,
+                        "PR_NAME": "UNDERLINE THE FOLLOWING",
+                        "PR_CODE": "6607",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 4,
+                        "PR_NAME": "TRUE AND FALSE",
+                        "PR_CODE": "1879",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 5,
+                        "PR_NAME": "MATCH THE FOLLOWING",
+                        "PR_CODE": "7968",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 6,
+                        "PR_NAME": "MULTIPLE CHOICE QUESTIONS",
+                        "PR_CODE": "3834",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": [
+                            {
+                                "PR_QUESTION": "Which family has father, mother and their children?",
+                                "PR_DESCRIPTION": "write the correct answer. (MCQs)",
+                                "PR_FIRST_OPTION": "a. nuclear",
+                                "PR_SECOND_OPTION": "b. joint",
+                                "PR_THIRD_OPTION": "c. large",
+                                "PR_FOURTH_OPTION": "d. small",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "(a) nuclear"
+                            },
+                            {
+                                "PR_QUESTION": "The __________________ love their children a lot.",
+                                "PR_DESCRIPTION": "write the correct answer. (MCQs)",
+                                "PR_FIRST_OPTION": "a. grandparents",
+                                "PR_SECOND_OPTION": "b. family",
+                                "PR_THIRD_OPTION": "c. parents",
+                                "PR_FOURTH_OPTION": "d. none of them",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "(c) parents"
+                            },
+                            {
+                                "PR_QUESTION": "A nuclear family is also called a __________________ family.",
+                                "PR_DESCRIPTION": "write the correct answer. (MCQs)",
+                                "PR_FIRST_OPTION": "a. small",
+                                "PR_SECOND_OPTION": "b. same",
+                                "PR_THIRD_OPTION": "c. large",
+                                "PR_FOURTH_OPTION": "d. medium",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "(a) small"
+                            },
+                            {
+                                "PR_QUESTION": "Most of us have free time on __________________ and other holidays.",
+                                "PR_DESCRIPTION": "write the correct answer. (MCQs)",
+                                "PR_FIRST_OPTION": "a. Sundays",
+                                "PR_SECOND_OPTION": "b. Saturday",
+                                "PR_THIRD_OPTION": "c. Tuesday",
+                                "PR_FOURTH_OPTION": "d. Monday",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "(a) Sundays"
+                            },
+                            {
+                                "PR_QUESTION": "We can watch __________________ with our family.",
+                                "PR_DESCRIPTION": "write the correct answer. (MCQs)",
+                                "PR_FIRST_OPTION": "a. television",
+                                "PR_SECOND_OPTION": "b. radio",
+                                "PR_THIRD_OPTION": "c. newspaper",
+                                "PR_FOURTH_OPTION": "d. fight",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "(a) newspaper"
+                            }
+                        ]
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 7,
+                        "PR_NAME": "SHORT ANSWER TYPE QUESTIONS",
+                        "PR_CODE": "9387",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 8,
+                        "PR_NAME": "LONG ANSWER TYPE QUESTIONS",
+                        "PR_CODE": "3169",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": [
+                            {
+                                "PR_QUESTION": "Explain the term ‘family’ briefly.",
+                                "PR_DESCRIPTION": "Answer the following questions.",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "A group of people who are related to one antoher and live together is known as a family."
+                            },
+                            {
+                                "PR_QUESTION": "How many members are there in a small nuclear family",
+                                "PR_DESCRIPTION": "Answer the following questions.",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "A small nuclear family consists of father, mother and their one or two children."
+                            },
+                            {
+                                "PR_QUESTION": "Differentiate between a nuclear family and a joint family?",
+                                "PR_DESCRIPTION": "Answer the following questions.",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "The difference between nuclear family and joint family is that a nuclear family is one which consists of father, mother and their children, whereas a joint family is one which consists of father, mother, their children, grandparents, uncles, aunts and cousins."
+                            },
+                            {
+                                "PR_QUESTION": "What is importance of parents in family?",
+                                "PR_DESCRIPTION": "Answer the following questions.",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "Parents are very important in a family for the following reasons : (i) Parents love their children a lot. (ii) They spend time with children. (iii) They teach their children about sharing and caring. (iv) They provide all the facilities to the children. (v) They keep the house clean and maintain it. (vi) They care for the children. (vii)They take resposibility of all the financial matters."
+                            },
+                            {
+                                "PR_QUESTION": "What do you mean by recreation at home?",
+                                "PR_DESCRIPTION": "Answer the following questions.",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "The activities which we do with our family to relax and enjoy ourselves on Sundays and other holidays is recreation at home. e.g. watching television with family, playing indoor games with siblings and going on vacations with the family."
+                            }
+                        ]
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 9,
+                        "PR_NAME": "MISCELLANEOUS",
+                        "PR_CODE": "9371",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 10,
+                        "PR_NAME": "WRITE TRUE OR FALSE",
+                        "PR_CODE": "8978",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": null,
+                        "PR_QUESTIONS": []
+                    }
+                ]
+            },
+            {
+                "PR_CHAPTER_ID": 382,
+                "PR_NAME": "Joy of Caring for Others",
+                "PR_CODE": "2837",
+                "PR_ICON": "/media/default-img.png",
+                "PR_DESCRIPTION": "",
+                "PR_QUESTION_TYPE": [
+                    {
+                        "PR_QUESTION_TYPE_ID": 1,
+                        "PR_NAME": "FILL IN THE BLANK",
+                        "PR_CODE": "7141",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 2,
+                        "PR_NAME": "CIRCLE THE FOLLOWING",
+                        "PR_CODE": "5055",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 3,
+                        "PR_NAME": "UNDERLINE THE FOLLOWING",
+                        "PR_CODE": "6607",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 4,
+                        "PR_NAME": "TRUE AND FALSE",
+                        "PR_CODE": "1879",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 5,
+                        "PR_NAME": "MATCH THE FOLLOWING",
+                        "PR_CODE": "7968",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 6,
+                        "PR_NAME": "MULTIPLE CHOICE QUESTIONS",
+                        "PR_CODE": "3834",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": [
+                            {
+                                "PR_QUESTION": "The old people are usually not __________________ enough.",
+                                "PR_DESCRIPTION": "write the correct answer. (MCQs)",
+                                "PR_FIRST_OPTION": "a. strong",
+                                "PR_SECOND_OPTION": "b. weak",
+                                "PR_THIRD_OPTION": "c. healthy",
+                                "PR_FOURTH_OPTION": "d. fit",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "(a) strong"
+                            },
+                            {
+                                "PR_QUESTION": "Often many people become __________________ due to illness.",
+                                "PR_DESCRIPTION": "write the correct answer. (MCQs)",
+                                "PR_FIRST_OPTION": "a. old",
+                                "PR_SECOND_OPTION": "b. blind",
+                                "PR_THIRD_OPTION": "c. famous",
+                                "PR_FOURTH_OPTION": "d. sick",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "(d) sick"
+                            },
+                            {
+                                "PR_QUESTION": "The ________________ people may not be able to see, hear or walk properly.",
+                                "PR_DESCRIPTION": "write the correct answer. (MCQs)",
+                                "PR_FIRST_OPTION": "a. old",
+                                "PR_SECOND_OPTION": "b. children",
+                                "PR_THIRD_OPTION": "c. young",
+                                "PR_FOURTH_OPTION": "d. handicapped",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "(a) old"
+                            }
+                        ]
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 7,
+                        "PR_NAME": "SHORT ANSWER TYPE QUESTIONS",
+                        "PR_CODE": "9387",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": [
+                            {
+                                "PR_QUESTION": "Why are some old people unable to see, hear and walk?",
+                                "PR_DESCRIPTION": "Answer the following questions.",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "Some old people are not able to see, hear and walk because they are not strong enough. Their body becomes weak due to old age."
+                            },
+                            {
+                                "PR_QUESTION": "What are the nursing homes?",
+                                "PR_DESCRIPTION": "Answer the following questions.",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "Nursing homes are those places where elderly people stay, depending on the kind of care they need."
+                            },
+                            {
+                                "PR_QUESTION": "How are physically challenged people different from others?",
+                                "PR_DESCRIPTION": "Answer the following questions.",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "Physically handicapped people possess special characteristics. Some of them cannot see, some can't hear, some can't walk or speak. Some of them don't understand anything. They live and do the things that we do but in a different way. e.g. Blind people use Braille for reading."
+                            }
+                        ]
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 8,
+                        "PR_NAME": "LONG ANSWER TYPE QUESTIONS",
+                        "PR_CODE": "3169",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": [
+                            {
+                                "PR_QUESTION": "Briefly explain Braille script.",
+                                "PR_DESCRIPTION": "Answer the following questions.",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "Braille script is a kind of special writing with raised dots. It is used by the blind people for reading. They feel the raised letters with the help of their fingers on the paper and read."
+                            }
+                        ]
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 9,
+                        "PR_NAME": "MISCELLANEOUS",
+                        "PR_CODE": "9371",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 10,
+                        "PR_NAME": "WRITE TRUE OR FALSE",
+                        "PR_CODE": "8978",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": null,
+                        "PR_QUESTIONS": []
+                    }
+                ]
+            },
+            {
+                "PR_CHAPTER_ID": 383,
+                "PR_NAME": "World of Plants",
+                "PR_CODE": "4831",
+                "PR_ICON": "/media/default-img.png",
+                "PR_DESCRIPTION": "",
+                "PR_QUESTION_TYPE": [
+                    {
+                        "PR_QUESTION_TYPE_ID": 1,
+                        "PR_NAME": "FILL IN THE BLANK",
+                        "PR_CODE": "7141",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 2,
+                        "PR_NAME": "CIRCLE THE FOLLOWING",
+                        "PR_CODE": "5055",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 3,
+                        "PR_NAME": "UNDERLINE THE FOLLOWING",
+                        "PR_CODE": "6607",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 4,
+                        "PR_NAME": "TRUE AND FALSE",
+                        "PR_CODE": "1879",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 5,
+                        "PR_NAME": "MATCH THE FOLLOWING",
+                        "PR_CODE": "7968",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 6,
+                        "PR_NAME": "MULTIPLE CHOICE QUESTIONS",
+                        "PR_CODE": "3834",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": [
+                            {
+                                "PR_QUESTION": "What do we see around us?",
+                                "PR_DESCRIPTION": "write the correct answer. (MCQs)",
+                                "PR_FIRST_OPTION": "a. plants",
+                                "PR_SECOND_OPTION": "b. water",
+                                "PR_THIRD_OPTION": "c. soil",
+                                "PR_FOURTH_OPTION": "d. air",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "(a) plants"
+                            },
+                            {
+                                "PR_QUESTION": "Leaves are a source of __________________ .",
+                                "PR_DESCRIPTION": "write the correct answer. (MCQs)",
+                                "PR_FIRST_OPTION": "a. oxygen",
+                                "PR_SECOND_OPTION": "b. colour",
+                                "PR_THIRD_OPTION": "c. breathing",
+                                "PR_FOURTH_OPTION": "d. gas",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "(a) oxygen"
+                            },
+                            {
+                                "PR_QUESTION": "A tree has a __________________ brown stem called a trunk.",
+                                "PR_DESCRIPTION": "write the correct answer. (MCQs)",
+                                "PR_FIRST_OPTION": "a. thick",
+                                "PR_SECOND_OPTION": "b. thin",
+                                "PR_THIRD_OPTION": "c. straight",
+                                "PR_FOURTH_OPTION": "d. tall",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "(a) thick"
+                            },
+                            {
+                                "PR_QUESTION": "Leaves are known as the food making factories of __________________plants.",
+                                "PR_DESCRIPTION": "write the correct answer. (MCQs)",
+                                "PR_FIRST_OPTION": "a. yellow",
+                                "PR_SECOND_OPTION": "b. green",
+                                "PR_THIRD_OPTION": "c. brown",
+                                "PR_FOURTH_OPTION": "d. red",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "(b) green"
+                            },
+                            {
+                                "PR_QUESTION": "Creepers spread horizontally along the __________________ .",
+                                "PR_DESCRIPTION": "write the correct answer. (MCQs)",
+                                "PR_FIRST_OPTION": "a. air",
+                                "PR_SECOND_OPTION": "b. water",
+                                "PR_THIRD_OPTION": "c. soil",
+                                "PR_FOURTH_OPTION": "d. all of them",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "(c) soil"
+                            }
+                        ]
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 7,
+                        "PR_NAME": "SHORT ANSWER TYPE QUESTIONS",
+                        "PR_CODE": "9387",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": [
+                            {
+                                "PR_QUESTION": "Define the term trees.",
+                                "PR_DESCRIPTION": "Answer the following questions.",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "Very big and strong plants are known as trees."
+                            },
+                            {
+                                "PR_QUESTION": "What do you mean by aquatic plants?",
+                                "PR_DESCRIPTION": "Answer the following questions.",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "Aquatic plants are those plants which are adapted to grow in water. e.g. lotus and hydrilla."
+                            },
+                            {
+                                "PR_QUESTION": "Give an example of: creeper, herb and shrub.",
+                                "PR_DESCRIPTION": "Answer the following questions.",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "Creeper - Pumpkins , Herb - Mint, Shrub - Jasmine"
+                            },
+                            {
+                                "PR_QUESTION": "What is photosynthesis?",
+                                "PR_DESCRIPTION": "Answer the following questions.",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "The method used by green plants to make their food using sunlight is known as photosynthesis."
+                            },
+                            {
+                                "PR_QUESTION": "Write two uses of leaves.",
+                                "PR_DESCRIPTION": "Answer the following questions.",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "Two uses of leaves are : (a) They are a source of oxygen_x0002_Oxygen is produced through transpiration. (b) They also help to prepare disposable food containers."
+                            }
+                        ]
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 8,
+                        "PR_NAME": "LONG ANSWER TYPE QUESTIONS",
+                        "PR_CODE": "3169",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 9,
+                        "PR_NAME": "MISCELLANEOUS",
+                        "PR_CODE": "9371",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 10,
+                        "PR_NAME": "WRITE TRUE OR FALSE",
+                        "PR_CODE": "8978",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": null,
+                        "PR_QUESTIONS": []
+                    }
+                ]
+            },
+            {
+                "PR_CHAPTER_ID": 384,
+                "PR_NAME": "World of Animals",
+                "PR_CODE": "8682",
+                "PR_ICON": "/media/default-img.png",
+                "PR_DESCRIPTION": "",
+                "PR_QUESTION_TYPE": [
+                    {
+                        "PR_QUESTION_TYPE_ID": 1,
+                        "PR_NAME": "FILL IN THE BLANK",
+                        "PR_CODE": "7141",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 2,
+                        "PR_NAME": "CIRCLE THE FOLLOWING",
+                        "PR_CODE": "5055",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 3,
+                        "PR_NAME": "UNDERLINE THE FOLLOWING",
+                        "PR_CODE": "6607",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 4,
+                        "PR_NAME": "TRUE AND FALSE",
+                        "PR_CODE": "1879",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 5,
+                        "PR_NAME": "MATCH THE FOLLOWING",
+                        "PR_CODE": "7968",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 6,
+                        "PR_NAME": "MULTIPLE CHOICE QUESTIONS",
+                        "PR_CODE": "3834",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": [
+                            {
+                                "PR_QUESTION": "We see animals all over the __________________.",
+                                "PR_DESCRIPTION": "write the correct answer. (MCQs)",
+                                "PR_FIRST_OPTION": "a. world",
+                                "PR_SECOND_OPTION": "b. sea",
+                                "PR_THIRD_OPTION": "c. earth",
+                                "PR_FOURTH_OPTION": "d. forest",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "(a) world"
+                            },
+                            {
+                                "PR_QUESTION": "Wild animals live in __________________.",
+                                "PR_DESCRIPTION": "write the correct answer. (MCQs)",
+                                "PR_FIRST_OPTION": "a. fields",
+                                "PR_SECOND_OPTION": "b. zoos",
+                                "PR_THIRD_OPTION": "c. water",
+                                "PR_FOURTH_OPTION": "d. jungles",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "(d) jungles"
+                            },
+                            {
+                                "PR_QUESTION": "Most farm animals are __________________ animals.",
+                                "PR_DESCRIPTION": "write the correct answer. (MCQs)",
+                                "PR_FIRST_OPTION": "a. wild",
+                                "PR_SECOND_OPTION": "b. domestic",
+                                "PR_THIRD_OPTION": "c. pet",
+                                "PR_FOURTH_OPTION": "d. small",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "(b) domestic"
+                            },
+                            {
+                                "PR_QUESTION": "We should not __________________ the animals.",
+                                "PR_DESCRIPTION": "write the correct answer. (MCQs)",
+                                "PR_FIRST_OPTION": "a. care",
+                                "PR_SECOND_OPTION": "b. freeze",
+                                "PR_THIRD_OPTION": "c. pick",
+                                "PR_FOURTH_OPTION": "d. tease",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "(d) tease"
+                            },
+                            {
+                                "PR_QUESTION": "An owl lives on a __________________.",
+                                "PR_DESCRIPTION": "write the correct answer. (MCQs)",
+                                "PR_FIRST_OPTION": "a. water",
+                                "PR_SECOND_OPTION": "b. pond",
+                                "PR_THIRD_OPTION": "c. hole in a tree",
+                                "PR_FOURTH_OPTION": "d. den",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "(c) hole in a tree"
+                            }
+                        ]
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 7,
+                        "PR_NAME": "SHORT ANSWER TYPE QUESTIONS",
+                        "PR_CODE": "9387",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": [
+                            {
+                                "PR_QUESTION": "Dene wild animals.",
+                                "PR_DESCRIPTION": "Answer the following questions.",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "Wild animals are those animals which live in jungles. e.g. tigers, zebras etc."
+                            },
+                            {
+                                "PR_QUESTION": "Write about domestic animals.",
+                                "PR_DESCRIPTION": "Answer the following questions.",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "Domestic animals are those animals whom we keep in our homes. They are also known as pet animals or tamed animals. e.g. dogs, cats, parrots, cows, goats etc."
+                            },
+                            {
+                                "PR_QUESTION": "Where do animals live?",
+                                "PR_DESCRIPTION": "Answer the following questions.",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "Different animals live at different places. Wild animals live in jungles. Farm animals live in farms. Pet animals live in the homes of human beings. Some animals live on land, some in water, and some live on the trees."
+                            },
+                            {
+                                "PR_QUESTION": "Give differences between herbivorous and carnivorous animals.",
+                                "PR_DESCRIPTION": "Answer the following questions.",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "Difference between herbivorous and carnivorous animals is that the herbivorous animals eat only 6 World of Animals plants, grasses, leaves etc. e.g. deers and horses, whereas carnivorous animals eat only jlesh of other animals e.g. lings and snakes animals."
+                            },
+                            {
+                                "PR_QUESTION": "How do certain animals make movement?",
+                                "PR_DESCRIPTION": "Answer the following questions.",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "Animals move in different ways because they have various kinds of bodies e.g. Dogs and tigers run and walk on four legs. Snakes and tortoise crawl on earth and fishes and crabs swim in water using their fins and legs."
+                            }
+                        ]
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 8,
+                        "PR_NAME": "LONG ANSWER TYPE QUESTIONS",
+                        "PR_CODE": "3169",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 9,
+                        "PR_NAME": "MISCELLANEOUS",
+                        "PR_CODE": "9371",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 10,
+                        "PR_NAME": "WRITE TRUE OR FALSE",
+                        "PR_CODE": "8978",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": null,
+                        "PR_QUESTIONS": []
+                    }
+                ]
+            },
+            {
+                "PR_CHAPTER_ID": 385,
+                "PR_NAME": "Knowing About Birds and Insects",
+                "PR_CODE": "5226",
+                "PR_ICON": "/media/default-img.png",
+                "PR_DESCRIPTION": "",
+                "PR_QUESTION_TYPE": [
+                    {
+                        "PR_QUESTION_TYPE_ID": 1,
+                        "PR_NAME": "FILL IN THE BLANK",
+                        "PR_CODE": "7141",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 2,
+                        "PR_NAME": "CIRCLE THE FOLLOWING",
+                        "PR_CODE": "5055",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 3,
+                        "PR_NAME": "UNDERLINE THE FOLLOWING",
+                        "PR_CODE": "6607",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 4,
+                        "PR_NAME": "TRUE AND FALSE",
+                        "PR_CODE": "1879",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 5,
+                        "PR_NAME": "MATCH THE FOLLOWING",
+                        "PR_CODE": "7968",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 6,
+                        "PR_NAME": "MULTIPLE CHOICE QUESTIONS",
+                        "PR_CODE": "3834",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": [
+                            {
+                                "PR_QUESTION": "Insects are __________________ animals.",
+                                "PR_DESCRIPTION": "write the correct answer. (MCQs)",
+                                "PR_FIRST_OPTION": "a. small",
+                                "PR_SECOND_OPTION": "b. weak",
+                                "PR_THIRD_OPTION": "c. big",
+                                "PR_FOURTH_OPTION": "d. strong",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "(a) small"
+                            },
+                            {
+                                "PR_QUESTION": "Birds cannot bite or chew their food because they have no ________________ .",
+                                "PR_DESCRIPTION": "write the correct answer. (MCQs)",
+                                "PR_FIRST_OPTION": "a teeth",
+                                "PR_SECOND_OPTION": "b. beak",
+                                "PR_THIRD_OPTION": "c. wings",
+                                "PR_FOURTH_OPTION": "d. feelers",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "(a) teeth"
+                            },
+                            {
+                                "PR_QUESTION": "The __________________ prepares honey from the pollen of flowers.",
+                                "PR_DESCRIPTION": "write the correct answer. (MCQs)",
+                                "PR_FIRST_OPTION": "a. honeybees",
+                                "PR_SECOND_OPTION": "b. parrot",
+                                "PR_THIRD_OPTION": "c. crow",
+                                "PR_FOURTH_OPTION": "d. cricket",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "(a) honeybees"
+                            },
+                            {
+                                "PR_QUESTION": "Insects feel and smell with __________________ .",
+                                "PR_DESCRIPTION": "write the correct answer. (MCQs)",
+                                "PR_FIRST_OPTION": "a. antennae",
+                                "PR_SECOND_OPTION": "b. feelers",
+                                "PR_THIRD_OPTION": "c. legs",
+                                "PR_FOURTH_OPTION": "d. nose",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "(b) feelers"
+                            },
+                            {
+                                "PR_QUESTION": "A tailor bird __________________ leaves to makes its nest.",
+                                "PR_DESCRIPTION": "write the correct answer. (MCQs)",
+                                "PR_FIRST_OPTION": "a. sews",
+                                "PR_SECOND_OPTION": "b. draws",
+                                "PR_THIRD_OPTION": "c. pastes",
+                                "PR_FOURTH_OPTION": "d. collects",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "(a) sews"
+                            }
+                        ]
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 7,
+                        "PR_NAME": "SHORT ANSWER TYPE QUESTIONS",
+                        "PR_CODE": "9387",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 8,
+                        "PR_NAME": "LONG ANSWER TYPE QUESTIONS",
+                        "PR_CODE": "3169",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": [
+                            {
+                                "PR_QUESTION": "Write the names of different types of birds around us.",
+                                "PR_DESCRIPTION": "Answer the following questions.",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "Different types of birds around us include parrots, sparrows, crows, pigeons, peacocks, ducks etc."
+                            },
+                            {
+                                "PR_QUESTION": "What is the colour of the beetles? How are their front wings useful to them?",
+                                "PR_DESCRIPTION": "Answer the following questions.",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "Beetles can be brown or black in colour. Their front wings change into a hard shell to protect the back wings."
+                            },
+                            {
+                                "PR_QUESTION": "Describe about cockroaches and mosquitoes.",
+                                "PR_DESCRIPTION": "Answer the following questions.",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "Cockroaches move in and out of drains and carry a lot of dirt. Mosquitoes breed in standing water and swamps. They feed on blood. Denque-fever carrying mosquitoes bite during the day."
+                            },
+                            {
+                                "PR_QUESTION": "Dene the term- social insects?",
+                                "PR_DESCRIPTION": "Answer the following questions.",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "Social insects are those insects who exhibit social behaviours, such as aggregating in large numbers at time. e.g. bees, wasps and ants."
+                            },
+                            {
+                                "PR_QUESTION": "How are social insects useful for human beings?",
+                                "PR_DESCRIPTION": "Answer the following questions.",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "Social insects are useful for the human beings in the following ways : (i) Honeybees provide us honey. (ii) We get silk from silkworms."
+                            }
+                        ]
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 9,
+                        "PR_NAME": "MISCELLANEOUS",
+                        "PR_CODE": "9371",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 10,
+                        "PR_NAME": "WRITE TRUE OR FALSE",
+                        "PR_CODE": "8978",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": null,
+                        "PR_QUESTIONS": []
+                    }
+                ]
+            },
+            {
+                "PR_CHAPTER_ID": 386,
+                "PR_NAME": "Food We Eat",
+                "PR_CODE": "6670",
+                "PR_ICON": "/media/default-img.png",
+                "PR_DESCRIPTION": "",
+                "PR_QUESTION_TYPE": [
+                    {
+                        "PR_QUESTION_TYPE_ID": 1,
+                        "PR_NAME": "FILL IN THE BLANK",
+                        "PR_CODE": "7141",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 2,
+                        "PR_NAME": "CIRCLE THE FOLLOWING",
+                        "PR_CODE": "5055",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 3,
+                        "PR_NAME": "UNDERLINE THE FOLLOWING",
+                        "PR_CODE": "6607",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 4,
+                        "PR_NAME": "TRUE AND FALSE",
+                        "PR_CODE": "1879",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 5,
+                        "PR_NAME": "MATCH THE FOLLOWING",
+                        "PR_CODE": "7968",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 6,
+                        "PR_NAME": "MULTIPLE CHOICE QUESTIONS",
+                        "PR_CODE": "3834",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": [
+                            {
+                                "PR_QUESTION": "All of us eat food everyday to stay ___________.",
+                                "PR_DESCRIPTION": "write the correct answer. (MCQs)",
+                                "PR_FIRST_OPTION": "a. sad",
+                                "PR_SECOND_OPTION": "b. happy",
+                                "PR_THIRD_OPTION": "c. lazy",
+                                "PR_FOURTH_OPTION": "d. alive",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "(d) alive"
+                            },
+                            {
+                                "PR_QUESTION": "__________________ foods is of no use to us.",
+                                "PR_DESCRIPTION": "write the correct answer. (MCQs)",
+                                "PR_FIRST_OPTION": "a. Liquid",
+                                "PR_SECOND_OPTION": "b. Protective",
+                                "PR_THIRD_OPTION": "c. Junk",
+                                "PR_FOURTH_OPTION": "d. Energy-giving",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "(c) junk"
+                            },
+                            {
+                                "PR_QUESTION": "People doing physical work need more __________________ foods.",
+                                "PR_DESCRIPTION": "write the correct answer. (MCQs)",
+                                "PR_FIRST_OPTION": "a. body-building",
+                                "PR_SECOND_OPTION": "b. energy-giving",
+                                "PR_THIRD_OPTION": "c. protective",
+                                "PR_FOURTH_OPTION": "d. junk",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "(b) energy-giving"
+                            },
+                            {
+                                "PR_QUESTION": "A diet which does not contain sufficient __________________ can lead to many different health issues.",
+                                "PR_DESCRIPTION": "write the correct answer. (MCQs)",
+                                "PR_FIRST_OPTION": "a. sand",
+                                "PR_SECOND_OPTION": "b. water",
+                                "PR_THIRD_OPTION": "c. nutrients",
+                                "PR_FOURTH_OPTION": "d. air",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "(c) nutrients"
+                            },
+                            {
+                                "PR_QUESTION": "__________________ is the last meal of the day.",
+                                "PR_DESCRIPTION": "write the correct answer. (MCQs)",
+                                "PR_FIRST_OPTION": "a. Lunch",
+                                "PR_SECOND_OPTION": "b. Breakfast",
+                                "PR_THIRD_OPTION": "c. Dinner",
+                                "PR_FOURTH_OPTION": "d. snacks",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "(c) Dinner"
+                            }
+                        ]
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 7,
+                        "PR_NAME": "SHORT ANSWER TYPE QUESTIONS",
+                        "PR_CODE": "9387",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 8,
+                        "PR_NAME": "LONG ANSWER TYPE QUESTIONS",
+                        "PR_CODE": "3169",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": [
+                            {
+                                "PR_QUESTION": "List different types of foods that we eat.",
+                                "PR_DESCRIPTION": "Answer the following questions.",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "Different types of food that we eat are : (i) Energy- giving foods (a) with starch-rice, potato, wheat, sugar etc. (b) with fat- butter, ghee, eggs etc. (ii) Body - building foods - pulses, meat, fish, milk and milk products etc. (iii) Protective foods - fruits, vegetables, nuts, green leagy vegetables etc."
+                            },
+                            {
+                                "PR_QUESTION": "Define the role of fruits and vegetables for us?",
+                                "PR_DESCRIPTION": "Answer the following questions.",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "Fruits and vegetables are protective foods. They keep us safe from infections and diseases. They also keep us healthy and strong."
+                            },
+                            {
+                                "PR_QUESTION": "What is the difference between energy-giving and body-building foods?",
+                                "PR_DESCRIPTION": "Answer the following questions.",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "Energy - giving foods provide us energy to work and play. Body - building foods help us to grow. They make our muscles and blood and help the wounds to heal faster."
+                            },
+                            {
+                                "PR_QUESTION": "Define the term balanced diet?",
+                                "PR_DESCRIPTION": "Answer the following questions.",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "Balanced diet is one which contains the right amount of proteins, carbohydrates, fats, fibres, vitamins and minerals."
+                            },
+                            {
+                                "PR_QUESTION": "Why should we avoid junk foods?",
+                                "PR_DESCRIPTION": "Answer the following questions.",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "We should avoid junk food becauses they are of no use to us. They can harm our body and teeth. They do not have any nutrients."
+                            }
+                        ]
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 9,
+                        "PR_NAME": "MISCELLANEOUS",
+                        "PR_CODE": "9371",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 10,
+                        "PR_NAME": "WRITE TRUE OR FALSE",
+                        "PR_CODE": "8978",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": null,
+                        "PR_QUESTIONS": []
+                    }
+                ]
+            },
+            {
+                "PR_CHAPTER_ID": 387,
+                "PR_NAME": "People who help us",
+                "PR_CODE": "4137",
+                "PR_ICON": "/media/default-img.png",
+                "PR_DESCRIPTION": "",
+                "PR_QUESTION_TYPE": [
+                    {
+                        "PR_QUESTION_TYPE_ID": 1,
+                        "PR_NAME": "FILL IN THE BLANK",
+                        "PR_CODE": "7141",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 2,
+                        "PR_NAME": "CIRCLE THE FOLLOWING",
+                        "PR_CODE": "5055",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 3,
+                        "PR_NAME": "UNDERLINE THE FOLLOWING",
+                        "PR_CODE": "6607",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 4,
+                        "PR_NAME": "TRUE AND FALSE",
+                        "PR_CODE": "1879",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 5,
+                        "PR_NAME": "MATCH THE FOLLOWING",
+                        "PR_CODE": "7968",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 6,
+                        "PR_NAME": "MULTIPLE CHOICE QUESTIONS",
+                        "PR_CODE": "3834",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": [
+                            {
+                                "PR_QUESTION": "The broken shoes are mended by a __________________ .",
+                                "PR_DESCRIPTION": "write the correct answer. (MCQs)",
+                                "PR_FIRST_OPTION": "a. policeman",
+                                "PR_SECOND_OPTION": "b. washerman",
+                                "PR_THIRD_OPTION": "c. postman",
+                                "PR_FOURTH_OPTION": "d. cobbler",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "(d) cobbler"
+                            },
+                            {
+                                "PR_QUESTION": "A postman wears __________________ uniform.",
+                                "PR_DESCRIPTION": "write the correct answer. (MCQs)",
+                                "PR_FIRST_OPTION": "a. khaki",
+                                "PR_SECOND_OPTION": "b. white",
+                                "PR_THIRD_OPTION": "c. pink",
+                                "PR_FOURTH_OPTION": "d. green",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "(a) Khaki"
+                            },
+                            {
+                                "PR_QUESTION": "The __________________ cleans the streets outside our houses.",
+                                "PR_DESCRIPTION": "write the correct answer. (MCQs)",
+                                "PR_FIRST_OPTION": "a. sweeper",
+                                "PR_SECOND_OPTION": "b. teacher",
+                                "PR_THIRD_OPTION": "c. doctor",
+                                "PR_FOURTH_OPTION": "d. postman",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "(a) sweeper"
+                            },
+                            {
+                                "PR_QUESTION": "The doctors treat patients in the __________________ .",
+                                "PR_DESCRIPTION": "write the correct answer. (MCQs)",
+                                "PR_FIRST_OPTION": "a. police station",
+                                "PR_SECOND_OPTION": "b. school",
+                                "PR_THIRD_OPTION": "c. hospital",
+                                "PR_FOURTH_OPTION": "d. park",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "(c) hospital"
+                            },
+                            {
+                                "PR_QUESTION": "A postman brings __________________ and parcels for us.",
+                                "PR_DESCRIPTION": "write the correct answer. (MCQs)",
+                                "PR_FIRST_OPTION": "a. letters",
+                                "PR_SECOND_OPTION": "b. books",
+                                "PR_THIRD_OPTION": "c. pencils",
+                                "PR_FOURTH_OPTION": "d. toys",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "(a) letters"
+                            }
+                        ]
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 7,
+                        "PR_NAME": "SHORT ANSWER TYPE QUESTIONS",
+                        "PR_CODE": "9387",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": [
+                            {
+                                "PR_QUESTION": "What do you mean by an occupation?",
+                                "PR_DESCRIPTION": "Answer the following questions.",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "Occupation refers to any work done for earning money."
+                            },
+                            {
+                                "PR_QUESTION": "List any ve people who work outside for us.",
+                                "PR_DESCRIPTION": "Answer the following questions.",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "Five people who work outside for us are - washerman, barber farmers, carpenters and cobbler."
+                            },
+                            {
+                                "PR_QUESTION": "Who delivers fruits and vegetables at our doorstep?",
+                                "PR_DESCRIPTION": "Answer the following questions.",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "The greengrocer delivers fruits and vegetables at our doorstep."
+                            },
+                            {
+                                "PR_QUESTION": "How does a greengrocer sell his vegetables?",
+                                "PR_DESCRIPTION": "Answer the following questions.",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "A greengracer sells his vegetables by pushing his cart of fruits and vegetables from one place to another."
+                            },
+                            {
+                                "PR_QUESTION": "Dene the term child labour?",
+                                "PR_DESCRIPTION": "Answer the following questions.",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "Many children from poor families work in homes, factories, farms etc. to earn money. Sometimes, they pick rags, or make glass bangles or sells items on the streets. They work and live in unhealthy places. This is called child labour."
+                            }
+                        ]
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 8,
+                        "PR_NAME": "LONG ANSWER TYPE QUESTIONS",
+                        "PR_CODE": "3169",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 9,
+                        "PR_NAME": "MISCELLANEOUS",
+                        "PR_CODE": "9371",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 10,
+                        "PR_NAME": "WRITE TRUE OR FALSE",
+                        "PR_CODE": "8978",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": null,
+                        "PR_QUESTIONS": []
+                    }
+                ]
+            },
+            {
+                "PR_CHAPTER_ID": 388,
+                "PR_NAME": "Importance of Air",
+                "PR_CODE": "7763",
+                "PR_ICON": "/media/default-img.png",
+                "PR_DESCRIPTION": "",
+                "PR_QUESTION_TYPE": [
+                    {
+                        "PR_QUESTION_TYPE_ID": 1,
+                        "PR_NAME": "FILL IN THE BLANK",
+                        "PR_CODE": "7141",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 2,
+                        "PR_NAME": "CIRCLE THE FOLLOWING",
+                        "PR_CODE": "5055",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 3,
+                        "PR_NAME": "UNDERLINE THE FOLLOWING",
+                        "PR_CODE": "6607",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 4,
+                        "PR_NAME": "TRUE AND FALSE",
+                        "PR_CODE": "1879",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 5,
+                        "PR_NAME": "MATCH THE FOLLOWING",
+                        "PR_CODE": "7968",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 6,
+                        "PR_NAME": "MULTIPLE CHOICE QUESTIONS",
+                        "PR_CODE": "3834",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": [
+                            {
+                                "PR_QUESTION": "Air also contains __________________ .",
+                                "PR_DESCRIPTION": "write the correct option. (MCQs)",
+                                "PR_FIRST_OPTION": "a. plastics",
+                                "PR_SECOND_OPTION": "b. dust particles",
+                                "PR_THIRD_OPTION": "c. carbon",
+                                "PR_FOURTH_OPTION": "d. carbon dioxide",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "(b) dust particles"
+                            },
+                            {
+                                "PR_QUESTION": "We should __________________ trees.",
+                                "PR_DESCRIPTION": "write the correct option. (MCQs)",
+                                "PR_FIRST_OPTION": "a. plant",
+                                "PR_SECOND_OPTION": "b. cut",
+                                "PR_THIRD_OPTION": "c. grant",
+                                "PR_FOURTH_OPTION": "d. buy",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "(a) plant"
+                            },
+                            {
+                                "PR_QUESTION": "Pollution inside homes is known as __________________ air pollution.",
+                                "PR_DESCRIPTION": "write the correct option. (MCQs)",
+                                "PR_FIRST_OPTION": "a. outdoor",
+                                "PR_SECOND_OPTION": "b. indoor",
+                                "PR_THIRD_OPTION": "c. slow",
+                                "PR_FOURTH_OPTION": "d. none of these",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "(b) in door"
+                            },
+                            {
+                                "PR_QUESTION": "Smoking cigarettes and ________________ can be very dangerous for health.",
+                                "PR_DESCRIPTION": "write the correct option. (MCQs)",
+                                "PR_FIRST_OPTION": "a. tobacco",
+                                "PR_SECOND_OPTION": "b. vegetables",
+                                "PR_THIRD_OPTION": "c. fruits",
+                                "PR_FOURTH_OPTION": "d. pulses",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "(a) tobacco"
+                            },
+                            {
+                                "PR_QUESTION": "We should avoid bursting too many ________________ .",
+                                "PR_DESCRIPTION": "write the correct option. (MCQs)",
+                                "PR_FIRST_OPTION": "a. leaves",
+                                "PR_SECOND_OPTION": "b. clothes",
+                                "PR_THIRD_OPTION": "c. papers",
+                                "PR_FOURTH_OPTION": "d. crackers",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "(d) crackers"
+                            }
+                        ]
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 7,
+                        "PR_NAME": "SHORT ANSWER TYPE QUESTIONS",
+                        "PR_CODE": "9387",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 8,
+                        "PR_NAME": "LONG ANSWER TYPE QUESTIONS",
+                        "PR_CODE": "3169",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": [
+                            {
+                                "PR_QUESTION": "Write the importance of air.",
+                                "PR_DESCRIPTION": "Answer the following questions.",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "All living beings need air to live. They can survive without food for a few weeks and without water for a few days. But, they cannot live without air for more than a few minutes."
+                            },
+                            {
+                                "PR_QUESTION": "What do you mean by air?",
+                                "PR_DESCRIPTION": "Answer the following questions.",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "Air is a mixture of gases such as nitrogen, oxygen and carbon-di-oxide. Nitrogen gas forms most of the air."
+                            },
+                            {
+                                "PR_QUESTION": "What is air pollution?",
+                                "PR_DESCRIPTION": "Answer the following questions.",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "Air which contains lot of dust is harmful for us. It also contains smoke and poisonous gases. They make the air dirty. This is called air pollution."
+                            },
+                            {
+                                "PR_QUESTION": "How can we prevent air pollution?",
+                                "PR_DESCRIPTION": "Answer the following questions.",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "We can prevent air pollution by  keeping our surroundings, and the air around us clean. All factory and vehicle owners must make sure that they do not pollute the air."
+                            },
+                            {
+                                "PR_QUESTION": "What is outdoor air pollution? Write some examples.",
+                                "PR_DESCRIPTION": "Answer the following questions.",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "Outdoor pollution is caused by the burning of coal, oil and gas in power stations, industries, homes and vehicles. Outdoor pollution can also be caused by oxides of sulphur and nitrogen from volcanoes, oceans, biological decay, lightning and forest fires."
+                            }
+                        ]
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 9,
+                        "PR_NAME": "MISCELLANEOUS",
+                        "PR_CODE": "9371",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 10,
+                        "PR_NAME": "WRITE TRUE OR FALSE",
+                        "PR_CODE": "8978",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": null,
+                        "PR_QUESTIONS": []
+                    }
+                ]
+            },
+            {
+                "PR_CHAPTER_ID": 389,
+                "PR_NAME": "Water is Precious",
+                "PR_CODE": "4644",
+                "PR_ICON": "/media/default-img.png",
+                "PR_DESCRIPTION": "",
+                "PR_QUESTION_TYPE": [
+                    {
+                        "PR_QUESTION_TYPE_ID": 1,
+                        "PR_NAME": "FILL IN THE BLANK",
+                        "PR_CODE": "7141",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 2,
+                        "PR_NAME": "CIRCLE THE FOLLOWING",
+                        "PR_CODE": "5055",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 3,
+                        "PR_NAME": "UNDERLINE THE FOLLOWING",
+                        "PR_CODE": "6607",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 4,
+                        "PR_NAME": "TRUE AND FALSE",
+                        "PR_CODE": "1879",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 5,
+                        "PR_NAME": "MATCH THE FOLLOWING",
+                        "PR_CODE": "7968",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 6,
+                        "PR_NAME": "MULTIPLE CHOICE QUESTIONS",
+                        "PR_CODE": "3834",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": [
+                            {
+                                "PR_QUESTION": "All __________________ need water to live.",
+                                "PR_DESCRIPTION": "write the correct answer. (MCQs)",
+                                "PR_FIRST_OPTION": "a. people",
+                                "PR_SECOND_OPTION": "b. living beings",
+                                "PR_THIRD_OPTION": "c. plants",
+                                "PR_FOURTH_OPTION": "d. animals",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "(b) living beings"
+                            },
+                            {
+                                "PR_QUESTION": "Water exists in __________________ forms.",
+                                "PR_DESCRIPTION": "write the correct answer. (MCQs)",
+                                "PR_FIRST_OPTION": "a. two",
+                                "PR_SECOND_OPTION": "b. ve",
+                                "PR_THIRD_OPTION": "c. three",
+                                "PR_FOURTH_OPTION": "d. four",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "(c) three"
+                            },
+                            {
+                                "PR_QUESTION": "The water vapour rises into the __________________ .",
+                                "PR_DESCRIPTION": "write the correct answer. (MCQs)",
+                                "PR_FIRST_OPTION": "a. air",
+                                "PR_SECOND_OPTION": "b. soil",
+                                "PR_THIRD_OPTION": "c. water",
+                                "PR_FOURTH_OPTION": "d. roots",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "(a) air"
+                            },
+                            {
+                                "PR_QUESTION": "__________________ is the key source of water on the Earth.",
+                                "PR_DESCRIPTION": "write the correct answer. (MCQs)",
+                                "PR_FIRST_OPTION": "a. Ocean",
+                                "PR_SECOND_OPTION": "b. Lake",
+                                "PR_THIRD_OPTION": "c. River",
+                                "PR_FOURTH_OPTION": "d. Rainwater",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "(d) rainwater"
+                            },
+                            {
+                                "PR_QUESTION": "The water in our taps can be made safe for drinking by __________________ .",
+                                "PR_DESCRIPTION": "write the correct answer. (MCQs)",
+                                "PR_FIRST_OPTION": "a. pollination",
+                                "PR_SECOND_OPTION": "b. evaporation",
+                                "PR_THIRD_OPTION": "c. condensation",
+                                "PR_FOURTH_OPTION": "d. boiling",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "(d) boiling"
+                            }
+                        ]
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 7,
+                        "PR_NAME": "SHORT ANSWER TYPE QUESTIONS",
+                        "PR_CODE": "9387",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 8,
+                        "PR_NAME": "LONG ANSWER TYPE QUESTIONS",
+                        "PR_CODE": "3169",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": [
+                            {
+                                "PR_QUESTION": "Why is water important to us?",
+                                "PR_DESCRIPTION": "Answer the following questions.",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "All living beings need water to live. It is precious for all. We drink a lot of water everyday. It helps us to stay healthy. We also need water for cooking, bathing, washing cleaning and other purposes."
+                            },
+                            {
+                                "PR_QUESTION": "In how many forms does the water exist?",
+                                "PR_DESCRIPTION": "Answer the following questions.",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "Water exists in three forms : solid, liquid and gas. Ice and 13 Water is Precious snow are solid state of water. The usual form of water is liquid. It evaporates to turn into gas."
+                            },
+                            {
+                                "PR_QUESTION": "What is water cycle? Explain it with a neat diagram.",
+                                "PR_DESCRIPTION": "Answer the following questions.",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "When the sun shines on the water in rivers, seas, lakes, etc; it gets heated and turns into vapour. After this, water vapour rises into the air, where they gather as clouds. When the clouds become cool, the water vapour again turns into water and falls as rain on the Earth. This rainwater flows back into the springs, streams, rivers, lakes and the seas; and the cycle begins all over again. This whole process is called water cycle."
+                            },
+                            {
+                                "PR_QUESTION": "What is surface water?",
+                                "PR_DESCRIPTION": "Answer the following questions.",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "A large amount of rainwater flows into ponds, lakes and rivers. This is called the surface water."
+                            },
+                            {
+                                "PR_QUESTION": "How do villagers store water?",
+                                "PR_DESCRIPTION": "Answer the following questions.",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "Villagers store water in earthen pots and containers made of metals like copper or brass."
+                            }
+                        ]
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 9,
+                        "PR_NAME": "MISCELLANEOUS",
+                        "PR_CODE": "9371",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 10,
+                        "PR_NAME": "WRITE TRUE OR FALSE",
+                        "PR_CODE": "8978",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": null,
+                        "PR_QUESTIONS": []
+                    }
+                ]
+            },
+            {
+                "PR_CHAPTER_ID": 390,
+                "PR_NAME": "Means of Transport",
+                "PR_CODE": "4378",
+                "PR_ICON": "/media/default-img.png",
+                "PR_DESCRIPTION": "",
+                "PR_QUESTION_TYPE": [
+                    {
+                        "PR_QUESTION_TYPE_ID": 1,
+                        "PR_NAME": "FILL IN THE BLANK",
+                        "PR_CODE": "7141",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 2,
+                        "PR_NAME": "CIRCLE THE FOLLOWING",
+                        "PR_CODE": "5055",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 3,
+                        "PR_NAME": "UNDERLINE THE FOLLOWING",
+                        "PR_CODE": "6607",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 4,
+                        "PR_NAME": "TRUE AND FALSE",
+                        "PR_CODE": "1879",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 5,
+                        "PR_NAME": "MATCH THE FOLLOWING",
+                        "PR_CODE": "7968",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 6,
+                        "PR_NAME": "MULTIPLE CHOICE QUESTIONS",
+                        "PR_CODE": "3834",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": [
+                            {
+                                "PR_QUESTION": "Transport has mainly __________________ forms.",
+                                "PR_DESCRIPTION": "write the correct answer. (MCQs)",
+                                "PR_FIRST_OPTION": "a. three",
+                                "PR_SECOND_OPTION": "b. one",
+                                "PR_THIRD_OPTION": "c. ve",
+                                "PR_FOURTH_OPTION": "d. four",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "(a) three"
+                            },
+                            {
+                                "PR_QUESTION": "We can also travel to short distances by __________________ .",
+                                "PR_DESCRIPTION": "write the correct answer. (MCQs)",
+                                "PR_FIRST_OPTION": "a. bicycles",
+                                "PR_SECOND_OPTION": "b. cars",
+                                "PR_THIRD_OPTION": "c. ships",
+                                "PR_FOURTH_OPTION": "d. buses",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "(a) bicycles"
+                            },
+                            {
+                                "PR_QUESTION": "Most people use public transport for __________________ journeys.",
+                                "PR_DESCRIPTION": "write the correct answer. (MCQs)",
+                                "PR_FIRST_OPTION": "a. short",
+                                "PR_SECOND_OPTION": "b. both",
+                                "PR_THIRD_OPTION": "c. long",
+                                "PR_FOURTH_OPTION": "d. happy",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "(a) short"
+                            },
+                            {
+                                "PR_QUESTION": "Trains run on __________________ .",
+                                "PR_DESCRIPTION": "write the correct answer. (MCQs)",
+                                "PR_FIRST_OPTION": "a. runways",
+                                "PR_SECOND_OPTION": "b. tracks",
+                                "PR_THIRD_OPTION": "c. roads",
+                                "PR_FOURTH_OPTION": "d. hills",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "(b) tracks"
+                            }
+                        ]
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 7,
+                        "PR_NAME": "SHORT ANSWER TYPE QUESTIONS",
+                        "PR_CODE": "9387",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 8,
+                        "PR_NAME": "LONG ANSWER TYPE QUESTIONS",
+                        "PR_CODE": "3169",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": [
+                            {
+                                "PR_QUESTION": "What is the need of travel?",
+                                "PR_DESCRIPTION": "Answer the following questions.",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "Travelling is needed for meeting friends or relatives living in various parts of the country or abroad. People also travel within the city, to other cities of the country, or to a foreign country for the purpose of work or recreation."
+                            },
+                            {
+                                "PR_QUESTION": "What do you understand by air transports?",
+                                "PR_DESCRIPTION": "Answer the following questions.",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "Air transport involves travelling or carrying of goods from one place to another through the route of air. Aeroplanes are the most common means of air transport."
+                            },
+                            {
+                                "PR_QUESTION": "What is the difference between water transport and land transport?",
+                                "PR_DESCRIPTION": "Answer the following questions.",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "In water transport, rivers, seas, lakes, or Oceans are used to go from one place to another. In this, we travel in a ship, or various kinds of boats. Land transport uses roads and railway tracks for travelling. Road transport includes bicycles, two three and four wheeler vehicles, buses, trams 14 Means of Transport etc. Rails and Metro Rails run on railway tracks."
+                            },
+                            {
+                                "PR_QUESTION": "How are animals used as means of transports?",
+                                "PR_DESCRIPTION": "Answer the following questions.",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "Donkeys are used to carry materials at short distances. Horses and bullock carts are used to transport people and goods. Camels carry people and goods in Rajasthan and Gujarat. Elephants ferry people in Kerala and Assam."
+                            }
+                        ]
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 9,
+                        "PR_NAME": "MISCELLANEOUS",
+                        "PR_CODE": "9371",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 10,
+                        "PR_NAME": "WRITE TRUE OR FALSE",
+                        "PR_CODE": "8978",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": null,
+                        "PR_QUESTIONS": []
+                    }
+                ]
+            },
+            {
+                "PR_CHAPTER_ID": 391,
+                "PR_NAME": "Means of Communication",
+                "PR_CODE": "3928",
+                "PR_ICON": "/media/default-img.png",
+                "PR_DESCRIPTION": "",
+                "PR_QUESTION_TYPE": [
+                    {
+                        "PR_QUESTION_TYPE_ID": 1,
+                        "PR_NAME": "FILL IN THE BLANK",
+                        "PR_CODE": "7141",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 2,
+                        "PR_NAME": "CIRCLE THE FOLLOWING",
+                        "PR_CODE": "5055",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 3,
+                        "PR_NAME": "UNDERLINE THE FOLLOWING",
+                        "PR_CODE": "6607",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 4,
+                        "PR_NAME": "TRUE AND FALSE",
+                        "PR_CODE": "1879",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 5,
+                        "PR_NAME": "MATCH THE FOLLOWING",
+                        "PR_CODE": "7968",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 6,
+                        "PR_NAME": "MULTIPLE CHOICE QUESTIONS",
+                        "PR_CODE": "3834",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": [
+                            {
+                                "PR_QUESTION": "__________________ was invented by Alexander Graham Bell.",
+                                "PR_DESCRIPTION": "write the correct answer. (MCQs)",
+                                "PR_FIRST_OPTION": "a. Computer",
+                                "PR_SECOND_OPTION": "b. Letter",
+                                "PR_THIRD_OPTION": "c. Telephone",
+                                "PR_FOURTH_OPTION": "d. Telegram",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "(c) Telephone"
+                            },
+                            {
+                                "PR_QUESTION": "Earlier people used __________________ to send and receive letters.",
+                                "PR_DESCRIPTION": "write the correct answer. (MCQs)",
+                                "PR_FIRST_OPTION": "a. pigeons",
+                                "PR_SECOND_OPTION": "b. crows",
+                                "PR_THIRD_OPTION": "c. peacocks",
+                                "PR_FOURTH_OPTION": "d. parrots",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "(a) pigeons"
+                            },
+                            {
+                                "PR_QUESTION": "We can talk to friends while sitting at home by __________________ .",
+                                "PR_DESCRIPTION": "write the correct answer. (MCQs)",
+                                "PR_FIRST_OPTION": "a. newspaper",
+                                "PR_SECOND_OPTION": "b. radio",
+                                "PR_THIRD_OPTION": "c. television",
+                                "PR_FOURTH_OPTION": "d. telephone",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "(d) telephone"
+                            },
+                            {
+                                "PR_QUESTION": "Radio and television are the means of __________________ media.",
+                                "PR_DESCRIPTION": "write the correct answer. (MCQs)",
+                                "PR_FIRST_OPTION": "a. electronic",
+                                "PR_SECOND_OPTION": "b. print",
+                                "PR_THIRD_OPTION": "c. latest",
+                                "PR_FOURTH_OPTION": "d. both",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "(a) electronic"
+                            },
+                            {
+                                "PR_QUESTION": "Which is the latest wonder of communication?",
+                                "PR_DESCRIPTION": "write the correct answer. (MCQs)",
+                                "PR_FIRST_OPTION": "a. Mobile phone",
+                                "PR_SECOND_OPTION": "b. Computer",
+                                "PR_THIRD_OPTION": "c. Telephone",
+                                "PR_FOURTH_OPTION": "d. Internet",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "(d) internet"
+                            }
+                        ]
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 7,
+                        "PR_NAME": "SHORT ANSWER TYPE QUESTIONS",
+                        "PR_CODE": "9387",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": [
+                            {
+                                "PR_QUESTION": "Dene the term communication?",
+                                "PR_DESCRIPTION": "Answer the following questions.",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "Communication refers to expressing our thoughts to other people, and understanding their thoughts. e.g. letters, telephone etc."
+                            },
+                            {
+                                "PR_QUESTION": "What is the full form of PIN?",
+                                "PR_DESCRIPTION": "Answer the following questions.",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "The full form of PIN is Postal Index Number."
+                            },
+                            {
+                                "PR_QUESTION": "What is the fastest means of communication?",
+                                "PR_DESCRIPTION": "Answer the following questions.",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "Telephone is the fastest means of electronic communication."
+                            },
+                            {
+                                "PR_QUESTION": "What are the benets of mobile phones or cellular phones?",
+                                "PR_DESCRIPTION": "Answer the following questions.",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "The benefit of a mobile phone is that it is wireless, so, we can carry it anywhere. We can receive or dial calls through mobile phones while travelling also. We can send text and picture messages through it."
+                            },
+                            {
+                                "PR_QUESTION": "What do you mean by mass communication?",
+                                "PR_DESCRIPTION": "Answer the following questions.",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "Communicating with a large number or mass of people at the same time is known as mass communication."
+                            }
+                        ]
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 8,
+                        "PR_NAME": "LONG ANSWER TYPE QUESTIONS",
+                        "PR_CODE": "3169",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 9,
+                        "PR_NAME": "MISCELLANEOUS",
+                        "PR_CODE": "9371",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 10,
+                        "PR_NAME": "WRITE TRUE OR FALSE",
+                        "PR_CODE": "8978",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": null,
+                        "PR_QUESTIONS": []
+                    }
+                ]
+            },
+            {
+                "PR_CHAPTER_ID": 392,
+                "PR_NAME": "Knowing About Directions",
+                "PR_CODE": "8098",
+                "PR_ICON": "/media/default-img.png",
+                "PR_DESCRIPTION": "",
+                "PR_QUESTION_TYPE": [
+                    {
+                        "PR_QUESTION_TYPE_ID": 1,
+                        "PR_NAME": "FILL IN THE BLANK",
+                        "PR_CODE": "7141",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 2,
+                        "PR_NAME": "CIRCLE THE FOLLOWING",
+                        "PR_CODE": "5055",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 3,
+                        "PR_NAME": "UNDERLINE THE FOLLOWING",
+                        "PR_CODE": "6607",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 4,
+                        "PR_NAME": "TRUE AND FALSE",
+                        "PR_CODE": "1879",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 5,
+                        "PR_NAME": "MATCH THE FOLLOWING",
+                        "PR_CODE": "7968",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 6,
+                        "PR_NAME": "MULTIPLE CHOICE QUESTIONS",
+                        "PR_CODE": "3834",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": [
+                            {
+                                "PR_QUESTION": "East, West, North and South are four key __________________ .",
+                                "PR_DESCRIPTION": "write the correct option. (MCQs)",
+                                "PR_FIRST_OPTION": "a. directions",
+                                "PR_SECOND_OPTION": "b. symbols",
+                                "PR_THIRD_OPTION": "c. maps",
+                                "PR_FOURTH_OPTION": "d. signs",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "(a) directions"
+                            },
+                            {
+                                "PR_QUESTION": "__________________ is always towards the top of the map.",
+                                "PR_DESCRIPTION": "write the correct option. (MCQs)",
+                                "PR_FIRST_OPTION": "a. North",
+                                "PR_SECOND_OPTION": "b. West",
+                                "PR_THIRD_OPTION": "c. South",
+                                "PR_FOURTH_OPTION": "d. East",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "(a) North"
+                            },
+                            {
+                                "PR_QUESTION": "A book containing map is called an __________________ .",
+                                "PR_DESCRIPTION": "write the correct option. (MCQs)",
+                                "PR_FIRST_OPTION": "a. dictionary",
+                                "PR_SECOND_OPTION": "b. atlas",
+                                "PR_THIRD_OPTION": "c. record",
+                                "PR_FOURTH_OPTION": "d. none of these",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "(b) atlas"
+                            },
+                            {
+                                "PR_QUESTION": "Every map shows__________________ .",
+                                "PR_DESCRIPTION": "write the correct option. (MCQs)",
+                                "PR_FIRST_OPTION": "a. tale",
+                                "PR_SECOND_OPTION": "b. story",
+                                "PR_THIRD_OPTION": "c. scale",
+                                "PR_FOURTH_OPTION": "d. point",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "(c) scale"
+                            },
+                            {
+                                "PR_QUESTION": "Open level land spaces are often coloured __________________ in maps.",
+                                "PR_DESCRIPTION": "write the correct option. (MCQs)",
+                                "PR_FIRST_OPTION": "a. red",
+                                "PR_SECOND_OPTION": "b. orange",
+                                "PR_THIRD_OPTION": "c. pink",
+                                "PR_FOURTH_OPTION": "d. green",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "(d) green"
+                            }
+                        ]
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 7,
+                        "PR_NAME": "SHORT ANSWER TYPE QUESTIONS",
+                        "PR_CODE": "9387",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": [
+                            {
+                                "PR_QUESTION": "Write the four main directions.",
+                                "PR_DESCRIPTION": "Answer the following questions.",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "The four main directions are - North, South, East and West."
+                            },
+                            {
+                                "PR_QUESTION": "Dene the landmarks.",
+                                "PR_DESCRIPTION": "Answer the following questions.",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "Landmark refers to a or a thing like a school, bank, etc. with the help of which one can recognize a place easily."
+                            },
+                            {
+                                "PR_QUESTION": "How are the direction words helpful?",
+                                "PR_DESCRIPTION": "Answer the following questions.",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "The knowledge of directions is essential for finding any place. It is difficult to reach a new place without the knowledge of 16 Knowing About Directions proper directions."
+                            },
+                            {
+                                "PR_QUESTION": "What do you mean by scale of a map?",
+                                "PR_DESCRIPTION": "Answer the following questions.",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "It is not possible to show the exact distance on a map. A distance of 200 km. May be shown by 2 cm on a map."
+                            },
+                            {
+                                "PR_QUESTION": "Which colour is used to show open land spaces in a map?",
+                                "PR_DESCRIPTION": "Answer the following questions.",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "Open level land spaces are often coloured green in maps."
+                            }
+                        ]
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 8,
+                        "PR_NAME": "LONG ANSWER TYPE QUESTIONS",
+                        "PR_CODE": "3169",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 9,
+                        "PR_NAME": "MISCELLANEOUS",
+                        "PR_CODE": "9371",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 10,
+                        "PR_NAME": "WRITE TRUE OR FALSE",
+                        "PR_CODE": "8978",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": null,
+                        "PR_QUESTIONS": []
+                    }
+                ]
+            },
+            {
+                "PR_CHAPTER_ID": 393,
+                "PR_NAME": "Importance of Recreation",
+                "PR_CODE": "2786",
+                "PR_ICON": "/media/default-img.png",
+                "PR_DESCRIPTION": "",
+                "PR_QUESTION_TYPE": [
+                    {
+                        "PR_QUESTION_TYPE_ID": 1,
+                        "PR_NAME": "FILL IN THE BLANK",
+                        "PR_CODE": "7141",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 2,
+                        "PR_NAME": "CIRCLE THE FOLLOWING",
+                        "PR_CODE": "5055",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 3,
+                        "PR_NAME": "UNDERLINE THE FOLLOWING",
+                        "PR_CODE": "6607",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 4,
+                        "PR_NAME": "TRUE AND FALSE",
+                        "PR_CODE": "1879",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 5,
+                        "PR_NAME": "MATCH THE FOLLOWING",
+                        "PR_CODE": "7968",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 6,
+                        "PR_NAME": "MULTIPLE CHOICE QUESTIONS",
+                        "PR_CODE": "3834",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": [
+                            {
+                                "PR_QUESTION": "What keeps our mind fresh and active ?",
+                                "PR_DESCRIPTION": "write the correct answer. (MCQs)",
+                                "PR_FIRST_OPTION": "a. circus",
+                                "PR_SECOND_OPTION": "b. recreation",
+                                "PR_THIRD_OPTION": "c. clown",
+                                "PR_FOURTH_OPTION": "d. exercise",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "(b) recreation"
+                            },
+                            {
+                                "PR_QUESTION": "Games and sports are the most common forms of recreational ____________ .",
+                                "PR_DESCRIPTION": "write the correct answer. (MCQs)",
+                                "PR_FIRST_OPTION": "a. works",
+                                "PR_SECOND_OPTION": "b. groups",
+                                "PR_THIRD_OPTION": "c. activities",
+                                "PR_FOURTH_OPTION": "d. fields",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "(c) activities"
+                            },
+                            {
+                                "PR_QUESTION": "We play __________________ inside the home.",
+                                "PR_DESCRIPTION": "write the correct answer. (MCQs)",
+                                "PR_FIRST_OPTION": "a. cricket",
+                                "PR_SECOND_OPTION": "b. chess",
+                                "PR_THIRD_OPTION": "c. hockey",
+                                "PR_FOURTH_OPTION": "d. football",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "(b) chess"
+                            },
+                            {
+                                "PR_QUESTION": "Dancing is not only relaxing but also a __________________ exercise.",
+                                "PR_DESCRIPTION": "write the correct answer. (MCQs)",
+                                "PR_FIRST_OPTION": "a. bad",
+                                "PR_SECOND_OPTION": "b. good",
+                                "PR_THIRD_OPTION": "c. simple",
+                                "PR_FOURTH_OPTION": "d. difficult",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "(b) good"
+                            },
+                            {
+                                "PR_QUESTION": "We should not __________________ the music loudly.",
+                                "PR_DESCRIPTION": "write the correct answer. (MCQs)",
+                                "PR_FIRST_OPTION": "a. see",
+                                "PR_SECOND_OPTION": "b. hear",
+                                "PR_THIRD_OPTION": "c. watch",
+                                "PR_FOURTH_OPTION": "d. hire",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "(b) hear"
+                            }
+                        ]
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 7,
+                        "PR_NAME": "SHORT ANSWER TYPE QUESTIONS",
+                        "PR_CODE": "9387",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": [
+                            {
+                                "PR_QUESTION": "What do you mean by recreation?",
+                                "PR_DESCRIPTION": "Answer the following questions.",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "Recreation means enjoying and relaxing when you are not working. It is one of the most effective tool for keeping ourselves fresh and energetic."
+                            },
+                            {
+                                "PR_QUESTION": "How do you enjoy recreation with your family?",
+                                "PR_DESCRIPTION": "Answer the following questions.",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "Recreation means enjoying and relaxing when you are not working. It is one of the most effective tool for keeping ourselves fresh and energetic."
+                            },
+                            {
+                                "PR_QUESTION": "Which types of games are played inside the house?",
+                                "PR_DESCRIPTION": "Answer the following questions.",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "Recreation means enjoying and relaxing when you are not working. It is one of the most effective tool for keeping ourselves fresh and energetic."
+                            },
+                            {
+                                "PR_QUESTION": "Which types of game are played outside the house?",
+                                "PR_DESCRIPTION": "Answer the following questions.",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "Recreation means enjoying and relaxing when you are not working. It is one of the most effective tool for keeping ourselves fresh and energetic."
+                            },
+                            {
+                                "PR_QUESTION": "Mention briefly about other recreational activities at home.",
+                                "PR_DESCRIPTION": "Answer the following questions.",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "Recreation means enjoying and relaxing when you are not working. It is one of the most effective tool for keeping ourselves fresh and energetic."
+                            }
+                        ]
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 8,
+                        "PR_NAME": "LONG ANSWER TYPE QUESTIONS",
+                        "PR_CODE": "3169",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 9,
+                        "PR_NAME": "MISCELLANEOUS",
+                        "PR_CODE": "9371",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 10,
+                        "PR_NAME": "WRITE TRUE OR FALSE",
+                        "PR_CODE": "8978",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": null,
+                        "PR_QUESTIONS": []
+                    }
+                ]
+            },
+            {
+                "PR_CHAPTER_ID": 394,
+                "PR_NAME": "Caring of Human Body",
+                "PR_CODE": "6641",
+                "PR_ICON": "/media/default-img.png",
+                "PR_DESCRIPTION": "",
+                "PR_QUESTION_TYPE": [
+                    {
+                        "PR_QUESTION_TYPE_ID": 1,
+                        "PR_NAME": "FILL IN THE BLANK",
+                        "PR_CODE": "7141",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 2,
+                        "PR_NAME": "CIRCLE THE FOLLOWING",
+                        "PR_CODE": "5055",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 3,
+                        "PR_NAME": "UNDERLINE THE FOLLOWING",
+                        "PR_CODE": "6607",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 4,
+                        "PR_NAME": "TRUE AND FALSE",
+                        "PR_CODE": "1879",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 5,
+                        "PR_NAME": "MATCH THE FOLLOWING",
+                        "PR_CODE": "7968",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 6,
+                        "PR_NAME": "MULTIPLE CHOICE QUESTIONS",
+                        "PR_CODE": "3834",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": [
+                            {
+                                "PR_QUESTION": "Taking care of our __________________ is a key activity of our life.",
+                                "PR_DESCRIPTION": "write the correct answer. (MCQs)",
+                                "PR_FIRST_OPTION": "a. body",
+                                "PR_SECOND_OPTION": "b. health",
+                                "PR_THIRD_OPTION": "c. mind",
+                                "PR_FOURTH_OPTION": "d. none of these",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "(a) body"
+                            },
+                            {
+                                "PR_QUESTION": "We should brush our teeth __________________ a day.",
+                                "PR_DESCRIPTION": "write the correct answer. (MCQs)",
+                                "PR_FIRST_OPTION": "a. once",
+                                "PR_SECOND_OPTION": "b. thrice",
+                                "PR_THIRD_OPTION": "c. twice",
+                                "PR_FOURTH_OPTION": "d. regularly",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "(c) twice"
+                            },
+                            {
+                                "PR_QUESTION": "When our hair needs a cut, we should go the __________________ .",
+                                "PR_DESCRIPTION": "write the correct answer. (MCQs)",
+                                "PR_FIRST_OPTION": "a. cobbler",
+                                "PR_SECOND_OPTION": "b. barber",
+                                "PR_THIRD_OPTION": "c. jeweller",
+                                "PR_FOURTH_OPTION": "d. shopkeeper",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "(b) barber"
+                            }
+                        ]
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 7,
+                        "PR_NAME": "SHORT ANSWER TYPE QUESTIONS",
+                        "PR_CODE": "9387",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": [
+                            {
+                                "PR_QUESTION": "What is a key activity of our life?",
+                                "PR_DESCRIPTION": "Answer the following questions.",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "Taking care of our body is a key activity of our life."
+                            },
+                            {
+                                "PR_QUESTION": "How can we take care of our teeth?",
+                                "PR_DESCRIPTION": "Answer the following questions.",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "We can take care of our teeth by brushing them twice a day. We should rinse our mouth with water to get rid of good stuck to our teeth."
+                            },
+                            {
+                                "PR_QUESTION": "When should we clean our hands?",
+                                "PR_DESCRIPTION": "Answer the following questions.",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "We should clean our hands after playing, eating, using the bathroom, blowing our nose, coughing, sneezing, touching animals, touching garbage, and ater doing outdoor activities."
+                            },
+                            {
+                                "PR_QUESTION": "Write a short note on remaining fit and well.",
+                                "PR_DESCRIPTION": "Answer the following questions.",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "To remain fit and well, we must exercise everyday. Exercise helps our body to grow strong and healthy. We should sleep for at least eight hours everyday. We should also play outdoor games regularly. This will help us to stay active throughout the day."
+                            },
+                            {
+                                "PR_QUESTION": "How can Yoga keeps us active and healthy?",
+                                "PR_DESCRIPTION": "Let Us Explore",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "Yoga keeps us healthy and fit by increasing the flexibility of the body, by improving the strength of the body and by making our mind free from stress."
+                            },
+                            {
+                                "PR_QUESTION": "We brush our teeth before going to bed. Why?",
+                                "PR_DESCRIPTION": "Let Us Explore",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "We brush our teeth before going to bed because whatever we eat during the day, gets stuck in our teeth. It is necessary to remove this tartar before going to bed so that our teeth remain clean and healthy"
+                            }
+                        ]
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 8,
+                        "PR_NAME": "LONG ANSWER TYPE QUESTIONS",
+                        "PR_CODE": "3169",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 9,
+                        "PR_NAME": "MISCELLANEOUS",
+                        "PR_CODE": "9371",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 10,
+                        "PR_NAME": "WRITE TRUE OR FALSE",
+                        "PR_CODE": "8978",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": null,
+                        "PR_QUESTIONS": []
+                    }
+                ]
+            },
+            {
+                "PR_CHAPTER_ID": 395,
+                "PR_NAME": "Houses and their kinds",
+                "PR_CODE": "5073",
+                "PR_ICON": "/media/default-img.png",
+                "PR_DESCRIPTION": "",
+                "PR_QUESTION_TYPE": [
+                    {
+                        "PR_QUESTION_TYPE_ID": 1,
+                        "PR_NAME": "FILL IN THE BLANK",
+                        "PR_CODE": "7141",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 2,
+                        "PR_NAME": "CIRCLE THE FOLLOWING",
+                        "PR_CODE": "5055",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 3,
+                        "PR_NAME": "UNDERLINE THE FOLLOWING",
+                        "PR_CODE": "6607",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 4,
+                        "PR_NAME": "TRUE AND FALSE",
+                        "PR_CODE": "1879",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 5,
+                        "PR_NAME": "MATCH THE FOLLOWING",
+                        "PR_CODE": "7968",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 6,
+                        "PR_NAME": "MULTIPLE CHOICE QUESTIONS",
+                        "PR_CODE": "3834",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": [
+                            {
+                                "PR_QUESTION": "Gypsy __________________ live in a caravan.",
+                                "PR_DESCRIPTION": "write the correct answer. (MCQs)",
+                                "PR_FIRST_OPTION": "a. group",
+                                "PR_SECOND_OPTION": "b. national",
+                                "PR_THIRD_OPTION": "c. people",
+                                "PR_FOURTH_OPTION": "d. worker",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "(c) people"
+                            },
+                            {
+                                "PR_QUESTION": "Houseboats are very common in __________________ .",
+                                "PR_DESCRIPTION": "write the correct answer. (MCQs)",
+                                "PR_FIRST_OPTION": "Punjab",
+                                "PR_SECOND_OPTION": "b. Kerala",
+                                "PR_THIRD_OPTION": "c. Kashmir",
+                                "PR_FOURTH_OPTION": "d. U.P.",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "(e) Kashmir"
+                            },
+                            {
+                                "PR_QUESTION": "A tent is a house made of special cloth called __________________ .",
+                                "PR_DESCRIPTION": "write the correct answer. (MCQs)",
+                                "PR_FIRST_OPTION": "a. canvas",
+                                "PR_SECOND_OPTION": "b. plastic",
+                                "PR_THIRD_OPTION": "c. wool",
+                                "PR_FOURTH_OPTION": "d. cotton",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "(a) canvas"
+                            },
+                            {
+                                "PR_QUESTION": "An__________________ is made of snow.",
+                                "PR_DESCRIPTION": "write the correct answer. (MCQs)",
+                                "PR_FIRST_OPTION": "a. igloo",
+                                "PR_SECOND_OPTION": "b. escalator",
+                                "PR_THIRD_OPTION": "c. apartment",
+                                "PR_FOURTH_OPTION": "d. office",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "(a) igloo"
+                            },
+                            {
+                                "PR_QUESTION": "We should keep things in their __________________ places.",
+                                "PR_DESCRIPTION": "write the correct answer. (MCQs)",
+                                "PR_FIRST_OPTION": "a. proper",
+                                "PR_SECOND_OPTION": "b. improper",
+                                "PR_THIRD_OPTION": "c. nearby",
+                                "PR_FOURTH_OPTION": "d. comfort",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "(a) proper"
+                            }
+                        ]
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 7,
+                        "PR_NAME": "SHORT ANSWER TYPE QUESTIONS",
+                        "PR_CODE": "9387",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 8,
+                        "PR_NAME": "LONG ANSWER TYPE QUESTIONS",
+                        "PR_CODE": "3169",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": [
+                            {
+                                "PR_QUESTION": "Dene a house.",
+                                "PR_DESCRIPTION": "Answer the following questions.",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "A house is our shelter. It keeps us safe from heat, cold, wind, thieves and wild animals. We get rest, peace, comfort and happiness in our houses."
+                            },
+                            {
+                                "PR_QUESTION": "What is a pucca house?",
+                                "PR_DESCRIPTION": "Answer the following questions.",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "Pucca houses are permanent houses made from bricks, stones, cement, and even iron, steel and glass. These houses are very strong."
+                            },
+                            {
+                                "PR_QUESTION": "What is a carvan?",
+                                "PR_DESCRIPTION": "Answer the following questions.",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "Caravans are mobile houses on wheels. They can be moved from one place to another by animals or by a car. Gypsy people live in these houses."
+                            },
+                            {
+                                "PR_QUESTION": "Write two steps of keeping house clean?",
+                                "PR_DESCRIPTION": "Answer the following questions.",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "For keeping the house clean, the following things should be kept in mind :  • Keep things in their proper places. • The houses should be kept clean by sweeping and mopping it everyday. • All articles such as furniture should be dusted daily. • Keep the kitchen clean and free from insects. It should have a chimney or exhaust to drive away any smoke."
+                            },
+                            {
+                                "PR_QUESTION": "When do we decorate our home?",
+                                "PR_DESCRIPTION": "Answer the following questions.",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "We decorate our home on Diwali by making Rangoli and lighting diyas. We also decorate our home when we buy a new home or on occasions such as birthdays etc."
+                            }
+                        ]
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 9,
+                        "PR_NAME": "MISCELLANEOUS",
+                        "PR_CODE": "9371",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 10,
+                        "PR_NAME": "WRITE TRUE OR FALSE",
+                        "PR_CODE": "8978",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": null,
+                        "PR_QUESTIONS": []
+                    }
+                ]
+            },
+            {
+                "PR_CHAPTER_ID": 396,
+                "PR_NAME": "Importance of Water",
+                "PR_CODE": "7903",
+                "PR_ICON": "/media/default-img.png",
+                "PR_DESCRIPTION": "",
+                "PR_QUESTION_TYPE": [
+                    {
+                        "PR_QUESTION_TYPE_ID": 1,
+                        "PR_NAME": "FILL IN THE BLANK",
+                        "PR_CODE": "7141",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 2,
+                        "PR_NAME": "CIRCLE THE FOLLOWING",
+                        "PR_CODE": "5055",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 3,
+                        "PR_NAME": "UNDERLINE THE FOLLOWING",
+                        "PR_CODE": "6607",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 4,
+                        "PR_NAME": "TRUE AND FALSE",
+                        "PR_CODE": "1879",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 5,
+                        "PR_NAME": "MATCH THE FOLLOWING",
+                        "PR_CODE": "7968",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 6,
+                        "PR_NAME": "MULTIPLE CHOICE QUESTIONS",
+                        "PR_CODE": "3834",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": [
+                            {
+                                "PR_QUESTION": "We drink water on feeling ___________.",
+                                "PR_DESCRIPTION": "write the correct answer. (MCQs)",
+                                "PR_FIRST_OPTION": "a. heat",
+                                "PR_SECOND_OPTION": "b. lazy",
+                                "PR_THIRD_OPTION": "c. thirsty",
+                                "PR_FOURTH_OPTION": "d. active",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "(c) thirsty"
+                            },
+                            {
+                                "PR_QUESTION": "We must drink _____________ glasses of water everyday.",
+                                "PR_DESCRIPTION": "write the correct answer. (MCQs)",
+                                "PR_FIRST_OPTION": "a. 2 to 4",
+                                "PR_SECOND_OPTION": "b. 6 to 8",
+                                "PR_THIRD_OPTION": "c. 8 to 10",
+                                "PR_FOURTH_OPTION": "d. 16 to 18",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "(c) 8 to 10"
+                            },
+                            {
+                                "PR_QUESTION": "Plants suck water from soil through their ____________.",
+                                "PR_DESCRIPTION": "write the correct answer. (MCQs)",
+                                "PR_FIRST_OPTION": "a. roots",
+                                "PR_SECOND_OPTION": "b. leaves",
+                                "PR_THIRD_OPTION": "c. stem",
+                                "PR_FOURTH_OPTION": "d. owers",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "(a) roots"
+                            },
+                            {
+                                "PR_QUESTION": "Making water dirty is called __________ pollution.",
+                                "PR_DESCRIPTION": "write the correct answer. (MCQs)",
+                                "PR_FIRST_OPTION": "a. noise",
+                                "PR_SECOND_OPTION": "b. land",
+                                "PR_THIRD_OPTION": "c. air",
+                                "PR_FOURTH_OPTION": "d. water",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "(d) water"
+                            },
+                            {
+                                "PR_QUESTION": "Clean water is supplied to our homes by __________.",
+                                "PR_DESCRIPTION": "write the correct answer. (MCQs)",
+                                "PR_FIRST_OPTION": "a. Jal Boards",
+                                "PR_SECOND_OPTION": "b. Watermen",
+                                "PR_THIRD_OPTION": "c. Headman",
+                                "PR_FOURTH_OPTION": "d. Panch",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "(a) Jal Boards"
+                            }
+                        ]
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 7,
+                        "PR_NAME": "SHORT ANSWER TYPE QUESTIONS",
+                        "PR_CODE": "9387",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 8,
+                        "PR_NAME": "LONG ANSWER TYPE QUESTIONS",
+                        "PR_CODE": "3169",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": [
+                            {
+                                "PR_QUESTION": "Dene water.",
+                                "PR_DESCRIPTION": "Answer the following questions.",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "Water is colourless, odourless and tasteless liquid. All living beings need water to live."
+                            },
+                            {
+                                "PR_QUESTION": "What are the uses of water?",
+                                "PR_DESCRIPTION": "Answer the following questions.",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "Uses of water are : (i) At home - to bathe, clean, cook, wash, drink etc. (ii) At farms - to grow crops. (iii) For electricity - to generate electricity."
+                            },
+                            {
+                                "PR_QUESTION": "Mention steps to save water in our daily life.",
+                                "PR_DESCRIPTION": "Answer the following questions.",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "Ways in which we can save water are : (i) take bath with the help of bucket and mug instead of shower. 12 Importance of Water (ii) close the tap when not in use. (iii) Repair leaking taps and pipes. (iv) Don't overuse water."
+                            },
+                            {
+                                "PR_QUESTION": "Why do plants and animals need water?",
+                                "PR_DESCRIPTION": "Answer the following questions.",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "Plants and animals need water to live. Plants use water to make their food. The organs of the animals function when they get enought water. They also need water for other functions such as bathing etc. Aquatic animals live only in water."
+                            }
+                        ]
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 9,
+                        "PR_NAME": "MISCELLANEOUS",
+                        "PR_CODE": "9371",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 10,
+                        "PR_NAME": "WRITE TRUE OR FALSE",
+                        "PR_CODE": "8978",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": null,
+                        "PR_QUESTIONS": []
+                    }
+                ]
+            }
+        ]
+    }
+}

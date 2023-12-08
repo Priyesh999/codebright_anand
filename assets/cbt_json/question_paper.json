@@ -1,0 +1,164 @@
+{
+  "STATUS": "SUCCESS",
+  "MESSAGE": "Message has been successfully send!!",
+  "DATA": {
+    "PR_SCHOOL_NAME": "D.P.T.S Inter School, New Delhi - 110096",
+    "PR_TEST_NAME": "First Semester Exam 2023-2024",
+    "PR_TEST_DURATION": "120",
+    "PR_CLASS_NAME": "1st",
+    "PR_SUBJECT_NAME": "Hindi",
+    "PR_BOOK_NAME": "ENGLISH FOR TODDLERS PRE PRIMER",
+    "PR_TOTAL_QUESTIONS": 12,
+    "PR_TOTAL_MARKS": 100,
+    "PR_QUESTION_TYPE_DATA": [
+      {
+        "PR_QUESTION_TYPE": "FILL IN THE BLANK",
+        "PR_TOTAL_QUES": 2,
+        "PR_QUESTION_MARKS": 5,
+        "PR_QUESTIONS": [
+          {
+            "PR_QUESTION": "All keywords in Python are in _________",
+            "PR_DESCRIPTION": "",
+            "PR_FIRST_OPTION": "a) Capitalized",
+            "PR_SECOND_OPTION": "b) lower case",
+            "PR_THIRD_OPTION": "c) UPPER CASE",
+            "PR_FOURTH_OPTION": "d) None of the mentioned",
+            "PR_FIFTH_OPTION": "",
+            "PR_ANSWER": "d) None of the mentioned"
+          },
+          {
+            "PR_QUESTION": "Python supports the creation of anonymous functions at runtime, using a construct called __________",
+            "PR_DESCRIPTION": "",
+            "PR_FIRST_OPTION": "a) pi",
+            "PR_SECOND_OPTION": "b) anonymous",
+            "PR_THIRD_OPTION": "c) lambda",
+            "PR_FOURTH_OPTION": "d) none of the mentioned",
+            "PR_FIFTH_OPTION": "",
+            "PR_ANSWER": "c) lambda"
+          }
+        ]
+      },
+      {
+        "PR_QUESTION_TYPE": "CIRCLE THE FOLLOWING",
+        "PR_TOTAL_QUES": 8,
+        "PR_QUESTION_MARKS": 5,
+        "PR_QUESTIONS": [
+          {
+            "PR_QUESTION": "Who developed Python Programming Language?",
+            "PR_DESCRIPTION": "",
+            "PR_FIRST_OPTION": "a) Wick van Rossum",
+            "PR_SECOND_OPTION": "b) Rasmus Lerdorf",
+            "PR_THIRD_OPTION": "c) Guido van Rossum",
+            "PR_FOURTH_OPTION": "d) Niene Stom",
+            "PR_FIFTH_OPTION": "",
+            "PR_ANSWER": "c) Guido van Rossum"
+          },
+          {
+            "PR_QUESTION": "Which type of Programming does Python support?",
+            "PR_DESCRIPTION": "",
+            "PR_FIRST_OPTION": "a) object-oriented programming",
+            "PR_SECOND_OPTION": "b) structured programming",
+            "PR_THIRD_OPTION": "c) functional programming",
+            "PR_FOURTH_OPTION": "d) all of the mentioned",
+            "PR_FIFTH_OPTION": "",
+            "PR_ANSWER": "d) all of the mentioned"
+          },
+          {
+            "PR_QUESTION": "Is Python case sensitive when dealing with identifiers?",
+            "PR_DESCRIPTION": "",
+            "PR_FIRST_OPTION": "a) no",
+            "PR_SECOND_OPTION": "b) yes",
+            "PR_THIRD_OPTION": "c) machine dependent",
+            "PR_FOURTH_OPTION": "d) none of the mentioned",
+            "PR_FIFTH_OPTION": "",
+            "PR_ANSWER": "b) yes"
+          },
+          {
+            "PR_QUESTION": "Which of the following is the correct extension of the Python file?",
+            "PR_DESCRIPTION": "",
+            "PR_FIRST_OPTION": "a) .python",
+            "PR_SECOND_OPTION": "b) .pl",
+            "PR_THIRD_OPTION": "c) .py",
+            "PR_FOURTH_OPTION": "d) .p",
+            "PR_FIFTH_OPTION": "",
+            "PR_ANSWER": "c) .py"
+          },
+          {
+            "PR_QUESTION": "Is Python code compiled or interpreted?",
+            "PR_DESCRIPTION": "",
+            "PR_FIRST_OPTION": "a) Python code is both compiled and interpreted",
+            "PR_SECOND_OPTION": "b) Python code is neither compiled nor interpreted",
+            "PR_THIRD_OPTION": "c) Python code is only compiled",
+            "PR_FOURTH_OPTION": "d) Python code is only interpreted",
+            "PR_FIFTH_OPTION": "",
+            "PR_ANSWER": "5. Is Python code compiled or interpreted?"
+          },
+          {
+            "PR_QUESTION": "Which of the following is used to define a block of code in Python language?",
+            "PR_DESCRIPTION": "",
+            "PR_FIRST_OPTION": "a) Indentation",
+            "PR_SECOND_OPTION": "b) Key",
+            "PR_THIRD_OPTION": "c) Brackets",
+            "PR_FOURTH_OPTION": "d) All of the mentioned",
+            "PR_FIFTH_OPTION": "",
+            "PR_ANSWER": "a) Indentation"
+          },
+          {
+            "PR_QUESTION": "Which keyword is used for function in Python language?",
+            "PR_DESCRIPTION": "",
+            "PR_FIRST_OPTION": "a) Function",
+            "PR_SECOND_OPTION": "b) def",
+            "PR_THIRD_OPTION": "c) Fun",
+            "PR_FOURTH_OPTION": "d) Define",
+            "PR_FIFTH_OPTION": "",
+            "PR_ANSWER": "b) def"
+          },
+          {
+            "PR_QUESTION": "Which of the following character is used to give single-line comments in Python?",
+            "PR_DESCRIPTION": "",
+            "PR_FIRST_OPTION": "a) //",
+            "PR_SECOND_OPTION": "b) #",
+            "PR_THIRD_OPTION": "c) !",
+            "PR_FOURTH_OPTION": "d) /*",
+            "PR_FIFTH_OPTION": "",
+            "PR_ANSWER": "b) #"
+          }
+        ]
+      },
+      {
+        "PR_QUESTION_TYPE": "SHORT ANSWER TYPE QUESTIONS",
+        "PR_TOTAL_QUES": 1,
+        "PR_QUESTION_MARKS": 20,
+        "PR_QUESTIONS": [
+          {
+            "PR_QUESTION": "Why do we use it?",
+            "PR_DESCRIPTION": "",
+            "PR_FIRST_OPTION": "",
+            "PR_SECOND_OPTION": "",
+            "PR_THIRD_OPTION": "",
+            "PR_FOURTH_OPTION": "",
+            "PR_FIFTH_OPTION": "",
+            "PR_ANSWER": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+          }
+        ]
+      },
+      {
+        "PR_QUESTION_TYPE": "LONG ANSWER TYPE QUESTIONS",
+        "PR_TOTAL_QUES": 1,
+        "PR_QUESTION_MARKS": 30,
+        "PR_QUESTIONS": [
+          {
+            "PR_QUESTION": "What is Lorem Ipsum?",
+            "PR_DESCRIPTION": "",
+            "PR_FIRST_OPTION": "",
+            "PR_SECOND_OPTION": "",
+            "PR_THIRD_OPTION": "",
+            "PR_FOURTH_OPTION": "",
+            "PR_FIFTH_OPTION": "",
+            "PR_ANSWER": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+          }
+        ]
+      }
+    ]
+  }
+}

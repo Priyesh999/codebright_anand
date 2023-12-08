@@ -1,0 +1,2006 @@
+{
+    "STATUS": "SUCCESS",
+    "MESSAGE": "Message has been successfully send!!",
+    "TOTAL_COUNT": 0,
+    "DATA": {
+        "PR_BOOK_ID": 32,
+        "PR_CATEGORY": "Vedanta Books",
+        "PR_CLASS": "1st",
+        "PR_SUBJECT": "Hindi Vyakaran",
+        "PR_NAME": "वेदांत हिंदी व्याकरण स्तुति - 1",
+        "PR_CODE": "5401",
+        "PR_ICON": "/media/default-img.png",
+        "PR_DESCRIPTION": "",
+        "PR_CHAPTERS": [
+            {
+                "PR_CHAPTER_ID": 510,
+                "PR_NAME": "मेरा परिचय",
+                "PR_CODE": "5301",
+                "PR_ICON": "/media/default-img.png",
+                "PR_DESCRIPTION": "",
+                "PR_QUESTION_TYPE": [
+                    {
+                        "PR_QUESTION_TYPE_ID": 1,
+                        "PR_NAME": "रिक्त स्थान को भरें",
+                        "PR_CODE": "7141",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 2,
+                        "PR_NAME": "निम्नलिखित पर गोला लगाएँ",
+                        "PR_CODE": "5055",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 3,
+                        "PR_NAME": "निम्नलिखित को रेखांकित करें",
+                        "PR_CODE": "6607",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 4,
+                        "PR_NAME": "सही और गलत",
+                        "PR_CODE": "1879",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 5,
+                        "PR_NAME": "निम्नलिखित को मिलाएं",
+                        "PR_CODE": "7968",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 6,
+                        "PR_NAME": "बहु विकल्पीय प्रश्न",
+                        "PR_CODE": "3834",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 7,
+                        "PR_NAME": "लघु उत्तरीय प्रश्न",
+                        "PR_CODE": "9387",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 8,
+                        "PR_NAME": "दीर्घ उत्तरीय प्रकार के प्रश्न",
+                        "PR_CODE": "3169",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 9,
+                        "PR_NAME": "मिश्रित",
+                        "PR_CODE": "9371",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 10,
+                        "PR_NAME": "सही या गलत लिखो",
+                        "PR_CODE": "8978",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": null,
+                        "PR_QUESTIONS": []
+                    }
+                ]
+            },
+            {
+                "PR_CHAPTER_ID": 511,
+                "PR_NAME": "भाषा",
+                "PR_CODE": "8295",
+                "PR_ICON": "/media/default-img.png",
+                "PR_DESCRIPTION": "",
+                "PR_QUESTION_TYPE": [
+                    {
+                        "PR_QUESTION_TYPE_ID": 1,
+                        "PR_NAME": "रिक्त स्थान को भरें",
+                        "PR_CODE": "7141",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 2,
+                        "PR_NAME": "निम्नलिखित पर गोला लगाएँ",
+                        "PR_CODE": "5055",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 3,
+                        "PR_NAME": "निम्नलिखित को रेखांकित करें",
+                        "PR_CODE": "6607",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 4,
+                        "PR_NAME": "सही और गलत",
+                        "PR_CODE": "1879",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 5,
+                        "PR_NAME": "निम्नलिखित को मिलाएं",
+                        "PR_CODE": "7968",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 6,
+                        "PR_NAME": "बहु विकल्पीय प्रश्न",
+                        "PR_CODE": "3834",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 7,
+                        "PR_NAME": "लघु उत्तरीय प्रश्न",
+                        "PR_CODE": "9387",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": [
+                            {
+                                "PR_QUESTION": "भाषा वेफ कितने रूप हैं?",
+                                "PR_DESCRIPTION": "मौखिक",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "भाषा के तीन रूप हैं।"
+                            },
+                            {
+                                "PR_QUESTION": "भाषा वेफ तीनों रूपों वेफ नाम बताइए।",
+                                "PR_DESCRIPTION": "मौखिक",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "भाषा के तीनों रूपों के नाम हैंμमौखिक, लिखित और सांकेतिक।"
+                            }
+                        ]
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 8,
+                        "PR_NAME": "दीर्घ उत्तरीय प्रकार के प्रश्न",
+                        "PR_CODE": "3169",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 9,
+                        "PR_NAME": "मिश्रित",
+                        "PR_CODE": "9371",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 10,
+                        "PR_NAME": "सही या गलत लिखो",
+                        "PR_CODE": "8978",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": null,
+                        "PR_QUESTIONS": []
+                    }
+                ]
+            },
+            {
+                "PR_CHAPTER_ID": 512,
+                "PR_NAME": "वर्ण और वर्णमाला",
+                "PR_CODE": "3610",
+                "PR_ICON": "/media/default-img.png",
+                "PR_DESCRIPTION": "",
+                "PR_QUESTION_TYPE": [
+                    {
+                        "PR_QUESTION_TYPE_ID": 1,
+                        "PR_NAME": "रिक्त स्थान को भरें",
+                        "PR_CODE": "7141",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 2,
+                        "PR_NAME": "निम्नलिखित पर गोला लगाएँ",
+                        "PR_CODE": "5055",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 3,
+                        "PR_NAME": "निम्नलिखित को रेखांकित करें",
+                        "PR_CODE": "6607",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 4,
+                        "PR_NAME": "सही और गलत",
+                        "PR_CODE": "1879",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 5,
+                        "PR_NAME": "निम्नलिखित को मिलाएं",
+                        "PR_CODE": "7968",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 6,
+                        "PR_NAME": "बहु विकल्पीय प्रश्न",
+                        "PR_CODE": "3834",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": [
+                            {
+                                "PR_QUESTION": "भाषा की छोटी-से-छोटी ध्वनि क्या कहलाती है?",
+                                "PR_DESCRIPTION": "सही विकल्प पर सही का चिह्न लगाइए",
+                                "PR_FIRST_OPTION": "स्वर",
+                                "PR_SECOND_OPTION": "वर्ण",
+                                "PR_THIRD_OPTION": "व्यंजन",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "वर्ण"
+                            },
+                            {
+                                "PR_QUESTION": "हिंदी वर्णमाला में मूलतः कितने स्वर हैं?",
+                                "PR_DESCRIPTION": "सही विकल्प पर सही का चिह्न लगाइए",
+                                "PR_FIRST_OPTION": "दस",
+                                "PR_SECOND_OPTION": "ग्यारह",
+                                "PR_THIRD_OPTION": "बारह",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "ग्यारह"
+                            },
+                            {
+                                "PR_QUESTION": "‘अं’ और ‘अः’ क्या हैं?",
+                                "PR_DESCRIPTION": "सही विकल्प पर सही का चिह्न लगाइए",
+                                "PR_FIRST_OPTION": "व्यंजन",
+                                "PR_SECOND_OPTION": "स्वर",
+                                "PR_THIRD_OPTION": "अयोगवाह",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "अयोगवाह"
+                            },
+                            {
+                                "PR_QUESTION": "हिंदी वर्णमाला में कितने व्यंजन हैं?",
+                                "PR_DESCRIPTION": "सही विकल्प पर सही  का चिह्न लगाइए",
+                                "PR_FIRST_OPTION": "30",
+                                "PR_SECOND_OPTION": "33",
+                                "PR_THIRD_OPTION": "35",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "33"
+                            }
+                        ]
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 7,
+                        "PR_NAME": "लघु उत्तरीय प्रश्न",
+                        "PR_CODE": "9387",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": [
+                            {
+                                "PR_QUESTION": "वर्ण किसे कहते हैं?",
+                                "PR_DESCRIPTION": "मौखिक",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "भाषा की छोटी-से-छोटी ध्वनि जिसके टुकड़े न किए जा सकें ‘वर्ण’ कहलाती है।"
+                            },
+                            {
+                                "PR_QUESTION": "वर्णमाला किसे कहते हैं?",
+                                "PR_DESCRIPTION": "मौखिक",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "वर्णों के व्यवस्थित समूह को ‘वर्णमाला’ कहते हैं।"
+                            },
+                            {
+                                "PR_QUESTION": "हिंदी वर्णमाला में कितने स्वर हैं?",
+                                "PR_DESCRIPTION": "मौखिक",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "हिन्दी वर्णमाला में मूलतः 11 स्वर हैं।"
+                            },
+                            {
+                                "PR_QUESTION": "हिंदी वर्णमाला में कितने व्यंजन हैं?",
+                                "PR_DESCRIPTION": "मौखिक",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "हिन्दी वर्गमाला में 33 व्यंजन हैं।"
+                            }
+                        ]
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 8,
+                        "PR_NAME": "दीर्घ उत्तरीय प्रकार के प्रश्न",
+                        "PR_CODE": "3169",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 9,
+                        "PR_NAME": "मिश्रित",
+                        "PR_CODE": "9371",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 10,
+                        "PR_NAME": "सही या गलत लिखो",
+                        "PR_CODE": "8978",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": null,
+                        "PR_QUESTIONS": []
+                    }
+                ]
+            },
+            {
+                "PR_CHAPTER_ID": 513,
+                "PR_NAME": "मात्राएँ",
+                "PR_CODE": "5958",
+                "PR_ICON": "/media/default-img.png",
+                "PR_DESCRIPTION": "",
+                "PR_QUESTION_TYPE": [
+                    {
+                        "PR_QUESTION_TYPE_ID": 1,
+                        "PR_NAME": "रिक्त स्थान को भरें",
+                        "PR_CODE": "7141",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 2,
+                        "PR_NAME": "निम्नलिखित पर गोला लगाएँ",
+                        "PR_CODE": "5055",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 3,
+                        "PR_NAME": "निम्नलिखित को रेखांकित करें",
+                        "PR_CODE": "6607",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 4,
+                        "PR_NAME": "सही और गलत",
+                        "PR_CODE": "1879",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 5,
+                        "PR_NAME": "निम्नलिखित को मिलाएं",
+                        "PR_CODE": "7968",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 6,
+                        "PR_NAME": "बहु विकल्पीय प्रश्न",
+                        "PR_CODE": "3834",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 7,
+                        "PR_NAME": "लघु उत्तरीय प्रश्न",
+                        "PR_CODE": "9387",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": [
+                            {
+                                "PR_QUESTION": "ऐ",
+                                "PR_DESCRIPTION": "मौखिक",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "स्वर के बदले हुए रूप को मात्रा कहते हैं।"
+                            }
+                        ]
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 8,
+                        "PR_NAME": "दीर्घ उत्तरीय प्रकार के प्रश्न",
+                        "PR_CODE": "3169",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 9,
+                        "PR_NAME": "मिश्रित",
+                        "PR_CODE": "9371",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 10,
+                        "PR_NAME": "सही या गलत लिखो",
+                        "PR_CODE": "8978",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": null,
+                        "PR_QUESTIONS": []
+                    }
+                ]
+            },
+            {
+                "PR_CHAPTER_ID": 514,
+                "PR_NAME": "बिंदु ;-ं द्ध और चन्द्रबिंदु ;-ँ द्ध",
+                "PR_CODE": "9895",
+                "PR_ICON": "/media/default-img.png",
+                "PR_DESCRIPTION": "",
+                "PR_QUESTION_TYPE": [
+                    {
+                        "PR_QUESTION_TYPE_ID": 1,
+                        "PR_NAME": "रिक्त स्थान को भरें",
+                        "PR_CODE": "7141",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 2,
+                        "PR_NAME": "निम्नलिखित पर गोला लगाएँ",
+                        "PR_CODE": "5055",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 3,
+                        "PR_NAME": "निम्नलिखित को रेखांकित करें",
+                        "PR_CODE": "6607",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 4,
+                        "PR_NAME": "सही और गलत",
+                        "PR_CODE": "1879",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 5,
+                        "PR_NAME": "निम्नलिखित को मिलाएं",
+                        "PR_CODE": "7968",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 6,
+                        "PR_NAME": "बहु विकल्पीय प्रश्न",
+                        "PR_CODE": "3834",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 7,
+                        "PR_NAME": "लघु उत्तरीय प्रश्न",
+                        "PR_CODE": "9387",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": [
+                            {
+                                "PR_QUESTION": "अनुस्वार और अनुनासिक किसे कहते हैं?",
+                                "PR_DESCRIPTION": "मौखिक",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "‘अं’ के बिन्दु के चिह्न को ‘अनुस्वार’ कहते हैं।"
+                            },
+                            {
+                                "PR_QUESTION": "अनुस्वार का प्रयोग करते हुए दो शब्द बताइए।",
+                                "PR_DESCRIPTION": "मौखिक",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "अंक, अंगूर।"
+                            }
+                        ]
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 8,
+                        "PR_NAME": "दीर्घ उत्तरीय प्रकार के प्रश्न",
+                        "PR_CODE": "3169",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 9,
+                        "PR_NAME": "मिश्रित",
+                        "PR_CODE": "9371",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 10,
+                        "PR_NAME": "सही या गलत लिखो",
+                        "PR_CODE": "8978",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": null,
+                        "PR_QUESTIONS": []
+                    }
+                ]
+            },
+            {
+                "PR_CHAPTER_ID": 515,
+                "PR_NAME": "शब्द और वाक्य",
+                "PR_CODE": "2164",
+                "PR_ICON": "/media/default-img.png",
+                "PR_DESCRIPTION": "",
+                "PR_QUESTION_TYPE": [
+                    {
+                        "PR_QUESTION_TYPE_ID": 1,
+                        "PR_NAME": "रिक्त स्थान को भरें",
+                        "PR_CODE": "7141",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 2,
+                        "PR_NAME": "निम्नलिखित पर गोला लगाएँ",
+                        "PR_CODE": "5055",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 3,
+                        "PR_NAME": "निम्नलिखित को रेखांकित करें",
+                        "PR_CODE": "6607",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 4,
+                        "PR_NAME": "सही और गलत",
+                        "PR_CODE": "1879",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 5,
+                        "PR_NAME": "निम्नलिखित को मिलाएं",
+                        "PR_CODE": "7968",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 6,
+                        "PR_NAME": "बहु विकल्पीय प्रश्न",
+                        "PR_CODE": "3834",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 7,
+                        "PR_NAME": "लघु उत्तरीय प्रश्न",
+                        "PR_CODE": "9387",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": [
+                            {
+                                "PR_QUESTION": "शब्द किसे कहते हैं?",
+                                "PR_DESCRIPTION": "मौखिक",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "वर्णों के सार्थक मेल को ‘शब्द’ कहते हैं।"
+                            },
+                            {
+                                "PR_QUESTION": "वाक्य किसे कहते हैं?",
+                                "PR_DESCRIPTION": "मौखिक",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "शब्दों के सार्थक मेल को ‘वाक्य’ कहते हैं।"
+                            },
+                            {
+                                "PR_QUESTION": "मछली $ रानी $ की $ जल $ है।",
+                                "PR_DESCRIPTION": "नीेचे दिए गए शब्दों का स्थान बदलकर सही वाक्य लिखिए",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "मछली जल की रानी है।"
+                            },
+                            {
+                                "PR_QUESTION": "घोड़ा $ रहा $ पर $ सड़क $ दौड़ $ है।",
+                                "PR_DESCRIPTION": "नीेचे दिए गए शब्दों का स्थान बदलकर सही वाक्य लिखिए",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "घोड़ा सड़क पर दौड़ रहा है।"
+                            }
+                        ]
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 8,
+                        "PR_NAME": "दीर्घ उत्तरीय प्रकार के प्रश्न",
+                        "PR_CODE": "3169",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 9,
+                        "PR_NAME": "मिश्रित",
+                        "PR_CODE": "9371",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 10,
+                        "PR_NAME": "सही या गलत लिखो",
+                        "PR_CODE": "8978",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": null,
+                        "PR_QUESTIONS": []
+                    }
+                ]
+            },
+            {
+                "PR_CHAPTER_ID": 516,
+                "PR_NAME": "नाम वाले शब्द: संज्ञा",
+                "PR_CODE": "4923",
+                "PR_ICON": "/media/default-img.png",
+                "PR_DESCRIPTION": "",
+                "PR_QUESTION_TYPE": [
+                    {
+                        "PR_QUESTION_TYPE_ID": 1,
+                        "PR_NAME": "रिक्त स्थान को भरें",
+                        "PR_CODE": "7141",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 2,
+                        "PR_NAME": "निम्नलिखित पर गोला लगाएँ",
+                        "PR_CODE": "5055",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 3,
+                        "PR_NAME": "निम्नलिखित को रेखांकित करें",
+                        "PR_CODE": "6607",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 4,
+                        "PR_NAME": "सही और गलत",
+                        "PR_CODE": "1879",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 5,
+                        "PR_NAME": "निम्नलिखित को मिलाएं",
+                        "PR_CODE": "7968",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 6,
+                        "PR_NAME": "बहु विकल्पीय प्रश्न",
+                        "PR_CODE": "3834",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 7,
+                        "PR_NAME": "लघु उत्तरीय प्रश्न",
+                        "PR_CODE": "9387",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": [
+                            {
+                                "PR_QUESTION": "संज्ञा किसे कहते हैं?",
+                                "PR_DESCRIPTION": "मौखिक",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "सभी नाम वाले शब्दों को ‘संज्ञा’ कहते हैं।"
+                            },
+                            {
+                                "PR_QUESTION": "तुम्हारा नाम क्या है?",
+                                "PR_DESCRIPTION": "मौखिक",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "छात्र अपना नाम लिखें।"
+                            }
+                        ]
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 8,
+                        "PR_NAME": "दीर्घ उत्तरीय प्रकार के प्रश्न",
+                        "PR_CODE": "3169",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 9,
+                        "PR_NAME": "मिश्रित",
+                        "PR_CODE": "9371",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 10,
+                        "PR_NAME": "सही या गलत लिखो",
+                        "PR_CODE": "8978",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": null,
+                        "PR_QUESTIONS": []
+                    }
+                ]
+            },
+            {
+                "PR_CHAPTER_ID": 517,
+                "PR_NAME": "स्त्री-पुरुष: लिंग",
+                "PR_CODE": "6729",
+                "PR_ICON": "/media/default-img.png",
+                "PR_DESCRIPTION": "",
+                "PR_QUESTION_TYPE": [
+                    {
+                        "PR_QUESTION_TYPE_ID": 1,
+                        "PR_NAME": "रिक्त स्थान को भरें",
+                        "PR_CODE": "7141",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 2,
+                        "PR_NAME": "निम्नलिखित पर गोला लगाएँ",
+                        "PR_CODE": "5055",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 3,
+                        "PR_NAME": "निम्नलिखित को रेखांकित करें",
+                        "PR_CODE": "6607",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 4,
+                        "PR_NAME": "सही और गलत",
+                        "PR_CODE": "1879",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 5,
+                        "PR_NAME": "निम्नलिखित को मिलाएं",
+                        "PR_CODE": "7968",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 6,
+                        "PR_NAME": "बहु विकल्पीय प्रश्न",
+                        "PR_CODE": "3834",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 7,
+                        "PR_NAME": "लघु उत्तरीय प्रश्न",
+                        "PR_CODE": "9387",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": [
+                            {
+                                "PR_QUESTION": "¯लग किसे कहते हैं?",
+                                "PR_DESCRIPTION": "मौखिक",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "जिस शब्द से स्त्री या पुरुष जाति के होने का पता चलता है, उसे ‘लिंग’ कहते हैं।"
+                            },
+                            {
+                                "PR_QUESTION": "¯लग वेफ भेद बताइए।",
+                                "PR_DESCRIPTION": "मौखिक",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "लिंग के दो भेद होते हैंμ 1ण् पुल्लिंग 2ण् स्त्रीलिंग"
+                            }
+                        ]
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 8,
+                        "PR_NAME": "दीर्घ उत्तरीय प्रकार के प्रश्न",
+                        "PR_CODE": "3169",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 9,
+                        "PR_NAME": "मिश्रित",
+                        "PR_CODE": "9371",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 10,
+                        "PR_NAME": "सही या गलत लिखो",
+                        "PR_CODE": "8978",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": null,
+                        "PR_QUESTIONS": []
+                    }
+                ]
+            },
+            {
+                "PR_CHAPTER_ID": 518,
+                "PR_NAME": "एक-अनेक: वचन",
+                "PR_CODE": "2900",
+                "PR_ICON": "/media/default-img.png",
+                "PR_DESCRIPTION": "",
+                "PR_QUESTION_TYPE": [
+                    {
+                        "PR_QUESTION_TYPE_ID": 1,
+                        "PR_NAME": "रिक्त स्थान को भरें",
+                        "PR_CODE": "7141",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 2,
+                        "PR_NAME": "निम्नलिखित पर गोला लगाएँ",
+                        "PR_CODE": "5055",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 3,
+                        "PR_NAME": "निम्नलिखित को रेखांकित करें",
+                        "PR_CODE": "6607",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 4,
+                        "PR_NAME": "सही और गलत",
+                        "PR_CODE": "1879",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 5,
+                        "PR_NAME": "निम्नलिखित को मिलाएं",
+                        "PR_CODE": "7968",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 6,
+                        "PR_NAME": "बहु विकल्पीय प्रश्न",
+                        "PR_CODE": "3834",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 7,
+                        "PR_NAME": "लघु उत्तरीय प्रश्न",
+                        "PR_CODE": "9387",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": [
+                            {
+                                "PR_QUESTION": "‘चाँद’ शब्द में कौन-सा वचन है?",
+                                "PR_DESCRIPTION": "मौखिक",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "एकवचन।"
+                            },
+                            {
+                                "PR_QUESTION": "‘तारे’ शब्द में कौन-सा वचन है?",
+                                "PR_DESCRIPTION": "मौखिक",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "बहुवचन।"
+                            }
+                        ]
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 8,
+                        "PR_NAME": "दीर्घ उत्तरीय प्रकार के प्रश्न",
+                        "PR_CODE": "3169",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 9,
+                        "PR_NAME": "मिश्रित",
+                        "PR_CODE": "9371",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 10,
+                        "PR_NAME": "सही या गलत लिखो",
+                        "PR_CODE": "8978",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": null,
+                        "PR_QUESTIONS": []
+                    }
+                ]
+            },
+            {
+                "PR_CHAPTER_ID": 519,
+                "PR_NAME": "संज्ञा के स्थान पर: सर्वनाम",
+                "PR_CODE": "8309",
+                "PR_ICON": "/media/default-img.png",
+                "PR_DESCRIPTION": "",
+                "PR_QUESTION_TYPE": [
+                    {
+                        "PR_QUESTION_TYPE_ID": 1,
+                        "PR_NAME": "रिक्त स्थान को भरें",
+                        "PR_CODE": "7141",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 2,
+                        "PR_NAME": "निम्नलिखित पर गोला लगाएँ",
+                        "PR_CODE": "5055",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 3,
+                        "PR_NAME": "निम्नलिखित को रेखांकित करें",
+                        "PR_CODE": "6607",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 4,
+                        "PR_NAME": "सही और गलत",
+                        "PR_CODE": "1879",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 5,
+                        "PR_NAME": "निम्नलिखित को मिलाएं",
+                        "PR_CODE": "7968",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 6,
+                        "PR_NAME": "बहु विकल्पीय प्रश्न",
+                        "PR_CODE": "3834",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 7,
+                        "PR_NAME": "लघु उत्तरीय प्रश्न",
+                        "PR_CODE": "9387",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": [
+                            {
+                                "PR_QUESTION": "सर्वनाम किसे कहते हैं?",
+                                "PR_DESCRIPTION": "मौखिक",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "नाम वाले शब्दों के स्थान पर प्रयोग किए जाने वाले शब्द सर्वनाम कहलाते हैं।"
+                            },
+                            {
+                                "PR_QUESTION": "अपने से अध्कि आयु वालों वेफ लिए किस सर्वनाम शब्द का प्रयोग करोगे?",
+                                "PR_DESCRIPTION": "मौखिक",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "अपने से अधिक आयु वालों के लिए ‘आप’ सर्वनाम शब्द का प्रयोग करेंगे।"
+                            },
+                            {
+                                "PR_QUESTION": "ऋऋऋऋऋऋऋऋऋऋऋ  म ेरी किताब है।",
+                                "PR_DESCRIPTION": "दिए गए खाली स्थानों में उचित सर्वनाम शब्द का प्रयोग करवेफ वाक्य पूरे कीजिए",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "यह"
+                            },
+                            {
+                                "PR_QUESTION": "ऋऋऋऋऋऋऋऋऋऋऋ  रमा की पेंसिल है।",
+                                "PR_DESCRIPTION": "दिए गए खाली स्थानों में उचित सर्वनाम शब्द का प्रयोग करवेफ वाक्य पूरे कीजिए",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "वह"
+                            },
+                            {
+                                "PR_QUESTION": "ऋऋऋऋऋऋऋऋऋ  पुफटबाॅल खेलना पसंद करता हूँ।",
+                                "PR_DESCRIPTION": "दिए गए खाली स्थानों में उचित सर्वनाम शब्द का प्रयोग करवेफ वाक्य पूरे कीजिए",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "मैं"
+                            },
+                            {
+                                "PR_QUESTION": "ऋऋऋऋऋऋऋऋऋऋ  स्वूफल कब जाओगे?",
+                                "PR_DESCRIPTION": "दिए गए खाली स्थानों में उचित सर्वनाम शब्द का प्रयोग करवेफ वाक्य पूरे कीजिए",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "तुम"
+                            },
+                            {
+                                "PR_QUESTION": "ऋऋऋऋऋऋऋऋऋ  स्वूफल में प्रतिदिन सुबह व्यायाम होता है।",
+                                "PR_DESCRIPTION": "दिए गए खाली स्थानों में उचित सर्वनाम शब्द का प्रयोग करवेफ वाक्य पूरे कीजिए",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "मेरे"
+                            }
+                        ]
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 8,
+                        "PR_NAME": "दीर्घ उत्तरीय प्रकार के प्रश्न",
+                        "PR_CODE": "3169",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 9,
+                        "PR_NAME": "मिश्रित",
+                        "PR_CODE": "9371",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 10,
+                        "PR_NAME": "सही या गलत लिखो",
+                        "PR_CODE": "8978",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": null,
+                        "PR_QUESTIONS": []
+                    }
+                ]
+            },
+            {
+                "PR_CHAPTER_ID": 520,
+                "PR_NAME": "विशेषता बताने वाले शब्द: विशेषण",
+                "PR_CODE": "1373",
+                "PR_ICON": "/media/default-img.png",
+                "PR_DESCRIPTION": "",
+                "PR_QUESTION_TYPE": [
+                    {
+                        "PR_QUESTION_TYPE_ID": 1,
+                        "PR_NAME": "रिक्त स्थान को भरें",
+                        "PR_CODE": "7141",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 2,
+                        "PR_NAME": "निम्नलिखित पर गोला लगाएँ",
+                        "PR_CODE": "5055",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 3,
+                        "PR_NAME": "निम्नलिखित को रेखांकित करें",
+                        "PR_CODE": "6607",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 4,
+                        "PR_NAME": "सही और गलत",
+                        "PR_CODE": "1879",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 5,
+                        "PR_NAME": "निम्नलिखित को मिलाएं",
+                        "PR_CODE": "7968",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 6,
+                        "PR_NAME": "बहु विकल्पीय प्रश्न",
+                        "PR_CODE": "3834",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 7,
+                        "PR_NAME": "लघु उत्तरीय प्रश्न",
+                        "PR_CODE": "9387",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": [
+                            {
+                                "PR_QUESTION": "मेरे परिवार में दादाजी सबसे हैं। ;बड़े / छोटेद्ध",
+                                "PR_DESCRIPTION": "सही शब्द चुनकर खाली स्थान भरिए",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "बड़े"
+                            },
+                            {
+                                "PR_QUESTION": "मेरे पिताजी चाय पीते हैं। ;ठंडी / गरमद्ध",
+                                "PR_DESCRIPTION": "सही शब्द चुनकर खाली स्थान भरिए",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "गरम"
+                            },
+                            {
+                                "PR_QUESTION": "मिर्च का रंग ऋऋऋऋऋऋऋऋऋऋऋऋ होता है। ;लाल / सप्.ोफदद्ध",
+                                "PR_DESCRIPTION": "सही शब्द चुनकर खाली स्थान भरिए",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "लाल"
+                            },
+                            {
+                                "PR_QUESTION": "गाय का दूध् होता है। ;मीठा / खट्टाद्ध",
+                                "PR_DESCRIPTION": "सही शब्द चुनकर खाली स्थान भरिए",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "मीठा"
+                            },
+                            {
+                                "PR_QUESTION": "नींबू होता है। ;खट्टा / पफीकाद्ध",
+                                "PR_DESCRIPTION": "सही शब्द चुनकर खाली स्थान भरिए",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "खट्टा"
+                            }
+                        ]
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 8,
+                        "PR_NAME": "दीर्घ उत्तरीय प्रकार के प्रश्न",
+                        "PR_CODE": "3169",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 9,
+                        "PR_NAME": "मिश्रित",
+                        "PR_CODE": "9371",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 10,
+                        "PR_NAME": "सही या गलत लिखो",
+                        "PR_CODE": "8978",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": null,
+                        "PR_QUESTIONS": []
+                    }
+                ]
+            },
+            {
+                "PR_CHAPTER_ID": 521,
+                "PR_NAME": "काम वाले शब्द: क्रिया",
+                "PR_CODE": "2708",
+                "PR_ICON": "/media/default-img.png",
+                "PR_DESCRIPTION": "",
+                "PR_QUESTION_TYPE": [
+                    {
+                        "PR_QUESTION_TYPE_ID": 1,
+                        "PR_NAME": "रिक्त स्थान को भरें",
+                        "PR_CODE": "7141",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 2,
+                        "PR_NAME": "निम्नलिखित पर गोला लगाएँ",
+                        "PR_CODE": "5055",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 3,
+                        "PR_NAME": "निम्नलिखित को रेखांकित करें",
+                        "PR_CODE": "6607",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 4,
+                        "PR_NAME": "सही और गलत",
+                        "PR_CODE": "1879",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 5,
+                        "PR_NAME": "निम्नलिखित को मिलाएं",
+                        "PR_CODE": "7968",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 6,
+                        "PR_NAME": "बहु विकल्पीय प्रश्न",
+                        "PR_CODE": "3834",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 7,
+                        "PR_NAME": "लघु उत्तरीय प्रश्न",
+                        "PR_CODE": "9387",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": [
+                            {
+                                "PR_QUESTION": "क्रिया किसे कहते हैं?",
+                                "PR_DESCRIPTION": "मौखिक",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "जिन शब्दों से वाक्य में किसी काम के होने का बोध होता है उन्हें ‘क्रिया’ कहते हैं।"
+                            },
+                            {
+                                "PR_QUESTION": "तुम क्या करते हो?",
+                                "PR_DESCRIPTION": "मौखिक",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": ","
+                            },
+                            {
+                                "PR_QUESTION": "तुम्हारे पिताजी क्या करते हैं?",
+                                "PR_DESCRIPTION": "मौखिक",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "और"
+                            },
+                            {
+                                "PR_QUESTION": "तुम्हारी माताजी क्या करती हैं?",
+                                "PR_DESCRIPTION": "मौखिक",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "छात्र स्वयं करें।"
+                            }
+                        ]
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 8,
+                        "PR_NAME": "दीर्घ उत्तरीय प्रकार के प्रश्न",
+                        "PR_CODE": "3169",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 9,
+                        "PR_NAME": "मिश्रित",
+                        "PR_CODE": "9371",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 10,
+                        "PR_NAME": "सही या गलत लिखो",
+                        "PR_CODE": "8978",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": null,
+                        "PR_QUESTIONS": []
+                    }
+                ]
+            },
+            {
+                "PR_CHAPTER_ID": 522,
+                "PR_NAME": "समान अर्थ वाले शब्द: पर्यायवाची शब्द",
+                "PR_CODE": "1290",
+                "PR_ICON": "/media/default-img.png",
+                "PR_DESCRIPTION": "",
+                "PR_QUESTION_TYPE": [
+                    {
+                        "PR_QUESTION_TYPE_ID": 1,
+                        "PR_NAME": "रिक्त स्थान को भरें",
+                        "PR_CODE": "7141",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 2,
+                        "PR_NAME": "निम्नलिखित पर गोला लगाएँ",
+                        "PR_CODE": "5055",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 3,
+                        "PR_NAME": "निम्नलिखित को रेखांकित करें",
+                        "PR_CODE": "6607",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 4,
+                        "PR_NAME": "सही और गलत",
+                        "PR_CODE": "1879",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 5,
+                        "PR_NAME": "निम्नलिखित को मिलाएं",
+                        "PR_CODE": "7968",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 6,
+                        "PR_NAME": "बहु विकल्पीय प्रश्न",
+                        "PR_CODE": "3834",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 7,
+                        "PR_NAME": "लघु उत्तरीय प्रश्न",
+                        "PR_CODE": "9387",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": [
+                            {
+                                "PR_QUESTION": "पर्यायवाची शब्द किसे कहते हैं?",
+                                "PR_DESCRIPTION": "मौखिक",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "समान अर्थ बताने वाले शब्दों को पर्यायवाची शब्द कहते हैं।"
+                            },
+                            {
+                                "PR_QUESTION": "‘हाथी’ का पर्यायवाची शब्द क्या है?",
+                                "PR_DESCRIPTION": "मौखिक",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "हाथी μ गज।"
+                            },
+                            {
+                                "PR_QUESTION": "ईश्वर-",
+                                "PR_DESCRIPTION": "नीचे दिए शब्दों वेफ समान अर्थ लिखिए",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "भगवान"
+                            },
+                            {
+                                "PR_QUESTION": "माता -",
+                                "PR_DESCRIPTION": "नीचे दिए शब्दों वेफ समान अर्थ लिखिए",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "माँ"
+                            },
+                            {
+                                "PR_QUESTION": "हवा -",
+                                "PR_DESCRIPTION": "नीचे दिए शब्दों वेफ समान अर्थ लिखिए",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "वायु"
+                            },
+                            {
+                                "PR_QUESTION": "ध्रती-",
+                                "PR_DESCRIPTION": "नीचे दिए शब्दों वेफ समान अर्थ लिखिए",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "पृथ्वी"
+                            },
+                            {
+                                "PR_QUESTION": "सूर्य -",
+                                "PR_DESCRIPTION": "नीचे दिए शब्दों वेफ समान अर्थ लिखिए",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "सूरज"
+                            },
+                            {
+                                "PR_QUESTION": "कपड़ा -",
+                                "PR_DESCRIPTION": "नीचे दिए शब्दों वेफ समान अर्थ लिखिए",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "वस्त्र"
+                            }
+                        ]
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 8,
+                        "PR_NAME": "दीर्घ उत्तरीय प्रकार के प्रश्न",
+                        "PR_CODE": "3169",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 9,
+                        "PR_NAME": "मिश्रित",
+                        "PR_CODE": "9371",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 10,
+                        "PR_NAME": "सही या गलत लिखो",
+                        "PR_CODE": "8978",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": null,
+                        "PR_QUESTIONS": []
+                    }
+                ]
+            },
+            {
+                "PR_CHAPTER_ID": 523,
+                "PR_NAME": "विपरीत अर्थ वाले शब्द: विलोम शब्द",
+                "PR_CODE": "7624",
+                "PR_ICON": "/media/default-img.png",
+                "PR_DESCRIPTION": "",
+                "PR_QUESTION_TYPE": [
+                    {
+                        "PR_QUESTION_TYPE_ID": 1,
+                        "PR_NAME": "रिक्त स्थान को भरें",
+                        "PR_CODE": "7141",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 2,
+                        "PR_NAME": "निम्नलिखित पर गोला लगाएँ",
+                        "PR_CODE": "5055",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 3,
+                        "PR_NAME": "निम्नलिखित को रेखांकित करें",
+                        "PR_CODE": "6607",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 4,
+                        "PR_NAME": "सही और गलत",
+                        "PR_CODE": "1879",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 5,
+                        "PR_NAME": "निम्नलिखित को मिलाएं",
+                        "PR_CODE": "7968",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 6,
+                        "PR_NAME": "बहु विकल्पीय प्रश्न",
+                        "PR_CODE": "3834",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 7,
+                        "PR_NAME": "लघु उत्तरीय प्रश्न",
+                        "PR_CODE": "9387",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": [
+                            {
+                                "PR_QUESTION": "विलोम शब्द किसे कहते हैं?",
+                                "PR_DESCRIPTION": "मौखिक",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "विपरीत अर्थ बताने वाले शब्दों को ‘विलोम शब्द’ कहते हैं।"
+                            },
+                            {
+                                "PR_QUESTION": "रात का विलोम शब्द क्या है?",
+                                "PR_DESCRIPTION": "मौखिक",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "रात μ दिन।"
+                            },
+                            {
+                                "PR_QUESTION": "अच्छा -",
+                                "PR_DESCRIPTION": "नीचे वुफछ शब्द दिए गए हैं, इनवेफ विपरीत अर्थ वाले शब्दों को लिखिएμ",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "बुरा"
+                            },
+                            {
+                                "PR_QUESTION": "हँसना -",
+                                "PR_DESCRIPTION": "नीचे वुफछ शब्द दिए गए हैं, इनवेफ विपरीत अर्थ वाले शब्दों को लिखिएμ",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "रोना"
+                            },
+                            {
+                                "PR_QUESTION": "हार -",
+                                "PR_DESCRIPTION": "नीचे वुफछ शब्द दिए गए हैं, इनवेफ विपरीत अर्थ वाले शब्दों को लिखिएμ",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "जीत"
+                            }
+                        ]
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 8,
+                        "PR_NAME": "दीर्घ उत्तरीय प्रकार के प्रश्न",
+                        "PR_CODE": "3169",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 9,
+                        "PR_NAME": "मिश्रित",
+                        "PR_CODE": "9371",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 10,
+                        "PR_NAME": "सही या गलत लिखो",
+                        "PR_CODE": "8978",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": null,
+                        "PR_QUESTIONS": []
+                    }
+                ]
+            },
+            {
+                "PR_CHAPTER_ID": 524,
+                "PR_NAME": "आओ रचें कहानी",
+                "PR_CODE": "2946",
+                "PR_ICON": "/media/default-img.png",
+                "PR_DESCRIPTION": "",
+                "PR_QUESTION_TYPE": [
+                    {
+                        "PR_QUESTION_TYPE_ID": 1,
+                        "PR_NAME": "रिक्त स्थान को भरें",
+                        "PR_CODE": "7141",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 2,
+                        "PR_NAME": "निम्नलिखित पर गोला लगाएँ",
+                        "PR_CODE": "5055",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 3,
+                        "PR_NAME": "निम्नलिखित को रेखांकित करें",
+                        "PR_CODE": "6607",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 4,
+                        "PR_NAME": "सही और गलत",
+                        "PR_CODE": "1879",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 5,
+                        "PR_NAME": "निम्नलिखित को मिलाएं",
+                        "PR_CODE": "7968",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 6,
+                        "PR_NAME": "बहु विकल्पीय प्रश्न",
+                        "PR_CODE": "3834",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 7,
+                        "PR_NAME": "लघु उत्तरीय प्रश्न",
+                        "PR_CODE": "9387",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 8,
+                        "PR_NAME": "दीर्घ उत्तरीय प्रकार के प्रश्न",
+                        "PR_CODE": "3169",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 9,
+                        "PR_NAME": "मिश्रित",
+                        "PR_CODE": "9371",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 10,
+                        "PR_NAME": "सही या गलत लिखो",
+                        "PR_CODE": "8978",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": null,
+                        "PR_QUESTIONS": []
+                    }
+                ]
+            },
+            {
+                "PR_CHAPTER_ID": 525,
+                "PR_NAME": "गिनती: 1 से 10 तक",
+                "PR_CODE": "2078",
+                "PR_ICON": "/media/default-img.png",
+                "PR_DESCRIPTION": "",
+                "PR_QUESTION_TYPE": [
+                    {
+                        "PR_QUESTION_TYPE_ID": 1,
+                        "PR_NAME": "रिक्त स्थान को भरें",
+                        "PR_CODE": "7141",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 2,
+                        "PR_NAME": "निम्नलिखित पर गोला लगाएँ",
+                        "PR_CODE": "5055",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 3,
+                        "PR_NAME": "निम्नलिखित को रेखांकित करें",
+                        "PR_CODE": "6607",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 4,
+                        "PR_NAME": "सही और गलत",
+                        "PR_CODE": "1879",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 5,
+                        "PR_NAME": "निम्नलिखित को मिलाएं",
+                        "PR_CODE": "7968",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 6,
+                        "PR_NAME": "बहु विकल्पीय प्रश्न",
+                        "PR_CODE": "3834",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": [
+                            {
+                                "PR_QUESTION": "गिनती लिखने का ढंग अलग-अलग हैμ",
+                                "PR_DESCRIPTION": "सही उत्तर पर सही का निशान लगाइए",
+                                "PR_FIRST_OPTION": "हर घर में",
+                                "PR_SECOND_OPTION": "हर क्षेत्रा में",
+                                "PR_THIRD_OPTION": "हर क्षेत्रा में",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "हर भाषा में"
+                            },
+                            {
+                                "PR_QUESTION": "सात को हिंदी अंको में वैफसे लिखते हैं?",
+                                "PR_DESCRIPTION": "सही उत्तर पर सही का निशान लगाइए",
+                                "PR_FIRST_OPTION": "7",
+                                "PR_SECOND_OPTION": "झ्",
+                                "PR_THIRD_OPTION": "7",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "7"
+                            },
+                            {
+                                "PR_QUESTION": "ÿ क्या है?",
+                                "PR_DESCRIPTION": "सही उत्तर पर सही का निशान लगाइए",
+                                "PR_FIRST_OPTION": "हिंदी शब्द",
+                                "PR_SECOND_OPTION": "हिंदी शब्द",
+                                "PR_THIRD_OPTION": "हिंदी अंक",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "हिंदी अंक"
+                            }
+                        ]
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 7,
+                        "PR_NAME": "लघु उत्तरीय प्रश्न",
+                        "PR_CODE": "9387",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 8,
+                        "PR_NAME": "दीर्घ उत्तरीय प्रकार के प्रश्न",
+                        "PR_CODE": "3169",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 9,
+                        "PR_NAME": "मिश्रित",
+                        "PR_CODE": "9371",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 10,
+                        "PR_NAME": "सही या गलत लिखो",
+                        "PR_CODE": "8978",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": null,
+                        "PR_QUESTIONS": []
+                    }
+                ]
+            }
+        ]
+    }
+}

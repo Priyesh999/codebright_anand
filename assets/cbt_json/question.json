@@ -1,0 +1,96 @@
+{
+  "STATUS": "SUCCESS",
+  "MESSAGE": "Message has been successfully send!!",
+  "DATA": [
+    {
+      "PR_QUESTION_TYPE_ID": 1,
+      "PR_NAME": "FILL IN THE BLANK",
+      "PR_ICON": "/media/default-img.png",
+      "PR_DESCRIPTION": "",
+      "PR_STATUS": 1,
+      "PR_CREATED_AT": "2023-07-11T08:22:36.840Z",
+      "PR_MODIFIED_AT": "2023-07-11T08:22:36.840Z",
+      "PR_TOTAL_QUESTIONS": 2
+    },
+    {
+      "PR_QUESTION_TYPE_ID": 2,
+      "PR_NAME": "CIRCLE THE FOLLOWING",
+      "PR_ICON": "/media/default-img.png",
+      "PR_DESCRIPTION": "",
+      "PR_STATUS": 1,
+      "PR_CREATED_AT": "2023-07-11T08:22:36.850Z",
+      "PR_MODIFIED_AT": "2023-07-11T08:22:36.850Z",
+      "PR_TOTAL_QUESTIONS": 8
+    },
+    {
+      "PR_QUESTION_TYPE_ID": 3,
+      "PR_NAME": "UNDERLINE THE FOLLOWING",
+      "PR_ICON": "/media/default-img.png",
+      "PR_DESCRIPTION": "",
+      "PR_STATUS": 1,
+      "PR_CREATED_AT": "2023-07-11T08:22:36.857Z",
+      "PR_MODIFIED_AT": "2023-07-11T08:22:36.857Z",
+      "PR_TOTAL_QUESTIONS": 0
+    },
+    {
+      "PR_QUESTION_TYPE_ID": 4,
+      "PR_NAME": "TRUE AND FALSE",
+      "PR_ICON": "/media/default-img.png",
+      "PR_DESCRIPTION": "",
+      "PR_STATUS": 1,
+      "PR_CREATED_AT": "2023-07-11T08:22:36.865Z",
+      "PR_MODIFIED_AT": "2023-07-11T08:22:36.865Z",
+      "PR_TOTAL_QUESTIONS": 0
+    },
+    {
+      "PR_QUESTION_TYPE_ID": 5,
+      "PR_NAME": "MATCH THE FOLLOWING",
+      "PR_ICON": "/media/default-img.png",
+      "PR_DESCRIPTION": "",
+      "PR_STATUS": 1,
+      "PR_CREATED_AT": "2023-07-11T08:22:36.871Z",
+      "PR_MODIFIED_AT": "2023-07-11T08:22:36.871Z",
+      "PR_TOTAL_QUESTIONS": 0
+    },
+    {
+      "PR_QUESTION_TYPE_ID": 6,
+      "PR_NAME": "MULTIPLE CHOICE QUESTIONS",
+      "PR_ICON": "/media/default-img.png",
+      "PR_DESCRIPTION": "",
+      "PR_STATUS": 1,
+      "PR_CREATED_AT": "2023-07-11T08:22:36.880Z",
+      "PR_MODIFIED_AT": "2023-07-11T08:22:36.880Z",
+      "PR_TOTAL_QUESTIONS": 0
+    },
+    {
+      "PR_QUESTION_TYPE_ID": 7,
+      "PR_NAME": "SHORT ANSWER TYPE QUESTIONS",
+      "PR_ICON": "/media/default-img.png",
+      "PR_DESCRIPTION": "",
+      "PR_STATUS": 1,
+      "PR_CREATED_AT": "2023-07-11T08:22:36.888Z",
+      "PR_MODIFIED_AT": "2023-07-11T08:22:36.888Z",
+      "PR_TOTAL_QUESTIONS": 1
+    },
+    {
+      "PR_QUESTION_TYPE_ID": 8,
+      "PR_NAME": "LONG ANSWER TYPE QUESTIONS",
+      "PR_ICON": "/media/default-img.png",
+      "PR_DESCRIPTION": "",
+      "PR_STATUS": 1,
+      "PR_CREATED_AT": "2023-07-11T08:22:36.894Z",
+      "PR_MODIFIED_AT": "2023-07-11T08:22:36.894Z",
+      "PR_TOTAL_QUESTIONS": 1
+    },
+    {
+      "PR_QUESTION_TYPE_ID": 9,
+      "PR_NAME": "MISCELLANEOUS",
+      "PR_ICON": "/media/default-img.png",
+      "PR_DESCRIPTION": "",
+      "PR_STATUS": 1,
+      "PR_CREATED_AT": "2023-07-11T08:22:36.900Z",
+      "PR_MODIFIED_AT": "2023-07-11T08:22:36.900Z",
+      "PR_TOTAL_QUESTIONS": 0
+    }
+  ]
+}

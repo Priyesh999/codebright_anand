@@ -1,0 +1,3562 @@
+{
+    "STATUS": "SUCCESS",
+    "MESSAGE": "Message has been successfully send!!",
+    "TOTAL_COUNT": 0,
+    "DATA": {
+        "PR_BOOK_ID": 27,
+        "PR_CATEGORY": "Vedanta Books",
+        "PR_CLASS": "1st",
+        "PR_SUBJECT": "Hindi",
+        "PR_NAME": "Vedanta Hindi Stuti-1",
+        "PR_CODE": "8809",
+        "PR_ICON": "/media/default-img.png",
+        "PR_DESCRIPTION": "",
+        "PR_CHAPTERS": [
+            {
+                "PR_CHAPTER_ID": 434,
+                "PR_NAME": "भिखारी और हीरा",
+                "PR_CODE": "7263",
+                "PR_ICON": "/media/default-img.png",
+                "PR_DESCRIPTION": "",
+                "PR_QUESTION_TYPE": [
+                    {
+                        "PR_QUESTION_TYPE_ID": 1,
+                        "PR_NAME": "FILL IN THE BLANK",
+                        "PR_CODE": "7141",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 2,
+                        "PR_NAME": "CIRCLE THE FOLLOWING",
+                        "PR_CODE": "5055",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 3,
+                        "PR_NAME": "UNDERLINE THE FOLLOWING",
+                        "PR_CODE": "6607",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 4,
+                        "PR_NAME": "TRUE AND FALSE",
+                        "PR_CODE": "1879",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": [
+                            {
+                                "PR_QUESTION": "भिखारी एक वन में रहता था।",
+                                "PR_DESCRIPTION": "अशुद्ध् कथन पर गलत  तथा शुद्ध् कथन पर सही  का निशान लगाएँः",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "गलत"
+                            },
+                            {
+                                "PR_QUESTION": "भिखारी को सड़क वेफ किनारे एक हीरा मिला।",
+                                "PR_DESCRIPTION": "अशुद्ध् कथन पर गलत  तथा शुद्ध् कथन पर सही  का निशान लगाएँः",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "सही"
+                            },
+                            {
+                                "PR_QUESTION": "भिखारी की घरवाली बहुत मूर्ख थी।",
+                                "PR_DESCRIPTION": "अशुद्ध् कथन पर गलत  तथा शुद्ध् कथन पर सही  का निशान लगाएँः",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "गलत"
+                            },
+                            {
+                                "PR_QUESTION": "हीरे वेफ बदले भिखारी को तीन लाख रुपये मिले।",
+                                "PR_DESCRIPTION": "अशुद्ध् कथन पर गलत  तथा शुद्ध् कथन पर सही  का निशान लगाएँः",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "सही"
+                            }
+                        ]
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 5,
+                        "PR_NAME": "MATCH THE FOLLOWING",
+                        "PR_CODE": "7968",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 6,
+                        "PR_NAME": "MULTIPLE CHOICE QUESTIONS",
+                        "PR_CODE": "3834",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": [
+                            {
+                                "PR_QUESTION": "भिखारी भीख माँगने वेफ लिए निकलता थाµ",
+                                "PR_DESCRIPTION": "शुद्ध् विकल्प पर सही  का निशान लगाएँः",
+                                "PR_FIRST_OPTION": "सुबह",
+                                "PR_SECOND_OPTION": "दिन ढल",
+                                "PR_THIRD_OPTION": "दोपहर",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "सुबह"
+                            },
+                            {
+                                "PR_QUESTION": "हीरा भिखारी को मिला था एकµ",
+                                "PR_DESCRIPTION": "शुद्ध् विकल्प पर सही  का निशान लगाएँः",
+                                "PR_FIRST_OPTION": "पेड़ वेफ नीच",
+                                "PR_SECOND_OPTION": "खेत म",
+                                "PR_THIRD_OPTION": "सड़क वेफ किनार",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "सड़क के किनार"
+                            },
+                            {
+                                "PR_QUESTION": "जौहरी हीरे को देखकर हो गयाµ",
+                                "PR_DESCRIPTION": "शुद्ध् विकल्प पर सही  का निशान लगाएँः",
+                                "PR_FIRST_OPTION": "खुश",
+                                "PR_SECOND_OPTION": "चकित",
+                                "PR_THIRD_OPTION": "उदास",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "चकित"
+                            }
+                        ]
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 7,
+                        "PR_NAME": "SHORT ANSWER TYPE QUESTIONS",
+                        "PR_CODE": "9387",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": [
+                            {
+                                "PR_QUESTION": "भिखारी कहाँ रहता था?",
+                                "PR_DESCRIPTION": "निम्नलिखित प्रश्नों वेफ मौखिक उत्तर देंः",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "एक छोटे से नगर में।"
+                            },
+                            {
+                                "PR_QUESTION": "भिखारी घर से कब निकलता था?",
+                                "PR_DESCRIPTION": "निम्नलिखित प्रश्नों वेफ मौखिक उत्तर देंः",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "सुबह-सवेरे।"
+                            },
+                            {
+                                "PR_QUESTION": "भिखारी घर कब लौटता था?",
+                                "PR_DESCRIPTION": "निम्नलिखित प्रश्नों वेफ मौखिक उत्तर देंः",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "दिन ढल जाने पर"
+                            },
+                            {
+                                "PR_QUESTION": "भिखारी को सड़क वेफ किनारे क्या दिखाई पड़ा?",
+                                "PR_DESCRIPTION": "निम्नलिखित प्रश्नों वेफ मौखिक उत्तर देंः",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "एक चमकदार चीज"
+                            },
+                            {
+                                "PR_QUESTION": "वह चमकदार चीज़ क्या थी?",
+                                "PR_DESCRIPTION": "निम्नलिखित प्रश्नों  मौखिक उत्तर देंः",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "एक कीमती हीरा"
+                            },
+                            {
+                                "PR_QUESTION": "भिखारी हीरे को कहाँ ले गया?",
+                                "PR_DESCRIPTION": "निम्नलिखित प्रश्नों वेफ मौखिक उत्तर देंः",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "एक जौहरी के पास।"
+                            },
+                            {
+                                "PR_QUESTION": "भिखारी को हीरे वेफ बदले कितने रुपये मिले?",
+                                "PR_DESCRIPTION": "निम्नलिखित प्रश्नों वेफ मौखिक उत्तर देंः",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "तीन लाख रुपये।"
+                            },
+                            {
+                                "PR_QUESTION": "भिखारी ने हीरा उठाकर कहाँ डाला?",
+                                "PR_DESCRIPTION": "निम्नलिखित प्रश्नों वेफ लिखित उत्तर देंः",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "भिखारी ने हीरा उठाकर अपने झोले में डाला।"
+                            },
+                            {
+                                "PR_QUESTION": "भिखारी की घरवाली वैफसी थी?",
+                                "PR_DESCRIPTION": "निम्नलिखित प्रश्नों वेफ लिखित उत्तर देंः",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "भिखारी की घरवाली बहुत चतुर थी।"
+                            },
+                            {
+                                "PR_QUESTION": "ध्न पाकर भिखारी दंपती वैफसे रहने लगा?",
+                                "PR_DESCRIPTION": "निम्नलिखित प्रश्नों वेफ लिखित उत्तर देंः",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "धन पाकर भिखारी दंपती सुख से रहने लगा।"
+                            }
+                        ]
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 8,
+                        "PR_NAME": "LONG ANSWER TYPE QUESTIONS",
+                        "PR_CODE": "3169",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 9,
+                        "PR_NAME": "MISCELLANEOUS",
+                        "PR_CODE": "9371",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 10,
+                        "PR_NAME": "WRITE TRUE OR FALSE",
+                        "PR_CODE": "8978",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": null,
+                        "PR_QUESTIONS": []
+                    }
+                ]
+            },
+            {
+                "PR_CHAPTER_ID": 435,
+                "PR_NAME": "खरगोश और कछुआ",
+                "PR_CODE": "7140",
+                "PR_ICON": "/media/default-img.png",
+                "PR_DESCRIPTION": "",
+                "PR_QUESTION_TYPE": [
+                    {
+                        "PR_QUESTION_TYPE_ID": 1,
+                        "PR_NAME": "FILL IN THE BLANK",
+                        "PR_CODE": "7141",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 2,
+                        "PR_NAME": "CIRCLE THE FOLLOWING",
+                        "PR_CODE": "5055",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 3,
+                        "PR_NAME": "UNDERLINE THE FOLLOWING",
+                        "PR_CODE": "6607",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 4,
+                        "PR_NAME": "TRUE AND FALSE",
+                        "PR_CODE": "1879",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": [
+                            {
+                                "PR_QUESTION": "खरगोश कछुए की ध्ीमी चाल पर हँस पड़ा।",
+                                "PR_DESCRIPTION": "अशुद्ध् कथन पर गलत  तथा शुद्ध् कथन पर सही  का निशान लगाएँः",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "शुद्ध्"
+                            },
+                            {
+                                "PR_QUESTION": "खरगोश दौड़ वेफ लिए सहमत न हुआ।",
+                                "PR_DESCRIPTION": "अशुद्ध् कथन पर गलत  तथा शुद्ध् कथन पर सही  का निशान लगाएँः",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "अशुद्ध्"
+                            },
+                            {
+                                "PR_QUESTION": "कछुआ पेड़ वेफ नीचे सो गया।",
+                                "PR_DESCRIPTION": "अशुद्ध् कथन पर गलत  तथा शुद्ध् कथन पर सही  का निशान लगाएँः",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "अशुद्ध्"
+                            },
+                            {
+                                "PR_QUESTION": "खरगोश दौड़ हार गया।",
+                                "PR_DESCRIPTION": "अशुद्ध् कथन पर गलत  तथा शुद्ध् कथन पर सही  का निशान लगाएँः",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "शुद्ध्"
+                            }
+                        ]
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 5,
+                        "PR_NAME": "MATCH THE FOLLOWING",
+                        "PR_CODE": "7968",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 6,
+                        "PR_NAME": "MULTIPLE CHOICE QUESTIONS",
+                        "PR_CODE": "3834",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": [
+                            {
+                                "PR_QUESTION": "खरगोश पानी पीने वेफ लिए गयाµ",
+                                "PR_DESCRIPTION": "शुद्ध् विकल्प पर सही  का निशान लगाएँः",
+                                "PR_FIRST_OPTION": "नदी पर",
+                                "PR_SECOND_OPTION": "वुफएँ पर",
+                                "PR_THIRD_OPTION": "सरोवर पर",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "सरोवर पर"
+                            },
+                            {
+                                "PR_QUESTION": "कछुए की चाल होती हैµ",
+                                "PR_DESCRIPTION": "शुद्ध् विकल्प पर सही  का निशान लगाएँः",
+                                "PR_FIRST_OPTION": "तेश",
+                                "PR_SECOND_OPTION": "ध्ीमी",
+                                "PR_THIRD_OPTION": "दोनों में से कोई नही",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "धीमी"
+                            },
+                            {
+                                "PR_QUESTION": "किसी की हँसी उड़ाना होता हैµ",
+                                "PR_DESCRIPTION": "शुद्ध् विकल्प पर सही  का निशान लगाएँः",
+                                "PR_FIRST_OPTION": "खरगोश",
+                                "PR_SECOND_OPTION": "कछुअ",
+                                "PR_THIRD_OPTION": "हिरण",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "खरगोश"
+                            }
+                        ]
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 7,
+                        "PR_NAME": "SHORT ANSWER TYPE QUESTIONS",
+                        "PR_CODE": "9387",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": [
+                            {
+                                "PR_QUESTION": "खरगोश पानी पीने वेफ लिए कहाँ गया?",
+                                "PR_DESCRIPTION": "निम्नलिखित प्रश्नों वेफ मौखिक उत्तर देंः",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "सरोवर पर"
+                            },
+                            {
+                                "PR_QUESTION": "खरगोश कछुए की किस बात पर हँसा?",
+                                "PR_DESCRIPTION": "निम्नलिखित प्रश्नों वेफ मौखिक उत्तर देंः",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "धीमी चाल पर"
+                            },
+                            {
+                                "PR_QUESTION": "कछुए ने खरगोश को किस बात वेफ लिए चुनौती दी?",
+                                "PR_DESCRIPTION": "निम्नलिखित प्रश्नों वेफ मौखिक उत्तर देंः",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "दौड़ के लि"
+                            },
+                            {
+                                "PR_QUESTION": "दौड़ कहाँ तक होनी थी?",
+                                "PR_DESCRIPTION": "निम्नलिखित प्रश्नों वेफ मौखिक उत्तर देंः",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "नदी के तट तक"
+                            },
+                            {
+                                "PR_QUESTION": "खरगोश कहाँ पर सो गया?",
+                                "PR_DESCRIPTION": "निम्नलिखित प्रश्नों वेफ मौखिक उत्तर देंः",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "एक पेड़ के नीचे"
+                            },
+                            {
+                                "PR_QUESTION": "नदी वेफ तट पर पहले कौन पहुँचा?",
+                                "PR_DESCRIPTION": "निम्नलिखित प्रश्नों वेफ मौखिक उत्तर देंः",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "कछुआ"
+                            },
+                            {
+                                "PR_QUESTION": "खरगोश ने किस कारण सिर झुका लिया?",
+                                "PR_DESCRIPTION": "निम्नलिखित प्रश्नों वेफ मौखिक उत्तर देंः",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "शरम के कारण"
+                            },
+                            {
+                                "PR_QUESTION": "किसने किससे क्षमा माँगी?",
+                                "PR_DESCRIPTION": "निम्नलिखित प्रश्नों वेफ मौखिक उत्तर देंः",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "खरगोश ने कछुए स"
+                            },
+                            {
+                                "PR_QUESTION": "कछुआ सरोवर पर क्या करने गया?",
+                                "PR_DESCRIPTION": "निम्नलिखित प्रश्नों वेफ लिखित उत्तर देंः",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "कछुआ सरोवर पर टहल रहा था।"
+                            },
+                            {
+                                "PR_QUESTION": "खरगोश ने क्या करने की सोची?",
+                                "PR_DESCRIPTION": "निम्नलिखित प्रश्नों वेफ लिखित उत्तर देंः",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "खरगोश ने कुछ समय आराम करने की सोची।"
+                            },
+                            {
+                                "PR_QUESTION": "दौड़ कहाँ तक हुई?",
+                                "PR_DESCRIPTION": "निम्नलिखित प्रश्नों वेफ लिखित उत्तर देंः",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "दौड़ नदी के तट तक हुई।"
+                            },
+                            {
+                                "PR_QUESTION": "किसने कछुए से क्षमा माँगी?",
+                                "PR_DESCRIPTION": "निम्नलिखित प्रश्नों वेफ लिखित उत्तर देंः",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "खरगोश ने कछुए से क्षमा माँगी।"
+                            }
+                        ]
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 8,
+                        "PR_NAME": "LONG ANSWER TYPE QUESTIONS",
+                        "PR_CODE": "3169",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 9,
+                        "PR_NAME": "MISCELLANEOUS",
+                        "PR_CODE": "9371",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 10,
+                        "PR_NAME": "WRITE TRUE OR FALSE",
+                        "PR_CODE": "8978",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": null,
+                        "PR_QUESTIONS": []
+                    }
+                ]
+            },
+            {
+                "PR_CHAPTER_ID": 436,
+                "PR_NAME": "अज्ञ बना दक्ष",
+                "PR_CODE": "3607",
+                "PR_ICON": "/media/default-img.png",
+                "PR_DESCRIPTION": "",
+                "PR_QUESTION_TYPE": [
+                    {
+                        "PR_QUESTION_TYPE_ID": 1,
+                        "PR_NAME": "FILL IN THE BLANK",
+                        "PR_CODE": "7141",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 2,
+                        "PR_NAME": "CIRCLE THE FOLLOWING",
+                        "PR_CODE": "5055",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 3,
+                        "PR_NAME": "UNDERLINE THE FOLLOWING",
+                        "PR_CODE": "6607",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 4,
+                        "PR_NAME": "TRUE AND FALSE",
+                        "PR_CODE": "1879",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": [
+                            {
+                                "PR_QUESTION": "वोपदेव वेफ पिता अशिक्षित थे।",
+                                "PR_DESCRIPTION": "अशुद्ध् कथन पर गलत  तथा शुद्ध् कथन पर सही  का निशान लगाएँः",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "अशुद्ध्"
+                            },
+                            {
+                                "PR_QUESTION": "वोपदेव की समझ बहुत मंद थी।",
+                                "PR_DESCRIPTION": "अशुद्ध् कथन पर गलत  तथा शुद्ध् कथन पर सही  का निशान लगाएँः",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "शुद्ध्"
+                            },
+                            {
+                                "PR_QUESTION": "वोपदेव शिक्षा में आगे न ब",
+                                "PR_DESCRIPTION": "अशुद्ध् कथन पर गलत  तथा शुद्ध् कथन पर सही  का निशान लगाएँः",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "अशुद्ध्"
+                            },
+                            {
+                                "PR_QUESTION": "गुरु ने वोपदेव को घर भेज दिया।",
+                                "PR_DESCRIPTION": "अशुद्ध् कथन पर गलत  तथा शुद्ध् कथन पर सही  का निशान लगाएँः",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "शुद्ध्"
+                            },
+                            {
+                                "PR_QUESTION": "अंत में वोपदेव बहुत दक्ष बन गया।",
+                                "PR_DESCRIPTION": "अशुद्ध् कथन पर गलत  तथा शुद्ध् कथन पर सही  का निशान लगाएँः",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "शुद्ध्"
+                            }
+                        ]
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 5,
+                        "PR_NAME": "MATCH THE FOLLOWING",
+                        "PR_CODE": "7968",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 6,
+                        "PR_NAME": "MULTIPLE CHOICE QUESTIONS",
+                        "PR_CODE": "3834",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": [
+                            {
+                                "PR_QUESTION": "वोपदेव वेफ पिता थेµ",
+                                "PR_DESCRIPTION": "शुद्ध् विकल्प पर सही  का निशान लगाएँः",
+                                "PR_FIRST_OPTION": "अशिक्षित",
+                                "PR_SECOND_OPTION": "शिक्षित",
+                                "PR_THIRD_OPTION": "ध्नवान",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "ाक्षित"
+                            },
+                            {
+                                "PR_QUESTION": "वोपदेव को लोग पुकारते थेµ",
+                                "PR_DESCRIPTION": "शुद्ध् विकल्प पर सही  का निशान लगाएँः",
+                                "PR_FIRST_OPTION": "गुणज्ञ",
+                                "PR_SECOND_OPTION": "बहुज्ञ",
+                                "PR_THIRD_OPTION": "अज्ञ",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "अज्ञ"
+                            },
+                            {
+                                "PR_QUESTION": "वुफएँ की जगत पर पड़ी धरियाँ देखकर वोपदेव का साहसµ",
+                                "PR_DESCRIPTION": "शुद्ध् विकल्प पर सही  का निशान लगाएँः",
+                                "PR_FIRST_OPTION": "बढ़ गया",
+                                "PR_SECOND_OPTION": "घट गया",
+                                "PR_THIRD_OPTION": "टूट गया",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "बढ़ गया"
+                            },
+                            {
+                                "PR_QUESTION": "अंत में राजा वेफ यहाँ से वोपदेव को मिला µ",
+                                "PR_DESCRIPTION": "शुद्ध् विकल्प पर सही  का निशान लगाएँः",
+                                "PR_FIRST_OPTION": "पुरस्कार",
+                                "PR_SECOND_OPTION": "ऊँचा पद",
+                                "PR_THIRD_OPTION": "बहुत-सा ध्न",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "ऊँचा पद"
+                            }
+                        ]
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 7,
+                        "PR_NAME": "SHORT ANSWER TYPE QUESTIONS",
+                        "PR_CODE": "9387",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": [
+                            {
+                                "PR_QUESTION": "वोपदेव वेफ पिता का नाम क्या था?",
+                                "PR_DESCRIPTION": "निम्नलिखित प्रश्नों वेफ मौखिक उत्तर देंः",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "केशव"
+                            },
+                            {
+                                "PR_QUESTION": "वोपदेव की समझ वैफसी थी?",
+                                "PR_DESCRIPTION": "निम्नलिखित प्रश्नों वेफ मौखिक उत्तर देंः",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "धीमी"
+                            },
+                            {
+                                "PR_QUESTION": "वोपदेव को शिक्षा हेतु कहाँ भेजा गया?",
+                                "PR_DESCRIPTION": "निम्नलिखित प्रश्नों वेफ मौखिक उत्तर देंः",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "गुरुकुल"
+                            },
+                            {
+                                "PR_QUESTION": "क्या वोपदेव शिक्षा में आगे ब",
+                                "PR_DESCRIPTION": "निम्नलिखित प्रश्नों वेफ मौखिक उत्तर देंः",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "हा"
+                            },
+                            {
+                                "PR_QUESTION": "वुफएँ पर वोपदेव की नज़र किस पर पड़ी?",
+                                "PR_DESCRIPTION": "निम्नलिखित प्रश्नों वेफ मौखिक उत्तर देंः",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "जगत पर"
+                            },
+                            {
+                                "PR_QUESTION": "वोपदेव लौटकर कहाँ गया?",
+                                "PR_DESCRIPTION": "निम्नलिखित प्रश्नों वेफ मौखिक उत्तर देंः",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "गुरुदेव के पास गुरुकुल में"
+                            },
+                            {
+                                "PR_QUESTION": "हारकर गुरु ने वोपदेव को कहाँ भेजा?",
+                                "PR_DESCRIPTION": "निम्नलिखित प्रश्नों वेफ लिखित उत्तर देंः",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "हारकर गुरु ने वोपदेव को घर भेजा।"
+                            },
+                            {
+                                "PR_QUESTION": "वुफएँ की जगत पर पड़ी धरियाँ वोपदेव ने कब देखीं?",
+                                "PR_DESCRIPTION": "निम्नलिखित प्रश्नों वेफ लिखित उत्तर देंः",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "जब वोपदेव कुएँ की जगत पर बैठकर भोजन करने लगा तब उसने वहाँ पड़ी हुई धारियाँ देखीं।"
+                            },
+                            {
+                                "PR_QUESTION": "कितने समय में वोपदेव दक्ष बन गया?",
+                                "PR_DESCRIPTION": "निम्नलिखित प्रश्नों वेफ लिखित उत्तर देंः",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "दो साल के समय में वोपदेव दक्ष बन गया।"
+                            },
+                            {
+                                "PR_QUESTION": "वोपदेव को शिक्षा हेतु ज्ञान कहाँ से मिला?",
+                                "PR_DESCRIPTION": "निम्नलिखित प्रश्नों वेफ लिखित उत्तर देंः",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "वोपदेव को शिक्षा हेतु ज्ञान कुएँ की जगत पर पड़ी धारियों से मिला।"
+                            }
+                        ]
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 8,
+                        "PR_NAME": "LONG ANSWER TYPE QUESTIONS",
+                        "PR_CODE": "3169",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 9,
+                        "PR_NAME": "MISCELLANEOUS",
+                        "PR_CODE": "9371",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 10,
+                        "PR_NAME": "WRITE TRUE OR FALSE",
+                        "PR_CODE": "8978",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": null,
+                        "PR_QUESTIONS": []
+                    }
+                ]
+            },
+            {
+                "PR_CHAPTER_ID": 437,
+                "PR_NAME": "खरगोश के लंबे कान",
+                "PR_CODE": "3869",
+                "PR_ICON": "/media/default-img.png",
+                "PR_DESCRIPTION": "",
+                "PR_QUESTION_TYPE": [
+                    {
+                        "PR_QUESTION_TYPE_ID": 1,
+                        "PR_NAME": "FILL IN THE BLANK",
+                        "PR_CODE": "7141",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 2,
+                        "PR_NAME": "CIRCLE THE FOLLOWING",
+                        "PR_CODE": "5055",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 3,
+                        "PR_NAME": "UNDERLINE THE FOLLOWING",
+                        "PR_CODE": "6607",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 4,
+                        "PR_NAME": "TRUE AND FALSE",
+                        "PR_CODE": "1879",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": [
+                            {
+                                "PR_QUESTION": "सभापति का आदेश सबको मानना पड़ता है।",
+                                "PR_DESCRIPTION": "अशुद्ध् कथन पर गलत  तथा शुद्ध् कथन पर सही  का निशान लगाएँः",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "शुद्ध्"
+                            },
+                            {
+                                "PR_QUESTION": "शशक का नाम अनेक बार पुकारा गया।",
+                                "PR_DESCRIPTION": "अशुद्ध् कथन पर गलत  तथा शुद्ध् कथन पर सही  का निशान लगाएँः",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "शुद्ध्"
+                            },
+                            {
+                                "PR_QUESTION": "शशक को बहुत नींद आ रही थी।",
+                                "PR_DESCRIPTION": "अशुद्ध् कथन पर गलत  तथा शुद्ध् कथन पर सही  का निशान लगाएँः",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "शुद्ध्"
+                            },
+                            {
+                                "PR_QUESTION": "शशक वेफ कान हाथी वेफ समान हो गए थे?",
+                                "PR_DESCRIPTION": "अशुद्ध् कथन पर गलत  तथा शुद्ध् कथन पर सही  का निशान लगाएँः",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "अशुद्ध्"
+                            },
+                            {
+                                "PR_QUESTION": "खर का अर्थ है गध तथा गोश का अर्थ है कान।",
+                                "PR_DESCRIPTION": "अशुद्ध् कथन पर गलत  तथा शुद्ध् कथन पर सही  का निशान लगाएँः",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "शुद्ध्"
+                            }
+                        ]
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 5,
+                        "PR_NAME": "MATCH THE FOLLOWING",
+                        "PR_CODE": "7968",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 6,
+                        "PR_NAME": "MULTIPLE CHOICE QUESTIONS",
+                        "PR_CODE": "3834",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": [
+                            {
+                                "PR_QUESTION": "वन में रहने वाले पशु चतुर जीव मानते हैंµ",
+                                "PR_DESCRIPTION": "शुद्ध् विकल्प पर सही  का निशान लगाएँः",
+                                "PR_FIRST_OPTION": "सिह का",
+                                "PR_SECOND_OPTION": "हिरण का",
+                                "PR_THIRD_OPTION": "उल्लू का",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "उल्लू का"
+                            },
+                            {
+                                "PR_QUESTION": "जो सभा में नहीं आना चाहता था, वह थाµ",
+                                "PR_DESCRIPTION": "शुद्ध् विकल्प पर सही  का निशान लगाएँः",
+                                "PR_FIRST_OPTION": "नेवला",
+                                "PR_SECOND_OPTION": "ाशक",
+                                "PR_THIRD_OPTION": "चीता",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "ाशक"
+                            },
+                            {
+                                "PR_QUESTION": "ाशक वेफ शरीर का जो अंग बढ़ने लगा, वह थाµ",
+                                "PR_DESCRIPTION": "शुद्ध् विकल्प पर सही  का निशान लगाएँः",
+                                "PR_FIRST_OPTION": "दुम",
+                                "PR_SECOND_OPTION": "नाक",
+                                "PR_THIRD_OPTION": "कान",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "नाक"
+                            },
+                            {
+                                "PR_QUESTION": "शशक वेफ कान लंबे होते हैंµ",
+                                "PR_DESCRIPTION": "शुद्ध् विकल्प पर सही  का निशान लगाएँः",
+                                "PR_FIRST_OPTION": "गध्े जैस",
+                                "PR_SECOND_OPTION": "बकरी जैस",
+                                "PR_THIRD_OPTION": "भैंस जैस",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "गधे जैस"
+                            }
+                        ]
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 7,
+                        "PR_NAME": "SHORT ANSWER TYPE QUESTIONS",
+                        "PR_CODE": "9387",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": [
+                            {
+                                "PR_QUESTION": "वन में कौन-से जीव को चतुर माना जाता है?",
+                                "PR_DESCRIPTION": "निम्नलिखित प्रश्नों वेफ मौखिक उत्तर देंः",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "उल्लू क"
+                            },
+                            {
+                                "PR_QUESTION": "पशुओं की सभा में सभापति कौन बनता था?",
+                                "PR_DESCRIPTION": "निम्नलिखित प्रश्नों वेफ मौखिक उत्तर देंः",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "उल्लू"
+                            },
+                            {
+                                "PR_QUESTION": "उल्लू किस-किस का नाम पुकारने लगा?",
+                                "PR_DESCRIPTION": "निम्नलिखित प्रश्नों वेफ मौखिक उत्तर देंः",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "एक-एक पशु का"
+                            },
+                            {
+                                "PR_QUESTION": "खरगोश वेफ कान कितने लंबे हो चुवेफ थे?",
+                                "PR_DESCRIPTION": "निम्नलिखित प्रश्नों वेफ मौखिक उत्तर देंः",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "गधे के कानों के समान"
+                            },
+                            {
+                                "PR_QUESTION": "खरगोश किन दो शब्दों वेफ मेल से बना है?",
+                                "PR_DESCRIPTION": "निम्नलिखित प्रश्नों वेफ मौखिक उत्तर देंः",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "खर तथा गोश"
+                            },
+                            {
+                                "PR_QUESTION": "खरगोश कहाँ झपकी ले रहा था?",
+                                "PR_DESCRIPTION": "निम्नलिखित प्रश्नों वेफ लिखित उत्तर देंः",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "खरगोश एक छायादार झाड़ी के नीचे बैठे झपकी ले रहा था।"
+                            },
+                            {
+                                "PR_QUESTION": "खरगोश सभा की ओर वैफसे भागा?",
+                                "PR_DESCRIPTION": "निम्नलिखित प्रश्नों वेफ लिखित उत्तर देंः",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "खरगोश सभा की ओर तेज गति से भागा।"
+                            },
+                            {
+                                "PR_QUESTION": "‘खर’ शब्द का अर्थ क्या है?",
+                                "PR_DESCRIPTION": "निम्नलिखित प्रश्नों वेफ लिखित उत्तर देंः",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "‘खर’ शब्द का अर्थ हैµ गधा।"
+                            },
+                            {
+                                "PR_QUESTION": "‘गोश’ शब्द का अर्थ क्या है?",
+                                "PR_DESCRIPTION": "निम्नलिखित प्रश्नों वेफ लिखित उत्तर देंः",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "‘गोश’ शब्द का अर्थ हैµ कान।"
+                            }
+                        ]
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 8,
+                        "PR_NAME": "LONG ANSWER TYPE QUESTIONS",
+                        "PR_CODE": "3169",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 9,
+                        "PR_NAME": "MISCELLANEOUS",
+                        "PR_CODE": "9371",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 10,
+                        "PR_NAME": "WRITE TRUE OR FALSE",
+                        "PR_CODE": "8978",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": null,
+                        "PR_QUESTIONS": []
+                    }
+                ]
+            },
+            {
+                "PR_CHAPTER_ID": 438,
+                "PR_NAME": "हिंदी भाषा",
+                "PR_CODE": "2641",
+                "PR_ICON": "/media/default-img.png",
+                "PR_DESCRIPTION": "",
+                "PR_QUESTION_TYPE": [
+                    {
+                        "PR_QUESTION_TYPE_ID": 1,
+                        "PR_NAME": "FILL IN THE BLANK",
+                        "PR_CODE": "7141",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 2,
+                        "PR_NAME": "CIRCLE THE FOLLOWING",
+                        "PR_CODE": "5055",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 3,
+                        "PR_NAME": "UNDERLINE THE FOLLOWING",
+                        "PR_CODE": "6607",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 4,
+                        "PR_NAME": "TRUE AND FALSE",
+                        "PR_CODE": "1879",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": [
+                            {
+                                "PR_QUESTION": "हिं दी वेफ अक्षर मन को अच्छे लगते हैं।",
+                                "PR_DESCRIPTION": "अशुद्ध् कथन पर गलत  तथा शुद्ध् कथन पर सही  का निशान लगाएँः",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "शुद्ध्"
+                            },
+                            {
+                                "PR_QUESTION": "हिं दी भाषा झटपट समझ नहीं आती।",
+                                "PR_DESCRIPTION": "अशुद्ध् कथन पर गलत  तथा शुद्ध् कथन पर सही  का निशान लगाएँः",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "अशुद्ध्"
+                            },
+                            {
+                                "PR_QUESTION": "शब्द अक्षरों वेफ मेल से बनते हैं।",
+                                "PR_DESCRIPTION": "अशुद्ध् कथन पर गलत  तथा शुद्ध् कथन पर सही  का निशान लगाएँः",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "शुद्ध्"
+                            },
+                            {
+                                "PR_QUESTION": "हिं दी भाषा को देवों ने रचा था।",
+                                "PR_DESCRIPTION": "अशुद्ध् कथन पर गलत  तथा शुद्ध् कथन पर सही  का निशान लगाएँः",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "शुद्ध्"
+                            }
+                        ]
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 5,
+                        "PR_NAME": "MATCH THE FOLLOWING",
+                        "PR_CODE": "7968",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 6,
+                        "PR_NAME": "MULTIPLE CHOICE QUESTIONS",
+                        "PR_CODE": "3834",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": [
+                            {
+                                "PR_QUESTION": "हिं दी भाषा को प",
+                                "PR_DESCRIPTION": "शुद्ध् विकल्प पर सही  का निशान लगाएँः",
+                                "PR_FIRST_OPTION": "ख़् ाुश",
+                                "PR_SECOND_OPTION": "उदा",
+                                "PR_THIRD_OPTION": "हैरान",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "ख़ुश"
+                            },
+                            {
+                                "PR_QUESTION": "हिं दी भाषा समझ में आती हैµ",
+                                "PR_DESCRIPTION": "शुद्ध् विकल्प पर सही  का निशान लगाएँः",
+                                "PR_FIRST_OPTION": "झटपट",
+                                "PR_SECOND_OPTION": "देर स",
+                                "PR_THIRD_OPTION": "कभी नही",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "झटपट"
+                            },
+                            {
+                                "PR_QUESTION": "हिं दी भाषा को रचा थाµ",
+                                "PR_DESCRIPTION": "शुद्ध् विकल्प पर सही  का निशान लगाएँः",
+                                "PR_FIRST_OPTION": "असुरों न",
+                                "PR_SECOND_OPTION": "लोगों न",
+                                "PR_THIRD_OPTION": "देवों न",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "देवों न"
+                            }
+                        ]
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 7,
+                        "PR_NAME": "SHORT ANSWER TYPE QUESTIONS",
+                        "PR_CODE": "9387",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": [
+                            {
+                                "PR_QUESTION": "कौन-सी भाषा हमारी राष्ट्रभाषा है?",
+                                "PR_DESCRIPTION": "निम्नलिखित प्रश्नों वेफ मौखिक उत्तर देंः",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "हिंदी"
+                            },
+                            {
+                                "PR_QUESTION": "¯हदी भाषा को पढ़ने वाला खुश होता है या उदास?",
+                                "PR_DESCRIPTION": "निम्नलिखित प्रश्नों वेफ मौखिक उत्तर देंः",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "खुश"
+                            },
+                            {
+                                "PR_QUESTION": "हिं दी भाषा सरल है या कठिन?",
+                                "PR_DESCRIPTION": "निम्नलिखित प्रश्नों वेफ मौखिक उत्तर देंः",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "सरल"
+                            },
+                            {
+                                "PR_QUESTION": "हिं दी किस देश की भाषा है?",
+                                "PR_DESCRIPTION": "निम्नलिखित प्रश्नों वेफ मौखिक उत्तर देंः",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "हिंद देश की"
+                            },
+                            {
+                                "PR_QUESTION": "¯हदी भाषा वेफ अक्षर मन को वैफसे भाते हैं?",
+                                "PR_DESCRIPTION": "निम्नलिखित प्रश्नों वेफ मौखिक उत्तर देंः",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "ष्हिंदी भाष्षा के अक्षर मन को ऐसे भाते हैं कि पढ़ने वाला उन्हें खुशी"
+                            },
+                            {
+                                "PR_QUESTION": "किनवेफ मेल से शब्द बनते हैं?",
+                                "PR_DESCRIPTION": "निम्नलिखित प्रश्नों वेफ मौखिक उत्तर देंः",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "से पढ़ता है।ष्"
+                            },
+                            {
+                                "PR_QUESTION": "अक्षरों वेफ मेल से क्या बनते हैं?",
+                                "PR_DESCRIPTION": "निम्नलिखित प्रश्नों वेफ मौखिक उत्तर देंः",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "अक्षरों के मेल से शब्द बनते हैं।"
+                            },
+                            {
+                                "PR_QUESTION": "हिं दी की लिपि का नाम क्या है?",
+                                "PR_DESCRIPTION": "निम्नलिखित प्रश्नों वेफ मौखिक उत्तर देंः",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "हिंदी की लिपि का नाम हैµ देवनागरी।"
+                            }
+                        ]
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 8,
+                        "PR_NAME": "LONG ANSWER TYPE QUESTIONS",
+                        "PR_CODE": "3169",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 9,
+                        "PR_NAME": "MISCELLANEOUS",
+                        "PR_CODE": "9371",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 10,
+                        "PR_NAME": "WRITE TRUE OR FALSE",
+                        "PR_CODE": "8978",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": null,
+                        "PR_QUESTIONS": []
+                    }
+                ]
+            },
+            {
+                "PR_CHAPTER_ID": 439,
+                "PR_NAME": "पेड़-पौधे और हम",
+                "PR_CODE": "8342",
+                "PR_ICON": "/media/default-img.png",
+                "PR_DESCRIPTION": "",
+                "PR_QUESTION_TYPE": [
+                    {
+                        "PR_QUESTION_TYPE_ID": 1,
+                        "PR_NAME": "FILL IN THE BLANK",
+                        "PR_CODE": "7141",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 2,
+                        "PR_NAME": "CIRCLE THE FOLLOWING",
+                        "PR_CODE": "5055",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 3,
+                        "PR_NAME": "UNDERLINE THE FOLLOWING",
+                        "PR_CODE": "6607",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 4,
+                        "PR_NAME": "TRUE AND FALSE",
+                        "PR_CODE": "1879",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": [
+                            {
+                                "PR_QUESTION": "पेड़ में जान नहीं होती है।",
+                                "PR_DESCRIPTION": "अशुद्ध् कथन पर गलत  तथा शुद्ध् कथन पर सही  का निशान लगाएँः",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "अशुद्ध्"
+                            },
+                            {
+                                "PR_QUESTION": "पेड़ का भोजन पत्तियाँ ही बनाती हैं।",
+                                "PR_DESCRIPTION": "अशुद्ध् कथन पर गलत  तथा शुद्ध् कथन पर सही  का निशान लगाएँः",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "शुद्ध्"
+                            },
+                            {
+                                "PR_QUESTION": "पत्तियाँ ध्ूप और पानी की मदद से खाना बनाती हैं।",
+                                "PR_DESCRIPTION": "अशुद्ध् कथन पर गलत  तथा शुद्ध् कथन पर सही  का निशान लगाएँः",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "शुद्ध्"
+                            },
+                            {
+                                "PR_QUESTION": "मूली और गाजर पेड़ पर उगते हैं।",
+                                "PR_DESCRIPTION": "अशुद्ध् कथन पर गलत  तथा शुद्ध् कथन पर सही  का निशान लगाएँः",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "अशुद्ध्"
+                            }
+                        ]
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 5,
+                        "PR_NAME": "MATCH THE FOLLOWING",
+                        "PR_CODE": "7968",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 6,
+                        "PR_NAME": "MULTIPLE CHOICE QUESTIONS",
+                        "PR_CODE": "3834",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": [
+                            {
+                                "PR_QUESTION": "पेड़ क्यों कराह रहा था?",
+                                "PR_DESCRIPTION": "शुद्ध् विकल्प पर सही  का निशान लगाएँः",
+                                "PR_FIRST_OPTION": "उसे दर्द हो रहा था।",
+                                "PR_SECOND_OPTION": "उसे भूख लगी थी।",
+                                "PR_THIRD_OPTION": "उसे आश्चर्य हो रहा था।",
+                                "PR_FOURTH_OPTION": "वह थक गया था।",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "उसे दर्द हो रहा था।"
+                            },
+                            {
+                                "PR_QUESTION": "पेड़ों का भोजन कौन तैयार करता है?",
+                                "PR_DESCRIPTION": "शुद्ध् विकल्प पर सही  का निशान लगाएँः",
+                                "PR_FIRST_OPTION": "जड",
+                                "PR_SECOND_OPTION": "तना",
+                                "PR_THIRD_OPTION": "ााखाएँ",
+                                "PR_FOURTH_OPTION": "पत्तियाँ",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "पत्तिया"
+                            },
+                            {
+                                "PR_QUESTION": "पेड़ की जड़ें कहाँ से पानी लेती हैं?",
+                                "PR_DESCRIPTION": "शुद्ध् विकल्प पर सही  का निशान लगाएँः",
+                                "PR_FIRST_OPTION": "हवा स",
+                                "PR_SECOND_OPTION": "पानी स",
+                                "PR_THIRD_OPTION": "शमीन स",
+                                "PR_FOURTH_OPTION": "तने स",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "ज़मीन स"
+                            },
+                            {
+                                "PR_QUESTION": "निम्नलिखित में से कौन एक पफल नहीं है?",
+                                "PR_DESCRIPTION": "शुद्ध् विकल्प पर सही  का निशान लगाएँः",
+                                "PR_FIRST_OPTION": "जामुन",
+                                "PR_SECOND_OPTION": "खीरा",
+                                "PR_THIRD_OPTION": "सेब",
+                                "PR_FOURTH_OPTION": "संतरा",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "खीरा"
+                            }
+                        ]
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 7,
+                        "PR_NAME": "SHORT ANSWER TYPE QUESTIONS",
+                        "PR_CODE": "9387",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": [
+                            {
+                                "PR_QUESTION": "नेहा किसका इंतशार कर रही थी?",
+                                "PR_DESCRIPTION": "निम्नलिखित प्रश्नों वेफ मौखिक उत्तर देंः",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "अपने भाई आयुष का"
+                            },
+                            {
+                                "PR_QUESTION": "नेहा का भाई कहाँ खेल रहा था?",
+                                "PR_DESCRIPTION": "निम्नलिखित प्रश्नों वेफ मौखिक उत्तर देंः",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "पार्वळ म"
+                            },
+                            {
+                                "PR_QUESTION": "झूलने से किसे दर्द हो रहा था?",
+                                "PR_DESCRIPTION": "निम्नलिखित प्रश्नों वेफ मौखिक उत्तर देंः",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "पेड़ को"
+                            },
+                            {
+                                "PR_QUESTION": "पेड़ ने किसे भोली कहा?",
+                                "PR_DESCRIPTION": "निम्नलिखित प्रश्नों वेफ मौखिक उत्तर देंः",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "नेहा का"
+                            },
+                            {
+                                "PR_QUESTION": "नेहा ने किस सब्शी को अपनी पसंद बताया?",
+                                "PR_DESCRIPTION": "निम्नलिखित प्रश्नों वेफ मौखिक उत्तर देंः",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "आलू का"
+                            },
+                            {
+                                "PR_QUESTION": "पेड़ ने नेहा को क्या तोड़ने से मना किया?",
+                                "PR_DESCRIPTION": "निम्नलिखित प्रश्नों वेफ मौखिक उत्तर देंः",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "पत्तिया"
+                            },
+                            {
+                                "PR_QUESTION": "गाजर, मूली शमीन वेफ अंदर उगते हैं या बाहर।",
+                                "PR_DESCRIPTION": "निम्नलिखित प्रश्नों वेफ मौखिक उत्तर देंः",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "जमीन के अंदर"
+                            },
+                            {
+                                "PR_QUESTION": "अनजाने में नेहा क्या करने लगी?",
+                                "PR_DESCRIPTION": "निम्नलिखित प्रश्नों वेफ मौखिक उत्तर देंः",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "अनजाने में नेहा कभी पेड़ की झुकी डाल से पत्तियाँ तोड़कर नीचे फेंकती, कभी डाली पकड़कर झूला झूलने लगती।"
+                            },
+                            {
+                                "PR_QUESTION": "नेहा को वैफसी आवाश सुनाई दी?",
+                                "PR_DESCRIPTION": "निम्नलिखित प्रश्नों वेफ मौखिक उत्तर देंः",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "नेहा को दर्द भरी कराहती हुई आवाज सुनाई पड़ी।"
+                            },
+                            {
+                                "PR_QUESTION": "पेड़ ने अपनी पत्तियों वेफ काम वेफ बारे में क्या बताया?",
+                                "PR_DESCRIPTION": "निम्नलिखित प्रश्नों वेफ मौखिक उत्तर देंः",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "पत्तियाँ पेड़ का भोजन बनाती हैं।"
+                            },
+                            {
+                                "PR_QUESTION": "पेड़ को पफलने-पूफलने वेफ लिए किसकी शरूरत होती है?",
+                                "PR_DESCRIPTION": "निम्नलिखित प्रश्नों वेफ मौखिक उत्तर देंः",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "पेड़ को फलने-फूलने के लिए भोजन, पानी, धूप और हवा की जरूरत होती है।"
+                            },
+                            {
+                                "PR_QUESTION": "बड़े-बड़े पेड़ क्या देते हैं?",
+                                "PR_DESCRIPTION": "निम्नलिखित प्रश्नों वेफ मौखिक उत्तर देंः",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "बड़े-बड़े पेड़ सेब, संतरा, केला, अनार, जामुन, नाशपाती, पपीता और आम देते हैं।"
+                            },
+                            {
+                                "PR_QUESTION": "पाठ वेफ आधर पर पाँच सब्शियों वेफ नाम लिखिए।",
+                                "PR_DESCRIPTION": "निम्नलिखित प्रश्नों वेफ मौखिक उत्तर देंः",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "पाठ के आधार पर पाँच सब्जियों के नाम हैंµ पालक, मेथी, आलू, भिंडी और चुकंदर।"
+                            }
+                        ]
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 8,
+                        "PR_NAME": "LONG ANSWER TYPE QUESTIONS",
+                        "PR_CODE": "3169",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 9,
+                        "PR_NAME": "MISCELLANEOUS",
+                        "PR_CODE": "9371",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 10,
+                        "PR_NAME": "WRITE TRUE OR FALSE",
+                        "PR_CODE": "8978",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": null,
+                        "PR_QUESTIONS": []
+                    }
+                ]
+            },
+            {
+                "PR_CHAPTER_ID": 440,
+                "PR_NAME": "सर्प तथा नेवला",
+                "PR_CODE": "7476",
+                "PR_ICON": "/media/default-img.png",
+                "PR_DESCRIPTION": "",
+                "PR_QUESTION_TYPE": [
+                    {
+                        "PR_QUESTION_TYPE_ID": 1,
+                        "PR_NAME": "FILL IN THE BLANK",
+                        "PR_CODE": "7141",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 2,
+                        "PR_NAME": "CIRCLE THE FOLLOWING",
+                        "PR_CODE": "5055",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 3,
+                        "PR_NAME": "UNDERLINE THE FOLLOWING",
+                        "PR_CODE": "6607",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 4,
+                        "PR_NAME": "TRUE AND FALSE",
+                        "PR_CODE": "1879",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": [
+                            {
+                                "PR_QUESTION": "सेठ ़ किसी दफ्रतर में काम करता था।",
+                                "PR_DESCRIPTION": "अशुद्ध् कथन पर गलत  तथा शुद्ध् कथन पर सही  का निशान लगाएँः",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "अशुद्ध्"
+                            },
+                            {
+                                "PR_QUESTION": "सेठानी सारा दिन घर में अवेफली रहती थी।",
+                                "PR_DESCRIPTION": "अशुद्ध् कथन पर गलत  तथा शुद्ध् कथन पर सही  का निशान लगाएँः",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "शुद्ध्"
+                            },
+                            {
+                                "PR_QUESTION": "सर्प ने नेवले को मार दिया।",
+                                "PR_DESCRIPTION": "अशुद्ध् कथन पर गलत  तथा शुद्ध् कथन पर सही  का निशान लगाएँः",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "अशुद्ध्"
+                            },
+                            {
+                                "PR_QUESTION": "नेवला अपनी सपफलता पर बहुत ख़ुश था।",
+                                "PR_DESCRIPTION": "अशुद्ध् कथन पर गलत  तथा शुद्ध् कथन पर सही  का निशान लगाएँः",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "शुद्ध्"
+                            },
+                            {
+                                "PR_QUESTION": "सेठानी नेवले को मारकर बहुत ख़् ाुश हुई।",
+                                "PR_DESCRIPTION": "अशुद्ध् कथन पर गलत  तथा शुद्ध् कथन पर सही  का निशान लगाएँः",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "अशुद्ध्"
+                            }
+                        ]
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 5,
+                        "PR_NAME": "MATCH THE FOLLOWING",
+                        "PR_CODE": "7968",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 6,
+                        "PR_NAME": "MULTIPLE CHOICE QUESTIONS",
+                        "PR_CODE": "3834",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": [
+                            {
+                                "PR_QUESTION": "नन्हे शिशु की आयु थीµ",
+                                "PR_DESCRIPTION": "शुद्ध् विकल्प पर सही  का निशान लगाएँः",
+                                "PR_FIRST_OPTION": "चार वष",
+                                "PR_SECOND_OPTION": "एक वर्ष",
+                                "PR_THIRD_OPTION": "पाँच वष",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "एक वष"
+                            },
+                            {
+                                "PR_QUESTION": "सेठ सारा दिन रहता थाµ",
+                                "PR_DESCRIPTION": "शुद्ध् विकल्प पर सही  का निशान लगाएँः",
+                                "PR_FIRST_OPTION": "घर पर",
+                                "PR_SECOND_OPTION": "दफ्रतर पर",
+                                "PR_THIRD_OPTION": "दुकान पर",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "दुकान पर"
+                            },
+                            {
+                                "PR_QUESTION": "सर्प तथा नेवला माने जाते हैंµ",
+                                "PR_DESCRIPTION": "शुद्ध् विकल्प पर सही  का निशान लगाएँः",
+                                "PR_FIRST_OPTION": "घोर शत्रा",
+                                "PR_SECOND_OPTION": "परम मित्रा",
+                                "PR_THIRD_OPTION": "न मित्रा न शत्राु",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "घोर शत्र"
+                            },
+                            {
+                                "PR_QUESTION": "सेठानी नेवले को मारकरµ",
+                                "PR_DESCRIPTION": "शुद्ध् विकल्प पर सही  का निशान लगाएँः",
+                                "PR_FIRST_OPTION": "प्रसन्न हुई",
+                                "PR_SECOND_OPTION": "पछताइ",
+                                "PR_THIRD_OPTION": "रोने लगी",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "पछताइ"
+                            }
+                        ]
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 7,
+                        "PR_NAME": "SHORT ANSWER TYPE QUESTIONS",
+                        "PR_CODE": "9387",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": [
+                            {
+                                "PR_QUESTION": "सेठ वेफ परिवार में वुफल कितने लोग थे?",
+                                "PR_DESCRIPTION": "निम्नलिखित प्रश्नों के मौखिक उत्तर देंः",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "तीन लोग"
+                            },
+                            {
+                                "PR_QUESTION": "सेठ ने कौन-सा जीव पाल रखा था?",
+                                "PR_DESCRIPTION": "निम्नलिखित प्रश्नों के मौखिक उत्तर देंः",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "नेवला"
+                            },
+                            {
+                                "PR_QUESTION": "अचानक घर में कौन-सा जीव आ गया?",
+                                "PR_DESCRIPTION": "निम्नलिखित प्रश्नों के मौखिक उत्तर देंः",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "सप"
+                            },
+                            {
+                                "PR_QUESTION": "सर्प को किसने मारा?",
+                                "PR_DESCRIPTION": "निम्नलिखित प्रश्नों के मौखिक उत्तर देंः",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "नेवले न"
+                            },
+                            {
+                                "PR_QUESTION": "नेवले को किसने मारा?",
+                                "PR_DESCRIPTION": "निम्नलिखित प्रश्नों के मौखिक उत्तर देंः",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "सेठ की पत्नी न"
+                            },
+                            {
+                                "PR_QUESTION": "अंत में कौन पछताया तथा क्यों?",
+                                "PR_DESCRIPTION": "निम्नलिखित प्रश्नों के मौखिक उत्तर देंः",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "अंत में सेठ की पत्नी नेवले को मारकर पछतायी।"
+                            },
+                            {
+                                "PR_QUESTION": "पति-पत्नी नेवले को किसकी तरह चाहते थे?",
+                                "PR_DESCRIPTION": "निम्नलिखित प्रश्नों के मौखिक उत्तर देंः",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "पति-पत्नी नेवले को अपने पुत्र की भाँति चाहते थे।"
+                            },
+                            {
+                                "PR_QUESTION": "सेठ की दुकान कहाँ पर थी?",
+                                "PR_DESCRIPTION": "निम्नलिखित प्रश्नों के मौखिक उत्तर देंः",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "सेठ की दुकान नगर की मंडी में थी।"
+                            },
+                            {
+                                "PR_QUESTION": "नन्हा शिशु कहाँ सो रहा था?",
+                                "PR_DESCRIPTION": "निम्नलिखित प्रश्नों के मौखिक उत्तर देंः",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "नन्हा शिशु झूले में सो रहा था।"
+                            },
+                            {
+                                "PR_QUESTION": "किसका मुख खून से लथपथ था?",
+                                "PR_DESCRIPTION": "निम्नलिखित प्रश्नों के मौखिक उत्तर देंः",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "नेवले का मुख खून से लथपथ था।"
+                            },
+                            {
+                                "PR_QUESTION": "सेठानी को किसने डाँटा?",
+                                "PR_DESCRIPTION": "निम्नलिखित प्रश्नों के मौखिक उत्तर देंः",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "सेठानी को सेठ ने डाँटा।"
+                            }
+                        ]
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 8,
+                        "PR_NAME": "LONG ANSWER TYPE QUESTIONS",
+                        "PR_CODE": "3169",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 9,
+                        "PR_NAME": "MISCELLANEOUS",
+                        "PR_CODE": "9371",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 10,
+                        "PR_NAME": "WRITE TRUE OR FALSE",
+                        "PR_CODE": "8978",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": null,
+                        "PR_QUESTIONS": []
+                    }
+                ]
+            },
+            {
+                "PR_CHAPTER_ID": 441,
+                "PR_NAME": "लोभी कुत्ता",
+                "PR_CODE": "5035",
+                "PR_ICON": "/media/default-img.png",
+                "PR_DESCRIPTION": "",
+                "PR_QUESTION_TYPE": [
+                    {
+                        "PR_QUESTION_TYPE_ID": 1,
+                        "PR_NAME": "FILL IN THE BLANK",
+                        "PR_CODE": "7141",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 2,
+                        "PR_NAME": "CIRCLE THE FOLLOWING",
+                        "PR_CODE": "5055",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 3,
+                        "PR_NAME": "UNDERLINE THE FOLLOWING",
+                        "PR_CODE": "6607",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 4,
+                        "PR_NAME": "TRUE AND FALSE",
+                        "PR_CODE": "1879",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": [
+                            {
+                                "PR_QUESTION": "इस कहानी का वुफत्ता बहुत लोभी था।",
+                                "PR_DESCRIPTION": "अशुद्ध् कथन पर गलत  तथा शुद्ध् कथन पर सही  का निशान लगाएँः",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "शुद्ध्"
+                            },
+                            {
+                                "PR_QUESTION": "वुफत्ता भ्रमण हेतु गाँव से बाहर निकल गया।",
+                                "PR_DESCRIPTION": "अशुद्ध् कथन पर गलत  तथा शुद्ध् कथन पर सही  का निशान लगाएँः",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "अशुद्ध्"
+                            },
+                            {
+                                "PR_QUESTION": "वुफत्ते को जल में अपनी परछाईं दिखाई पड़ ी।",
+                                "PR_DESCRIPTION": "अशुद्ध् कथन पर गलत  तथा शुद्ध् कथन पर सही  का निशान लगाएँः",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "शुद्ध्"
+                            },
+                            {
+                                "PR_QUESTION": "वुफत्ता एक दूसरे वुफत्ते वेफ भय से जल में वूफदा।",
+                                "PR_DESCRIPTION": "अशुद्ध् कथन पर गलत  तथा शुद्ध् कथन पर सही  का निशान लगाएँः",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "अशुद्ध्"
+                            },
+                            {
+                                "PR_QUESTION": "अपने लोभ वेफ कारण वुफत्ता अपनी रोटी भी गँवा बैठा।",
+                                "PR_DESCRIPTION": "अशुद्ध् कथन पर गलत  तथा शुद्ध् कथन पर सही  का निशान लगाएँः",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "शुद्ध्"
+                            }
+                        ]
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 5,
+                        "PR_NAME": "MATCH THE FOLLOWING",
+                        "PR_CODE": "7968",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 6,
+                        "PR_NAME": "MULTIPLE CHOICE QUESTIONS",
+                        "PR_CODE": "3834",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": [
+                            {
+                                "PR_QUESTION": "गाँव वेफ पास ही एकµ",
+                                "PR_DESCRIPTION": "शुद्ध् विकल्प पर सही  का निशान लगाएँः",
+                                "PR_FIRST_OPTION": "सरोवर था",
+                                "PR_SECOND_OPTION": "नदी थी",
+                                "PR_THIRD_OPTION": "झील थी",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "नदी थी"
+                            },
+                            {
+                                "PR_QUESTION": "वु ़ फत्ते की नजर जल में पड़ीµ",
+                                "PR_DESCRIPTION": "शुद्ध् विकल्प पर सही  का निशान लगाएँः",
+                                "PR_FIRST_OPTION": "वुफत्ते पर",
+                                "PR_SECOND_OPTION": "एक रोटी पर",
+                                "PR_THIRD_OPTION": "अपनी परछाईं पर",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "अपनी परछाईं पर"
+                            },
+                            {
+                                "PR_QUESTION": "नदी का जल थाµ",
+                                "PR_DESCRIPTION": "शुद्ध् विकल्प पर सही  का निशान लगाएँः",
+                                "PR_FIRST_OPTION": "ाांत",
+                                "PR_SECOND_OPTION": "अशांत",
+                                "PR_THIRD_OPTION": "मलिन",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "अशांत"
+                            },
+                            {
+                                "PR_QUESTION": "वुफत्ता अपनी रोटी गँवा बैठा µ",
+                                "PR_DESCRIPTION": "शुद्ध् विकल्प पर सही  का निशान लगाएँः",
+                                "PR_FIRST_OPTION": "उदारता स",
+                                "PR_SECOND_OPTION": "प्रसन्नता स",
+                                "PR_THIRD_OPTION": "लोभ स",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "लोभ स"
+                            }
+                        ]
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 7,
+                        "PR_NAME": "SHORT ANSWER TYPE QUESTIONS",
+                        "PR_CODE": "9387",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": [
+                            {
+                                "PR_QUESTION": "वुफत्ते ने क्या चुराया था?",
+                                "PR_DESCRIPTION": "निम्नलिखित प्रश्नों के मौखिक उत्तर देंः",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "एक रोटी"
+                            },
+                            {
+                                "PR_QUESTION": "गाँव वेफ पास की नदी पर क्या बना हुआ था?",
+                                "PR_DESCRIPTION": "निम्नलिखित प्रश्नों के मौखिक उत्तर देंः",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "पुल"
+                            },
+                            {
+                                "PR_QUESTION": "वुफत्ते को जल में क्या दिखाई दिया?",
+                                "PR_DESCRIPTION": "निम्नलिखित प्रश्नों के मौखिक उत्तर देंः",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "परछाइ"
+                            },
+                            {
+                                "PR_QUESTION": "इस कहानी वेफ वुफत्ते का स्वभाव वैफसा था?",
+                                "PR_DESCRIPTION": "निम्नलिखित प्रश्नों के मौखिक उत्तर देंः",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "इस कहानी के कुत्ते का स्वभाव लालची था।"
+                            },
+                            {
+                                "PR_QUESTION": "वुफत्ता कहाँ जाकर रोटी खाना चाहता था?",
+                                "PR_DESCRIPTION": "निम्नलिखित प्रश्नों के मौखिक उत्तर देंः",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "कुत्ता नदी पार जाकर रोटी खाना चाहता था।"
+                            },
+                            {
+                                "PR_QUESTION": "क्या जल में सचमुच एक अन्य वुफत्ता था?",
+                                "PR_DESCRIPTION": "निम्नलिखित प्रश्नों के मौखिक उत्तर देंः",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "नहीं, जल में कोई कुत्ता नहीं था।"
+                            },
+                            {
+                                "PR_QUESTION": "वुफत्ते वेफ वूफदने से जल वैफसा हो गया?",
+                                "PR_DESCRIPTION": "निम्नलिखित प्रश्नों के मौखिक उत्तर देंः",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "कुत्ते के कूदने से नदी का जल अशांत हो गया।"
+                            },
+                            {
+                                "PR_QUESTION": "वुफत्ता किस बात पर पछताया?",
+                                "PR_DESCRIPTION": "निम्नलिखित प्रश्नों के मौखिक उत्तर देंः",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "कुत्ता अपनी मूर्खता पर पछताया।"
+                            }
+                        ]
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 8,
+                        "PR_NAME": "LONG ANSWER TYPE QUESTIONS",
+                        "PR_CODE": "3169",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 9,
+                        "PR_NAME": "MISCELLANEOUS",
+                        "PR_CODE": "9371",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 10,
+                        "PR_NAME": "WRITE TRUE OR FALSE",
+                        "PR_CODE": "8978",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": null,
+                        "PR_QUESTIONS": []
+                    }
+                ]
+            },
+            {
+                "PR_CHAPTER_ID": 442,
+                "PR_NAME": "सिंह तथा चुहिया",
+                "PR_CODE": "7668",
+                "PR_ICON": "/media/default-img.png",
+                "PR_DESCRIPTION": "",
+                "PR_QUESTION_TYPE": [
+                    {
+                        "PR_QUESTION_TYPE_ID": 1,
+                        "PR_NAME": "FILL IN THE BLANK",
+                        "PR_CODE": "7141",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 2,
+                        "PR_NAME": "CIRCLE THE FOLLOWING",
+                        "PR_CODE": "5055",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 3,
+                        "PR_NAME": "UNDERLINE THE FOLLOWING",
+                        "PR_CODE": "6607",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 4,
+                        "PR_NAME": "TRUE AND FALSE",
+                        "PR_CODE": "1879",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": [
+                            {
+                                "PR_QUESTION": "चुहिया का बिल पेड़ वेफ निकट था।",
+                                "PR_DESCRIPTION": "अशुद्ध् कथन पर गलत  तथा शुद्ध् कथन पर सही  का निशान लगाएँः",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "शुद्ध्"
+                            },
+                            {
+                                "PR_QUESTION": "सिं ह को चुहिया ने जाल में पँफसाया।",
+                                "PR_DESCRIPTION": "अशुद्ध् कथन पर गलत  तथा शुद्ध् कथन पर सही  का निशान लगाएँः",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "अशुद्ध्"
+                            },
+                            {
+                                "PR_QUESTION": "सिं ह जाल से बाहर न आ सका।",
+                                "PR_DESCRIPTION": "अशुद्ध् कथन पर गलत  तथा शुद्ध् कथन पर सही  का निशान लगाएँः",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "अशुद्ध्"
+                            },
+                            {
+                                "PR_QUESTION": "चुहिया ने ही सिं ह की जान बचाई।",
+                                "PR_DESCRIPTION": "अशुद्ध् कथन पर गलत  तथा शुद्ध् कथन पर सही  का निशान लगाएँः",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "शुद्ध्"
+                            }
+                        ]
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 5,
+                        "PR_NAME": "MATCH THE FOLLOWING",
+                        "PR_CODE": "7968",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 6,
+                        "PR_NAME": "MULTIPLE CHOICE QUESTIONS",
+                        "PR_CODE": "3834",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": [
+                            {
+                                "PR_QUESTION": "¯सह आराम किया करता था पेड़ कीµ",
+                                "PR_DESCRIPTION": "शुद्ध् विकल्प पर सही  का निशान लगाएँः",
+                                "PR_FIRST_OPTION": "टहनी पर",
+                                "PR_SECOND_OPTION": "छाया म",
+                                "PR_THIRD_OPTION": "चोटी पर",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "छाया म"
+                            },
+                            {
+                                "PR_QUESTION": "चुहिया का बिल बरगद वेफ पेड़ से थाµ",
+                                "PR_DESCRIPTION": "शुद्ध् विकल्प पर सही  का निशान लगाएँः",
+                                "PR_FIRST_OPTION": "नकट",
+                                "PR_SECOND_OPTION": "दूर",
+                                "PR_THIRD_OPTION": "न निकट न दूर",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "निकट"
+                            },
+                            {
+                                "PR_QUESTION": "¯सह ने चुहिया को पकड़ लिया अपनेµ",
+                                "PR_DESCRIPTION": "शुद्ध् विकल्प पर सही  का निशान लगाएँः",
+                                "PR_FIRST_OPTION": "मुँह म",
+                                "PR_SECOND_OPTION": "बालों म",
+                                "PR_THIRD_OPTION": "पंजे में",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "पंजे म"
+                            }
+                        ]
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 7,
+                        "PR_NAME": "SHORT ANSWER TYPE QUESTIONS",
+                        "PR_CODE": "9387",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": [
+                            {
+                                "PR_QUESTION": "सिं ह कहाँ रहता था?",
+                                "PR_DESCRIPTION": "निम्नलिखित प्रश्नों के मौखिक उत्तर देंः",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "एक घने वन म"
+                            },
+                            {
+                                "PR_QUESTION": "सिं ह की माँद वेफ पास कौन-सा पेड़ था?",
+                                "PR_DESCRIPTION": "निम्नलिखित प्रश्नों के मौखिक उत्तर देंः",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "बरगद का"
+                            },
+                            {
+                                "PR_QUESTION": "सिं ह कहाँ सोया पड़ा था?",
+                                "PR_DESCRIPTION": "निम्नलिखित प्रश्नों के मौखिक उत्तर देंः",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "पेड़ की घनी छाया म"
+                            },
+                            {
+                                "PR_QUESTION": "चुहिया ने सिं ह से क्या कहा?",
+                                "PR_DESCRIPTION": "निम्नलिखित प्रश्नों के मौखिक उत्तर देंः",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "मुझे क्षमा कर दें।"
+                            },
+                            {
+                                "PR_QUESTION": "बरगद वेफ पेड़ की छाया वैफसी थी?",
+                                "PR_DESCRIPTION": "निम्नलिखित प्रश्नों के मौखिक उत्तर देंः",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "बरगद के पेड़ की छाया घनी थी।"
+                            },
+                            {
+                                "PR_QUESTION": "चुहिया क्या जोड़कर ¯सह से बोली?",
+                                "PR_DESCRIPTION": "निम्नलिखित प्रश्नों के मौखिक उत्तर देंः",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "चुहिया दोनों पंजे जोड़कर सिंह से बोली।"
+                            },
+                            {
+                                "PR_QUESTION": "पेड़ वेफ नीचे जाल किसने बिछाया?",
+                                "PR_DESCRIPTION": "निम्नलिखित प्रश्नों के मौखिक उत्तर देंः",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "पेड़ के नीचे जाल एक शिकारी ने बिछाया।"
+                            },
+                            {
+                                "PR_QUESTION": "निराश होकर ¯सह क्या करने लगा?",
+                                "PR_DESCRIPTION": "निम्नलिखित प्रश्नों के मौखिक उत्तर देंः",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "निराश होकर सिंह दहाड़ने लगा।"
+                            },
+                            {
+                                "PR_QUESTION": "चुहिया ने जाल की डोरियाँ वैफसे काटीं?",
+                                "PR_DESCRIPTION": "निम्नलिखित प्रश्नों के मौखिक उत्तर देंः",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "चुहिया ने जाल की डोरियाँ अपने दाँतों से काटीं।"
+                            }
+                        ]
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 8,
+                        "PR_NAME": "LONG ANSWER TYPE QUESTIONS",
+                        "PR_CODE": "3169",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 9,
+                        "PR_NAME": "MISCELLANEOUS",
+                        "PR_CODE": "9371",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 10,
+                        "PR_NAME": "WRITE TRUE OR FALSE",
+                        "PR_CODE": "8978",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": null,
+                        "PR_QUESTIONS": []
+                    }
+                ]
+            },
+            {
+                "PR_CHAPTER_ID": 443,
+                "PR_NAME": "हमारी गाय",
+                "PR_CODE": "7397",
+                "PR_ICON": "/media/default-img.png",
+                "PR_DESCRIPTION": "",
+                "PR_QUESTION_TYPE": [
+                    {
+                        "PR_QUESTION_TYPE_ID": 1,
+                        "PR_NAME": "FILL IN THE BLANK",
+                        "PR_CODE": "7141",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 2,
+                        "PR_NAME": "CIRCLE THE FOLLOWING",
+                        "PR_CODE": "5055",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 3,
+                        "PR_NAME": "UNDERLINE THE FOLLOWING",
+                        "PR_CODE": "6607",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 4,
+                        "PR_NAME": "TRUE AND FALSE",
+                        "PR_CODE": "1879",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": [
+                            {
+                                "PR_QUESTION": "गाय का दूध् हल्का होने वेफ कारण शीघ्र पच जाता है।",
+                                "PR_DESCRIPTION": "अशुद्ध् कथन पर गलत  तथा शुद्ध् कथन पर सही  का निशान लगाएँः",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "शुद्ध्"
+                            },
+                            {
+                                "PR_QUESTION": "गाय रखना पाप का कार्य माना जाता है।",
+                                "PR_DESCRIPTION": "अशुद्ध् कथन पर गलत  तथा शुद्ध् कथन पर सही  का निशान लगाएँः",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "अशुद्ध्"
+                            },
+                            {
+                                "PR_QUESTION": "गाय वेफ गोबर वेफ उपले बनाए जाते हैं।",
+                                "PR_DESCRIPTION": "अशुद्ध् कथन पर गलत  तथा शुद्ध् कथन पर सही  का निशान लगाएँः",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "शुद्ध्"
+                            },
+                            {
+                                "PR_QUESTION": "गाय का दान शुभ नहीं माना जाता।",
+                                "PR_DESCRIPTION": "अशुद्ध् कथन पर गलत  तथा शुद्ध् कथन पर सही  का निशान लगाएँः",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "अशुद्ध्"
+                            }
+                        ]
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 5,
+                        "PR_NAME": "MATCH THE FOLLOWING",
+                        "PR_CODE": "7968",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 6,
+                        "PR_NAME": "MULTIPLE CHOICE QUESTIONS",
+                        "PR_CODE": "3834",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": [
+                            {
+                                "PR_QUESTION": "गाय एक पशु हैµ",
+                                "PR_DESCRIPTION": "शुद्ध् विकल्प पर सही  का निशान लगाएँः",
+                                "PR_FIRST_OPTION": "सवारी का",
+                                "PR_SECOND_OPTION": "दुधरू",
+                                "PR_THIRD_OPTION": "भार",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "दुधारू"
+                            },
+                            {
+                                "PR_QUESTION": "गाय का दूध् पाचन की दृष्टि से होता हैµ",
+                                "PR_DESCRIPTION": "शुद्ध् विकल्प पर सही  का निशान लगाएँः",
+                                "PR_FIRST_OPTION": "हल्का",
+                                "PR_SECOND_OPTION": "भारी",
+                                "PR_THIRD_OPTION": "न हल्का न भारी",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "हल्का"
+                            },
+                            {
+                                "PR_QUESTION": "बच्चों तथा बूढ़ों वेफ लिए गाय का दूध् होता हैµ",
+                                "PR_DESCRIPTION": "शुद्ध् विकल्प पर सही  का निशान लगाएँः",
+                                "PR_FIRST_OPTION": "हानिकर",
+                                "PR_SECOND_OPTION": "बलदायी",
+                                "PR_THIRD_OPTION": "लाभकारी",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "लाभकारी"
+                            }
+                        ]
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 7,
+                        "PR_NAME": "SHORT ANSWER TYPE QUESTIONS",
+                        "PR_CODE": "9387",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": [
+                            {
+                                "PR_QUESTION": "गाय की कौन-सी दो चीज़ ें चार-चार होती हैं?",
+                                "PR_DESCRIPTION": "निम्नलिखित प्रश्नों के मौखिक उत्तर देंः",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "थन और टाँग"
+                            },
+                            {
+                                "PR_QUESTION": "गाय की कौन-सी तीन चीज़ ें दो-दो होती हैं?",
+                                "PR_DESCRIPTION": "निम्नलिखित प्रश्नों के मौखिक उत्तर देंः",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "सींग, आँखें और कान"
+                            },
+                            {
+                                "PR_QUESTION": "गाय की पूँछ वेफ निचले सिरे पर क्या होता है?",
+                                "PR_DESCRIPTION": "निम्नलिखित प्रश्नों के मौखिक उत्तर देंः",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "काले रंग के बालों का गुच्छा"
+                            },
+                            {
+                                "PR_QUESTION": "गाय वेफ बछड़े बड़े होकर क्या बनते हैं?",
+                                "PR_DESCRIPTION": "निम्नलिखित प्रश्नों के मौखिक उत्तर देंः",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "बैल"
+                            },
+                            {
+                                "PR_QUESTION": "गाय का दूध् किस शक्ति को बढ़ाता है?",
+                                "PR_DESCRIPTION": "निम्नलिखित प्रश्नों के मौखिक उत्तर देंः",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "स्मरण शक्ति का"
+                            },
+                            {
+                                "PR_QUESTION": "गाय का दूध् किस-किस वेफ लिए लाभकारी होता है?",
+                                "PR_DESCRIPTION": "निम्नलिखित प्रश्नों के मौखिक उत्तर देंः",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "बच्चे, जवान तथा बूढ़े सबके लिए"
+                            },
+                            {
+                                "PR_QUESTION": "गाय का दूध् वैफसा होता है?",
+                                "PR_DESCRIPTION": "निम्नलिखित प्रश्नों के मौखिक उत्तर देंः",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "गाय का दूध लाभकारी होता है।"
+                            },
+                            {
+                                "PR_QUESTION": "गाय को लोग वैफसी दृष्टि से देखते हैं?",
+                                "PR_DESCRIPTION": "निम्नलिखित प्रश्नों के मौखिक उत्तर देंः",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "गाय को लोग आदर की दृड्ढि से देखते हैं।"
+                            },
+                            {
+                                "PR_QUESTION": "गाय को क्या कहकर पुकारा जाता है?",
+                                "PR_DESCRIPTION": "निम्नलिखित प्रश्नों के मौखिक उत्तर देंः",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "गाय को गौ-माता कहकर पुकारा जाता है।"
+                            },
+                            {
+                                "PR_QUESTION": "गाय वेफ गोबर वेफ उपले किस काम आते हैं?",
+                                "PR_DESCRIPTION": "निम्नलिखित प्रश्नों के मौखिक उत्तर देंः",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "गाय के गोबर के उपले ईंधन के काम आते हैं।"
+                            },
+                            {
+                                "PR_QUESTION": "गाय की पूजा किस पर्व पर की जाती है?",
+                                "PR_DESCRIPTION": "निम्नलिखित प्रश्नों के मौखिक उत्तर देंः",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "गाय की पूजा कई पर्वों पर की जाती है।"
+                            },
+                            {
+                                "PR_QUESTION": "गाय वेफ दूध् से क्या-क्या बनता है?",
+                                "PR_DESCRIPTION": "निम्नलिखित प्रश्नों के मौखिक उत्तर देंः",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "गाय के दूध से दही, मक्खन तथा मिठाइयाँ आदि बनती हैं।"
+                            }
+                        ]
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 8,
+                        "PR_NAME": "LONG ANSWER TYPE QUESTIONS",
+                        "PR_CODE": "3169",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 9,
+                        "PR_NAME": "MISCELLANEOUS",
+                        "PR_CODE": "9371",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 10,
+                        "PR_NAME": "WRITE TRUE OR FALSE",
+                        "PR_CODE": "8978",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": null,
+                        "PR_QUESTIONS": []
+                    }
+                ]
+            },
+            {
+                "PR_CHAPTER_ID": 444,
+                "PR_NAME": "खिलौना",
+                "PR_CODE": "7227",
+                "PR_ICON": "/media/default-img.png",
+                "PR_DESCRIPTION": "",
+                "PR_QUESTION_TYPE": [
+                    {
+                        "PR_QUESTION_TYPE_ID": 1,
+                        "PR_NAME": "FILL IN THE BLANK",
+                        "PR_CODE": "7141",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 2,
+                        "PR_NAME": "CIRCLE THE FOLLOWING",
+                        "PR_CODE": "5055",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 3,
+                        "PR_NAME": "UNDERLINE THE FOLLOWING",
+                        "PR_CODE": "6607",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 4,
+                        "PR_NAME": "TRUE AND FALSE",
+                        "PR_CODE": "1879",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": [
+                            {
+                                "PR_QUESTION": "गांध्ी जी वेफ दो बंदर थे।",
+                                "PR_DESCRIPTION": "अशुद्ध् कथन पर गलत  तथा शुद्ध् कथन पर सही  का निशान लगाएँः",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "अशुद्ध्"
+                            },
+                            {
+                                "PR_QUESTION": "पहला बंदर अपने दोनों हाथों से मुँह बंद किए हुए है।",
+                                "PR_DESCRIPTION": "अशुद्ध् कथन पर गलत  तथा शुद्ध् कथन पर सही  का निशान लगाएँः",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "शुद्ध्"
+                            },
+                            {
+                                "PR_QUESTION": "बुरा बोलने से ही मित्राता होती है।",
+                                "PR_DESCRIPTION": "अशुद्ध् कथन पर गलत  तथा शुद्ध् कथन पर सही  का निशान लगाएँः",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "अशुद्ध्"
+                            },
+                            {
+                                "PR_QUESTION": "तीसरा बंदर कहता है कि बुरा मत देखो।",
+                                "PR_DESCRIPTION": "अशुद्ध् कथन पर गलत  तथा शुद्ध् कथन पर सही  का निशान लगाएँः",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "शुद्ध्"
+                            },
+                            {
+                                "PR_QUESTION": "गांध्ी जी वेफ तीनों बंदर हमें गहरी शिक्षा देते हैं।",
+                                "PR_DESCRIPTION": "अशुद्ध् कथन पर गलत  तथा शुद्ध् कथन पर सही  का निशान लगाएँः",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "शुद्ध्"
+                            }
+                        ]
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 5,
+                        "PR_NAME": "MATCH THE FOLLOWING",
+                        "PR_CODE": "7968",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 6,
+                        "PR_NAME": "MULTIPLE CHOICE QUESTIONS",
+                        "PR_CODE": "3834",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": [
+                            {
+                                "PR_QUESTION": "गांध्ी जी वेफ बंदर कितनी शिक्षाएँ देते हैं?",
+                                "PR_DESCRIPTION": "शुद्ध् विकल्प पर सही  का निशान लगाएँः",
+                                "PR_FIRST_OPTION": "दाे",
+                                "PR_SECOND_OPTION": "तीन",
+                                "PR_THIRD_OPTION": "अनगिनत",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "तीन"
+                            },
+                            {
+                                "PR_QUESTION": "गांध्ी जी खिलौने वाले बंदर कहाँ रखते थे?",
+                                "PR_DESCRIPTION": "शुद्ध् विकल्प पर सही  का निशान लगाएँः",
+                                "PR_FIRST_OPTION": "कमरे म",
+                                "PR_SECOND_OPTION": "अलमारी म",
+                                "PR_THIRD_OPTION": "जेब म",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "कमरे म"
+                            },
+                            {
+                                "PR_QUESTION": "गांध्ी जी को तीनों बंदर किससे मिले?",
+                                "PR_DESCRIPTION": "शुद्ध् विकल्प पर सही  का निशान लगाएँः",
+                                "PR_FIRST_OPTION": "सेवक स",
+                                "PR_SECOND_OPTION": "मित्रा स",
+                                "PR_THIRD_OPTION": "चर्चिल से",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "मित्र स"
+                            },
+                            {
+                                "PR_QUESTION": "बुरी बात सामने आने पर क्या बंद करना चाहिए?",
+                                "PR_DESCRIPTION": "शुद्ध् विकल्प पर सही  का निशान लगाएँः",
+                                "PR_FIRST_OPTION": "मुँह",
+                                "PR_SECOND_OPTION": "आँख्",
+                                "PR_THIRD_OPTION": "नाक",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "मुँह"
+                            }
+                        ]
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 7,
+                        "PR_NAME": "SHORT ANSWER TYPE QUESTIONS",
+                        "PR_CODE": "9387",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": [
+                            {
+                                "PR_QUESTION": "गांध्ी जी वेफ कितने बंदर थे?",
+                                "PR_DESCRIPTION": "निम्नलिखित प्रश्नों के मौखिक उत्तर देंः",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "तीन"
+                            },
+                            {
+                                "PR_QUESTION": "तीनों बंदर हमें वैफसी शिक्षा देते हैं?",
+                                "PR_DESCRIPTION": "निम्नलिखित प्रश्नों के मौखिक उत्तर देंः",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "बड़ी गहरी शिक्षा देते हैं।"
+                            },
+                            {
+                                "PR_QUESTION": "बुरा बोलने से क्या होता है?",
+                                "PR_DESCRIPTION": "निम्नलिखित प्रश्नों के मौखिक उत्तर देंः",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "लड़ाई होती है।"
+                            },
+                            {
+                                "PR_QUESTION": "दूसरा बंदर क्या शिक्षा देता है?",
+                                "PR_DESCRIPTION": "निम्नलिखित प्रश्नों के मौखिक उत्तर देंः",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "हमें किसी की निंदा नहीं करनी चाहिए।"
+                            },
+                            {
+                                "PR_QUESTION": "गांध्ी जी को तीनों बंदर किसने भेंट किए थे?",
+                                "PR_DESCRIPTION": "निम्नलिखित प्रश्नों के मौखिक उत्तर देंः",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "उनके मित्र ने।"
+                            },
+                            {
+                                "PR_QUESTION": "गांध्ी जी सदा किनकी बात मानते थे?",
+                                "PR_DESCRIPTION": "निम्नलिखित प्रश्नों के मौखिक उत्तर देंः",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "तीनों बंदरों की।"
+                            },
+                            {
+                                "PR_QUESTION": "कौन किसवेफ लिए क्या लेकर आया?",
+                                "PR_DESCRIPTION": "निम्नलिखित प्रश्नों के मौखिक उत्तर देंः",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "कमल अपनी बहन अंशु के लिए खिलौना लाया"
+                            },
+                            {
+                                "PR_QUESTION": "पहला बंदर क्या कर रहा है?",
+                                "PR_DESCRIPTION": "निम्नलिखित प्रश्नों के मौखिक उत्तर देंः",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "पहला बंदर अपने दोनों हाथों से मुँह बंद किए हुए था।"
+                            },
+                            {
+                                "PR_QUESTION": "दूसरा बंदर क्या कर रहा है?",
+                                "PR_DESCRIPTION": "निम्नलिखित प्रश्नों के मौखिक उत्तर देंः",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "दूसरा बंदर अपने दोनों हाथों से कान बंद किए हुए था।"
+                            },
+                            {
+                                "PR_QUESTION": "तीसरा बंदर क्या शिक्षा दे रहा है?",
+                                "PR_DESCRIPTION": "निम्नलिखित प्रश्नों के मौखिक उत्तर देंः",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "तीसरा बंदर दोनों हाथों से अपनी आँखें बंद करके बुराई न देखने की शिक्षा दे रहा है।"
+                            },
+                            {
+                                "PR_QUESTION": "लड़ाई की जड़ क्या होती है?",
+                                "PR_DESCRIPTION": "निम्नलिखित प्रश्नों के मौखिक उत्तर देंः",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "लड़ाई की जड़ बुरे वचन ही होते हैं।"
+                            }
+                        ]
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 8,
+                        "PR_NAME": "LONG ANSWER TYPE QUESTIONS",
+                        "PR_CODE": "3169",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 9,
+                        "PR_NAME": "MISCELLANEOUS",
+                        "PR_CODE": "9371",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 10,
+                        "PR_NAME": "WRITE TRUE OR FALSE",
+                        "PR_CODE": "8978",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": null,
+                        "PR_QUESTIONS": []
+                    }
+                ]
+            },
+            {
+                "PR_CHAPTER_ID": 445,
+                "PR_NAME": "अंगूर खट्टे हैं",
+                "PR_CODE": "2496",
+                "PR_ICON": "/media/default-img.png",
+                "PR_DESCRIPTION": "",
+                "PR_QUESTION_TYPE": [
+                    {
+                        "PR_QUESTION_TYPE_ID": 1,
+                        "PR_NAME": "FILL IN THE BLANK",
+                        "PR_CODE": "7141",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 2,
+                        "PR_NAME": "CIRCLE THE FOLLOWING",
+                        "PR_CODE": "5055",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 3,
+                        "PR_NAME": "UNDERLINE THE FOLLOWING",
+                        "PR_CODE": "6607",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 4,
+                        "PR_NAME": "TRUE AND FALSE",
+                        "PR_CODE": "1879",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": [
+                            {
+                                "PR_QUESTION": "लोमडी अपनी पिछली टाँगों पर खड़ी होकर उछली।",
+                                "PR_DESCRIPTION": "अशुद्ध् कथन पर गलत  तथा शुद्ध् कथन पर सही  का निशान लगाएँः",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "शुद्ध्"
+                            },
+                            {
+                                "PR_QUESTION": "लोमड़ी वेफ अगले पंजे अंगूरों तक पहुँच गए।",
+                                "PR_DESCRIPTION": "अशुद्ध् कथन पर गलत  तथा शुद्ध् कथन पर सही  का निशान लगाएँः",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "अशुद्ध्"
+                            },
+                            {
+                                "PR_QUESTION": "अंत में लोमड़ी निराश हो गई।",
+                                "PR_DESCRIPTION": "अशुद्ध् कथन पर गलत  तथा शुद्ध् कथन पर सही  का निशान लगाएँः",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "शुद्ध्"
+                            },
+                            {
+                                "PR_QUESTION": "लोमड़ी ने कहा, ‘‘ये अंगूर अवश्य खट्टे हैं।’’",
+                                "PR_DESCRIPTION": "अशुद्ध् कथन पर गलत  तथा शुद्ध् कथन पर सही  का निशान लगाएँः",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "शुद्ध्"
+                            }
+                        ]
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 5,
+                        "PR_NAME": "MATCH THE FOLLOWING",
+                        "PR_CODE": "7968",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 6,
+                        "PR_NAME": "MULTIPLE CHOICE QUESTIONS",
+                        "PR_CODE": "3834",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 7,
+                        "PR_NAME": "SHORT ANSWER TYPE QUESTIONS",
+                        "PR_CODE": "9387",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": [
+                            {
+                                "PR_QUESTION": "लोमड़ी किसकी खोज में घूम रही थी?",
+                                "PR_DESCRIPTION": "निम्नलिखित प्रश्नों के मौखिक उत्तर देंः",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "भोजन की"
+                            },
+                            {
+                                "PR_QUESTION": "अंगूरों की बेल किस पर लिपटी हुई थी?",
+                                "PR_DESCRIPTION": "निम्नलिखित प्रश्नों के मौखिक उत्तर देंः",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "एक पेड़ पर"
+                            },
+                            {
+                                "PR_QUESTION": "क्या लोमड़ी अंगूरों तक पहुँच पाई?",
+                                "PR_DESCRIPTION": "निम्नलिखित प्रश्नों के मौखिक उत्तर देंः",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "नहीं।"
+                            },
+                            {
+                                "PR_QUESTION": "अंत में लोमड़ी ने क्या कहा?",
+                                "PR_DESCRIPTION": "निम्नलिखित प्रश्नों के मौखिक उत्तर देंः",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "ये अंगूर खट्टे हैं। इनके लिए इतना यत्न करना ठीक नहीं।"
+                            },
+                            {
+                                "PR_QUESTION": "घूमते-घूमते लोमड़ी किसवेफ समीप जा पहुँची?",
+                                "PR_DESCRIPTION": "निम्नलिखित प्रश्नों के मौखिक उत्तर देंः",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "घूमते-घूमते लोमड़ी एक पेड़ के समीप जा पहुँची।"
+                            },
+                            {
+                                "PR_QUESTION": "अंगूर देखकर लोमड़ी वेफ मुँह में क्या आ गया?",
+                                "PR_DESCRIPTION": "निम्नलिखित प्रश्नों के मौखिक उत्तर देंः",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "अंगूर देखकर लोमड़ी के मुँह में पानी आ गया।"
+                            },
+                            {
+                                "PR_QUESTION": "अंगूर तोड़ने वेफ लिए लोमड़ी वैफसे खड़ी हो गई?",
+                                "PR_DESCRIPTION": "निम्नलिखित प्रश्नों के मौखिक उत्तर देंः",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "अंगूर तोड़ने के लिए लोमड़ी पिछली दोनों टाँगों पर खड़ी हो गई।"
+                            },
+                            {
+                                "PR_QUESTION": "लोमड़ी अंगूरों तक क्यों न पहुँच पाई?",
+                                "PR_DESCRIPTION": "निम्नलिखित प्रश्नों के मौखिक उत्तर देंः",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "लोमड़ी अंगूरों तक इसलिए नहीं पहुँच पाई क्योंकि वे उसकी पहुँच से दूर थे।"
+                            },
+                            {
+                                "PR_QUESTION": "लोमड़ी वेफ अंतिम शब्दों वेफ पीछे क्या छिपा था?",
+                                "PR_DESCRIPTION": "निम्नलिखित प्रश्नों के मौखिक उत्तर देंः",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "लोमड़ी के अंतिम शब्दों के पीछे उसकी निराशा छिपी थी।"
+                            }
+                        ]
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 8,
+                        "PR_NAME": "LONG ANSWER TYPE QUESTIONS",
+                        "PR_CODE": "3169",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 9,
+                        "PR_NAME": "MISCELLANEOUS",
+                        "PR_CODE": "9371",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 10,
+                        "PR_NAME": "WRITE TRUE OR FALSE",
+                        "PR_CODE": "8978",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": null,
+                        "PR_QUESTIONS": []
+                    }
+                ]
+            },
+            {
+                "PR_CHAPTER_ID": 446,
+                "PR_NAME": "काॅप़ळी तथा चाय",
+                "PR_CODE": "6806",
+                "PR_ICON": "/media/default-img.png",
+                "PR_DESCRIPTION": "",
+                "PR_QUESTION_TYPE": [
+                    {
+                        "PR_QUESTION_TYPE_ID": 1,
+                        "PR_NAME": "FILL IN THE BLANK",
+                        "PR_CODE": "7141",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 2,
+                        "PR_NAME": "CIRCLE THE FOLLOWING",
+                        "PR_CODE": "5055",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 3,
+                        "PR_NAME": "UNDERLINE THE FOLLOWING",
+                        "PR_CODE": "6607",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 4,
+                        "PR_NAME": "TRUE AND FALSE",
+                        "PR_CODE": "1879",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": [
+                            {
+                                "PR_QUESTION": "जाॅन तथा गौतम ने कोई ठंडा पेय पीने की सोची।",
+                                "PR_DESCRIPTION": "अशुद्ध् कथन पर गलत  तथा शुद्ध् कथन पर सही  का निशान लगाएँः",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "अशुद्ध्"
+                            },
+                            {
+                                "PR_QUESTION": "दोनों मित्रा एक कपड़े की दुकान पर चले गए।",
+                                "PR_DESCRIPTION": "अशुद्ध् कथन पर गलत  तथा शुद्ध् कथन पर सही  का निशान लगाएँः",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "अशुद्ध्"
+                            },
+                            {
+                                "PR_QUESTION": "एक ़ मित्रा ने काॅपफी मँगवाई तथा दूसरे ने चाय।",
+                                "PR_DESCRIPTION": "अशुद्ध् कथन पर गलत  तथा शुद्ध् कथन पर सही  का निशान लगाएँः",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "शुद्ध्"
+                            },
+                            {
+                                "PR_QUESTION": "चाय ने काॅप़ फी मँगवाए जाने पर झगड़ा किया।",
+                                "PR_DESCRIPTION": "अशुद्ध् कथन पर गलत  तथा शुद्ध् कथन पर सही  का निशान लगाएँः",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "अशुद्ध्"
+                            },
+                            {
+                                "PR_QUESTION": "चाय तथा काॅप़ फी की बहस का अंत सुख-भरा हुआ।",
+                                "PR_DESCRIPTION": "अशुद्ध् कथन पर गलत  तथा शुद्ध् कथन पर सही  का निशान लगाएँः",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "अशुद्ध्"
+                            }
+                        ]
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 5,
+                        "PR_NAME": "MATCH THE FOLLOWING",
+                        "PR_CODE": "7968",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 6,
+                        "PR_NAME": "MULTIPLE CHOICE QUESTIONS",
+                        "PR_CODE": "3834",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": [
+                            {
+                                "PR_QUESTION": "जनवरी वेफ महीने में यौवन पर होती हैµ",
+                                "PR_DESCRIPTION": "शुद्ध् विकल्प पर सही  का निशान लगाएँः",
+                                "PR_FIRST_OPTION": "गरमी",
+                                "PR_SECOND_OPTION": "ठंड",
+                                "PR_THIRD_OPTION": "बरसात",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "ठंड"
+                            },
+                            {
+                                "PR_QUESTION": "दोनों मित्रों ने पीने की सोचीµ",
+                                "PR_DESCRIPTION": "शुद्ध् विकल्प पर सही  का निशान लगाएँः",
+                                "PR_FIRST_OPTION": "गरम पेय",
+                                "PR_SECOND_OPTION": "ठंडा पेय",
+                                "PR_THIRD_OPTION": "साधरण जल",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "गरम पेय"
+                            },
+                            {
+                                "PR_QUESTION": "दोनों मित्रों वेफ अलग-अलग पेय मँगवाने पर भड़क उठीµ",
+                                "PR_DESCRIPTION": "शुद्ध् विकल्प पर सही  का निशान लगाएँः",
+                                "PR_FIRST_OPTION": "चाय",
+                                "PR_SECOND_OPTION": "काॅपफी",
+                                "PR_THIRD_OPTION": "दोनों",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "काॅप़ळी"
+                            },
+                            {
+                                "PR_QUESTION": "चाय तथा काॅपफी दोनों की बहस का अंत हुआµ",
+                                "PR_DESCRIPTION": "शुद्ध् विकल्प पर सही  का निशान लगाएँः",
+                                "PR_FIRST_OPTION": "सुख-भरा",
+                                "PR_SECOND_OPTION": "दुख-भरा",
+                                "PR_THIRD_OPTION": "ाोक-भरा",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "दुख-भरा"
+                            },
+                            {
+                                "PR_QUESTION": "सिपाही क्या सुनकर दुकान वेफ भीतर आ गया?",
+                                "PR_DESCRIPTION": "शुद्ध् विकल्प पर सही  का निशान लगाएँः",
+                                "PR_FIRST_OPTION": "कोलाहल",
+                                "PR_SECOND_OPTION": "गीत",
+                                "PR_THIRD_OPTION": "झगड़ा",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "कोलाहल"
+                            }
+                        ]
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 7,
+                        "PR_NAME": "SHORT ANSWER TYPE QUESTIONS",
+                        "PR_CODE": "9387",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": [
+                            {
+                                "PR_QUESTION": "इस कहानी में मित्रा कौन-कौन हैं?",
+                                "PR_DESCRIPTION": "निम्नलिखित प्रश्नों वेफ मौखिक उत्तर देंः",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "जाॅन तथा गौतम।"
+                            },
+                            {
+                                "PR_QUESTION": "यह कहानी किस महीने की है?",
+                                "PR_DESCRIPTION": "निम्नलिखित प्रश्नों वेफ मौखिक उत्तर देंः",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "जनवरी महीने की।"
+                            },
+                            {
+                                "PR_QUESTION": "दोनों मित्रा कहाँ जा बैठे?",
+                                "PR_DESCRIPTION": "निम्नलिखित प्रश्नों वेफ मौखिक उत्तर देंः",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "दुकान में।"
+                            },
+                            {
+                                "PR_QUESTION": "अचानक ़ किस कप में से आवाज आई?",
+                                "PR_DESCRIPTION": "निम्नलिखित प्रश्नों वेफ मौखिक उत्तर देंः",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "काॅप़ळी के कप में से।"
+                            },
+                            {
+                                "PR_QUESTION": "बहस किस-किस में होने लगी?",
+                                "PR_DESCRIPTION": "निम्नलिखित प्रश्नों वेफ मौखिक उत्तर देंः",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "काॅफी और चाय के कप में।"
+                            },
+                            {
+                                "PR_QUESTION": "अचानक दुकान वेफ अंदर कौन आ गया?",
+                                "PR_DESCRIPTION": "निम्नलिखित प्रश्नों वेफ मौखिक उत्तर देंः",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "एक सिपाही।"
+                            },
+                            {
+                                "PR_QUESTION": "जनवरी का महीना किस मौसम में आता है?",
+                                "PR_DESCRIPTION": "निम्नलिखित प्रश्नों वेफ लिखित उत्तर देंः",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "जनवरी का महीना ठंड के मौसम में आता है।"
+                            },
+                            {
+                                "PR_QUESTION": "दोनों मित्रा दुकान पर कौन-सा पेय पीने गए?",
+                                "PR_DESCRIPTION": "निम्नलिखित प्रश्नों वेफ लिखित उत्तर देंः",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "दोनों मित्र दुकान में चाय पीने गए।"
+                            },
+                            {
+                                "PR_QUESTION": "काॅप़ फी तथा चाय वेफ झगड़े पर कौन चकित थे?",
+                                "PR_DESCRIPTION": "निम्नलिखित प्रश्नों वेफ लिखित उत्तर देंः",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "काॅप़ळी तथा चाय के झगड़े पर दोनों मित्र चकित थे।"
+                            },
+                            {
+                                "PR_QUESTION": "दुकान वेफ आगे से कौन गुशर रहा था?",
+                                "PR_DESCRIPTION": "निम्नलिखित प्रश्नों वेफ लिखित उत्तर देंः",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "दुकान के आगे से एक सिपाही गुज़र रहा था।"
+                            },
+                            {
+                                "PR_QUESTION": "काॅप़ फी तथा चाय को कहाँ ले जाया गया?",
+                                "PR_DESCRIPTION": "निम्नलिखित प्रश्नों वेफ लिखित उत्तर देंः",
+                                "PR_FIRST_OPTION": "",
+                                "PR_SECOND_OPTION": "",
+                                "PR_THIRD_OPTION": "",
+                                "PR_FOURTH_OPTION": "",
+                                "PR_FIFTH_OPTION": "",
+                                "PR_ANSWER": "काॅप़ळी तथा चाय को थाने ले जाया गया।"
+                            }
+                        ]
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 8,
+                        "PR_NAME": "LONG ANSWER TYPE QUESTIONS",
+                        "PR_CODE": "3169",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 9,
+                        "PR_NAME": "MISCELLANEOUS",
+                        "PR_CODE": "9371",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": "",
+                        "PR_QUESTIONS": []
+                    },
+                    {
+                        "PR_QUESTION_TYPE_ID": 10,
+                        "PR_NAME": "WRITE TRUE OR FALSE",
+                        "PR_CODE": "8978",
+                        "PR_ICON": "/media/default-img.png",
+                        "PR_DESCRIPTION": null,
+                        "PR_QUESTIONS": []
+                    }
+                ]
+            }
+        ]
+    }
+}
