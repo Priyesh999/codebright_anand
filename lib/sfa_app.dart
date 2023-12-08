@@ -76,7 +76,7 @@ class _SfaAppState extends State<SfaApp> {
             );
           }
           return GetMaterialApp(
-            title: "digigyan",
+            title: "Anand",
             debugShowCheckedModeBanner: false,
             initialRoute: snapshot.data != null ? Routes.HOME : Routes.SPLASH,
             getPages: AppPages.routes,

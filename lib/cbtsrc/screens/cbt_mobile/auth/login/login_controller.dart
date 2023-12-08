@@ -89,9 +89,9 @@ class LoginController extends GetxController {
                 await prefHandler
                     .setEmployeeCode(apiResponse.resObject!.prEmployeeCode!);
 
-                await prefHandler.setDesignationId(apiResponse
-                    .resObject!.prDesignation!.prDesignationId
-                    .toString());
+                // await prefHandler.setDesignationId(apiResponse
+                //     .resObject!.prDesignation!.prDesignationId
+                //     .toString());
 
                 if (GetPlatform.isWeb) {
                   await prefHandler.setLogIn(true);

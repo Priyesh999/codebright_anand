@@ -18,10 +18,10 @@ import '../../../cbt_data/cbt_db/cache/preference_handler.dart';
 import '../../../cbt_helpers/dailog/custom_alert_dialog.dart';
 
 const List<String> navigationBarTitles = [
-  LocaleKeys.screenTitle_browse,
+  // LocaleKeys.screenTitle_browse,
   LocaleKeys.screenTitle_services,
-  LocaleKeys.screenTitle_dashboard,
-  LocaleKeys.screenTitle_more,
+  // LocaleKeys.screenTitle_dashboard,
+  // LocaleKeys.screenTitle_more,
 ];
 
 class HomeAdminView extends GetView<HomeAdminController> {
@@ -58,16 +58,16 @@ class HomeAdminView extends GetView<HomeAdminController> {
                     ),
                   ),
                   onPressed: () async => {
-                  CustomAlertDialog.showPresenceAlert(
-                  title: "Logout!!",
-                  message: "Are you sure to logout?",
-                  onCancel: () => Get.back(),
-                  onConfirm: () async {
-                  prefHandler.logout();
-                  Get.to(SplashView());
-                  // Get.toNamed(Routes.HOME_ADMIN);
-                  },
-                  )
+                        CustomAlertDialog.showPresenceAlert(
+                          title: "Logout!!",
+                          message: "Are you sure to logout?",
+                          onCancel: () => Get.back(),
+                          onConfirm: () async {
+                            prefHandler.logout();
+                            Get.to(SplashView());
+                            // Get.toNamed(Routes.HOME_ADMIN);
+                          },
+                        )
                       })
             ],
           ),
@@ -120,32 +120,32 @@ class HomeAdminView extends GetView<HomeAdminController> {
           Expanded(
             child: Row(
               children: [
-                context.width > 700.0
-                    ? context.height < 500
-                        ? SingleChildScrollView(
-                            controller: ScrollController(),
-                            child: ConstrainedBox(
-                              constraints: BoxConstraints(maxHeight: 500),
-                              child: BigScreenNavigationBar(
-                                controller: controller,
-                                navigationBarTitles: navigationBarTitles,
-                              ),
-                            ),
-                          )
-                        : BigScreenNavigationBar(
-                            controller: controller,
-                            navigationBarTitles: navigationBarTitles,
-                          )
-                    : Container(),
+                // context.width > 700.0
+                //     ? context.height < 500
+                //         ? SingleChildScrollView(
+                //             controller: ScrollController(),
+                //             child: ConstrainedBox(
+                //               constraints: BoxConstraints(maxHeight: 500),
+                //               child: BigScreenNavigationBar(
+                //                 controller: controller,
+                //                 navigationBarTitles: navigationBarTitles,
+                //               ),
+                //             ),
+                //           )
+                //         : BigScreenNavigationBar(
+                //             controller: controller,
+                //             navigationBarTitles: navigationBarTitles,
+                //           )
+                //     : Container(),
                 Expanded(
                   child: PageView(
                       controller: controller.pageController,
                       physics: const NeverScrollableScrollPhysics(),
                       children: [
-                        HomeView(),
+                        // HomeView(),
                         MasterView(),
-                        CrmDashboard(),
-                        MoreView(),
+                        // CrmDashboard(),
+                        // MoreView(),
                       ]),
                 )
               ],

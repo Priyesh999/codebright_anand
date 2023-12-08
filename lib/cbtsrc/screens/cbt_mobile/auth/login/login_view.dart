@@ -1,4 +1,3 @@
-
 import 'package:digigyan/cbtsrc/cbt_helpers/app_utilities/method_utils.dart';
 import 'package:digigyan/cbtsrc/cbt_helpers/cbo_responsive.dart';
 import 'package:digigyan/cbtsrc/cbt_helpers/dxwidget/codebright_input_fields.dart';
@@ -131,7 +130,7 @@ class LoginView extends GetView<LoginController> {
                                   width: size.width,
                                   child: ElevatedButton(
                                       style: MethodUtils.raisedButtonStyle(
-                                          Colors.red),
+                                          Colors.brown),
                                       onPressed: () => controller.login(),
                                       child: DxTextWhite(
                                         "Login",

@@ -2,9 +2,7 @@ import 'dart:io';
 
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:digigyan/cbtsrc/utils/appIcons.dart';
 import 'package:image_network/image_network.dart';
-
 
 abstract class AppImages {
   // static const root = 'assets/images';
@@ -13,12 +11,12 @@ abstract class AppImages {
   static String imageExt(String path) => "assets/images/$path";
 
   // static String get cbtLogo => imageExt("logo.png");
-  static String get cbtLogo => imageExt("DigiGyan.png");
+  static String get cbtLogo => imageExt("logo_aaa.jpeg");
 
   static String get bg => imageExt("bg.png");
 
   // static String get cbtLogoSingle => imageExt("ic_logo.png");
-  static String get cbtLogoSingle => imageExt("DigiGyan.png");
+  static String get cbtLogoSingle => imageExt("logo_aaa.jpeg");
 
   static String get qr => imageExt("qr.jpeg");
 
@@ -69,8 +67,11 @@ abstract class AppImages {
   static String get sketch => imageExt("sketch.png");
 
   static String get apple => imageExt("apple.png");
+
   static String get simulation => imageExt("sml_png.png");
+
   static String get video => imageExt("video_png.png");
+
   static String get pdf => imageExt("pdf_png.png");
 
   static String get spotify => imageExt("spotify.png");
@@ -107,9 +108,9 @@ abstract class AppImages {
 
   static String get user4 => imageExt("user4.jpg");
 
-  static String get digigyanLogo => imageExt("DigiGyan.png");
+  static String get digigyanLogo => imageExt("logo_aaa.jpeg");
 
-  static String get digigyanLogo2 => imageExt("digiGyam.jpeg");
+  static String get digigyanLogo2 => imageExt("logo_aaa.jpeg");
 
   static const String defaultIDoctorImagePath =
       "https://image.freepik.com/free-vector/doctor-icon-avatar-white_136162-58.jpg";
@@ -154,8 +155,6 @@ abstract class AppImages {
 
   static bool isPdfTypeOfURL(String fileName) =>
       fileName.contains(".pdf") || fileName.contains(".PDF");
-
-
 
   static Widget getNetworkImage(String url, {BoxFit boxFit = BoxFit.cover}) {
     // return CachedNetworkImage(

@@ -479,16 +479,16 @@ class UserModel {
         prViewPassword: json["PR_VIEW_PASSWORD"] ?? "",
         prEmployeeCode: json["PR_EMPLOYEE_CODE"] ?? "",
         prName: json["PR_NAME"] ?? "",
-        prCompany: json["PR_COMPANY"] == null
-            ? null
-            : PrCompany.fromJson(json["PR_COMPANY"]),
-        prDepartment: json["PR_DEPARTMENT"] == null
-            ? null
-            : PrDepartment.fromJson(json["PR_DEPARTMENT"]),
-        prDesignation: json["PR_DESIGNATION"] == null
-            ? null
-            : PrDesignation.fromJson(json["PR_DESIGNATION"]),
-        prReportingManager: json["PR_REPORTING_MANAGER"] ?? 0,
+        // prCompany: json["PR_COMPANY"] == null
+        //     ? null
+        //     : PrCompany.fromJson(json["PR_COMPANY"]),
+        // prDepartment: json["PR_DEPARTMENT"] == null
+        //     ? null
+        //     : PrDepartment.fromJson(json["PR_DEPARTMENT"]),
+        // prDesignation: json["PR_DESIGNATION"] == null
+        //     ? null
+        //     : PrDesignation.fromJson(json["PR_DESIGNATION"]),
+        // prReportingManager: json["PR_REPORTING_MANAGER"] ?? 0,
         prEmail: json["PR_EMAIL"] ?? "",
         prCompanyEmail: json["PR_COMPANY_EMAIL"] ?? "",
         prPhone: json["PR_PHONE"] ?? "",
@@ -514,15 +514,15 @@ class UserModel {
         prUpdatedAt: json["PR_UPDATED_AT"] == null
             ? null
             : DateTime.parse(json["PR_UPDATED_AT"]),
-        prEmployeeDetails: json["PR_EMPLOYEE_DETAILS"] == null
-            ? null
-            : PrEmployeeDetails.fromJson(json["PR_EMPLOYEE_DETAILS"]),
-        prParsentAddress: json["PR_PARSENT_ADDRESS"] == null
-            ? null
-            : PrPentAddress.fromJson(json["PR_PARSENT_ADDRESS"]),
-        prPermanentAddress: json["PR_PERMANENT_ADDRESS"] == null
-            ? null
-            : PrPentAddress.fromJson(json["PR_PERMANENT_ADDRESS"]),
+        // prEmployeeDetails: json["PR_EMPLOYEE_DETAILS"] == null
+        //     ? null
+        //     : PrEmployeeDetails.fromJson(json["PR_EMPLOYEE_DETAILS"]),
+        // prParsentAddress: json["PR_PARSENT_ADDRESS"] == null
+        //     ? null
+        //     : PrPentAddress.fromJson(json["PR_PARSENT_ADDRESS"]),
+        // prPermanentAddress: json["PR_PERMANENT_ADDRESS"] == null
+        //     ? null
+        //     : PrPentAddress.fromJson(json["PR_PERMANENT_ADDRESS"]),
       );
 
   Map<String, dynamic> toJson() => {

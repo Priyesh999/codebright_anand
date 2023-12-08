@@ -1,6 +1,6 @@
 abstract class ApiUrls {
   static String cbtBaseUrl(String endPoint) =>
-      "http://demo.codebright.in/$endPoint";
+      "http://api-anand-publication.codebright.in/$endPoint";
 
   // "http://demo.codebright.in/$endPoint";
   //
@@ -31,12 +31,12 @@ abstract class ApiUrls {
   //             : cbtBaseUrl("$endPoint$employeeID/$formID");
 
   static String base_url_web_form(String endPoint,
-      {String employeeID = "", String formID = ""}) =>
+          {String employeeID = "", String formID = ""}) =>
       formID.isEmpty && employeeID.isEmpty
           ? cbtBaseUrl("$endPoint")
           : formID.isEmpty
-          ? cbtBaseUrl("$endPoint/$employeeID")
-          : cbtBaseUrl("$endPoint$employeeID/$formID");
+              ? cbtBaseUrl("$endPoint/$employeeID")
+              : cbtBaseUrl("$endPoint$employeeID/$formID");
 
   // static String get login => base_url_web("employee-api/employee-login");
   static String get login => cbtBaseUrl("account-api/user-login");

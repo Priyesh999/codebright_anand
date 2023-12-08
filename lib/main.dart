@@ -12,7 +12,7 @@ void main() async {
   // await CoreInitializers.initServices();
   Get.put(PresenceController(), permanent: true);
   Get.put(PageIndexController(), permanent: true);
-  await GetStorage.init('DigiGyan');
+  await GetStorage.init('Anand');
   WidgetsFlutterBinding.ensureInitialized();
   // final controller = Get.put(LocalStorageService(), permanent: true);
 
@@ -36,7 +36,7 @@ void main() async {
           );
         }
         return GetMaterialApp(
-          title: "digigyan",
+          title: "Anand",
           locale: Get.deviceLocale,
           fallbackLocale: const Locale('en', 'US'),
           debugShowCheckedModeBanner: false,
